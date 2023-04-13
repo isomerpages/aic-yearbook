@@ -1,5 +1,5 @@
 collections:
-  example-folder:
+  building-a-future-ready-aic:
     output: true
     order:
       - example-subfolder/.keep
