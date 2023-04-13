@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Title
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -26,7 +26,7 @@ sections:
   - infobar:
       url: /faq/
   - infopic:
-      title: "Messages by our Chairman and CEO "
+      title: Messages by our Chairman and CEO
       description: Nam quis nulla. Integer malesuada. In in enim a arcu imperdiet
         malesuada. Sed vel lectus. Donec odio urna, tempus molestie, porttitor
         ut, iaculis quis, sem. Pha
