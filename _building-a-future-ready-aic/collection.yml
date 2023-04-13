@@ -1,4 +1,5 @@
 collections:
   building-a-future-ready-aic:
     output: true
-    order: []
+    order:
+      - Developing Our People/.keep
