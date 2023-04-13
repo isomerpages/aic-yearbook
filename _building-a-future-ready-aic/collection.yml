@@ -2,5 +2,6 @@ collections:
   building-a-future-ready-aic:
     output: true
     order:
+      - Developing Our People/Enhanced Development Journeys.md
       - Developing Our People/Corporate Project Team.md
       - Developing Our People/.keep
