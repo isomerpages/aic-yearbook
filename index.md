@@ -22,7 +22,7 @@ sections:
           url: ""
         - title: Building a Future-Ready AIC
           description: Lorem ipsum dolor sit amet, c
-          url: ""
+          url: /building-a-future-ready-aic/developing-our-people/corporate-project-team/
   - infobar:
       url: /faq/
   - infopic:
