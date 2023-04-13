@@ -32,7 +32,8 @@ sections:
         ut, iaculis quis, sem. Pha
       button: Read More
       url: /
-      alt: Image alt text
+      alt: picture of ceo and chairman
+      image: /images/0 - messages by our chairman and ceo.png
   - infopic:
       title: Empowering Seniors and Clients
       description: Nam quis nulla. Integer malesuada. In in enim a arcu imperdiet
@@ -40,7 +41,8 @@ sections:
         ut, iaculis quis, sem. Pha
       button: Read More
       url: /
-      alt: Image alt text
+      alt: alt text
+      image: /images/1 - empowering seniors and clients.png
   - infopic:
       title: Anchoring Care in Local Communities
       description: Nam quis nulla. Integer malesuada. In in enim a arcu imperdiet
@@ -49,6 +51,7 @@ sections:
       button: Read More
       url: /
       alt: Image alt text
+      image: /images/2 - anchoring care in local communities.png
   - infopic:
       title: Building a Robust and Capable Sector
       description: Nam quis nulla. Integer malesuada. In in enim a arcu imperdiet
@@ -57,6 +60,7 @@ sections:
       button: Read More
       url: /
       alt: Image alt text
+      image: /images/3 - building a robust and capable sector.png
   - infopic:
       title: Building a Future-Ready AIC
       description: Nam quis nulla. Integer malesuada. In in enim a arcu imperdiet
@@ -65,4 +69,5 @@ sections:
       button: Read More
       url: /
       alt: Image alt text
+      image: /images/4 - building a future-ready aic.png
 ---
