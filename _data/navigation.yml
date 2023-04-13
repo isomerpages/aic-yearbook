@@ -2,17 +2,30 @@ logo: /images/aic-logo.png
 links:
   - title: CEO/Chairman's Message
     url: /permalink
-    sublinks: []
   - title: 2022 In Review
     url: /permalink
     sublinks:
+      - title: Empowering Seniors And Clients
+        url: /permalink
+      - title: Anchoring Care In Communities
+        url: /permalink
+      - title: Building A Robust Sector
+        url: /permalink
       - title: Building A Future-Ready AIC
         url: /building-a-future-ready-aic/developing-our-people/corporate-project-team/
   - title: About Us
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: Our Organisation
+        url: /permalink
+      - title: Our Leadership
+        url: /permalink
+      - title: Our Key Committees
+        url: /permalink
   - title: Past Yearbooks
     url: /permalink
     sublinks:
-      - title: Submenu Title
+      - title: 2019 - 2020
+        url: /permalink
+      - title: "2021"
         url: /permalink
