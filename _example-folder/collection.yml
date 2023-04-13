@@ -2,6 +2,5 @@ collections:
   example-folder:
     output: true
     order:
-      - Building A Future Ready AIC.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
