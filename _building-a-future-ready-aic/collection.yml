@@ -1,6 +1,4 @@
 collections:
   building-a-future-ready-aic:
     output: true
-    order:
-      - example-subfolder/.keep
-      - example-subfolder/subfolder-page.md
+    order: []
