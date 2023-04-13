@@ -2,5 +2,6 @@ collections:
   building-a-future-ready-aic:
     output: true
     order:
+      - Building a Future Ready AIC/.keep
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
