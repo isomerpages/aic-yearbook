@@ -4,7 +4,7 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: Making Waves  In Our Communities.
@@ -24,9 +24,45 @@ sections:
           description: Lorem ipsum dolor sit amet, c
           url: ""
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
       url: /faq/
+  - infopic:
+      title: "Messages by our Chairman and CEO "
+      description: Nam quis nulla. Integer malesuada. In in enim a arcu imperdiet
+        malesuada. Sed vel lectus. Donec odio urna, tempus molestie, porttitor
+        ut, iaculis quis, sem. Pha
+      button: Read More
+      url: /
+      alt: Image alt text
+  - infopic:
+      title: Empowering Seniors and Clients
+      description: Nam quis nulla. Integer malesuada. In in enim a arcu imperdiet
+        malesuada. Sed vel lectus. Donec odio urna, tempus molestie, porttitor
+        ut, iaculis quis, sem. Pha
+      button: Read More
+      url: /
+      alt: Image alt text
+  - infopic:
+      title: Anchoring Care in Local Communities
+      description: Nam quis nulla. Integer malesuada. In in enim a arcu imperdiet
+        malesuada. Sed vel lectus. Donec odio urna, tempus molestie, porttitor
+        ut, iaculis quis, sem. Pha
+      button: Read More
+      url: /
+      alt: Image alt text
+  - infopic:
+      title: Building a Robust and Capable Sector
+      description: Nam quis nulla. Integer malesuada. In in enim a arcu imperdiet
+        malesuada. Sed vel lectus. Donec odio urna, tempus molestie, porttitor
+        ut, iaculis quis, sem. Pha
+      button: Read More
+      url: /
+      alt: Image alt text
+  - infopic:
+      title: Building a Future-Ready AIC
+      description: Nam quis nulla. Integer malesuada. In in enim a arcu imperdiet
+        malesuada. Sed vel lectus. Donec odio urna, tempus molestie, porttitor
+        ut, iaculis quis, sem. Pha
+      button: Read More
+      url: /
+      alt: Image alt text
 ---
