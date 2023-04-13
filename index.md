@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Making Waves  In Our Communities.
       subtitle: AIC Yearbook FY2022
-      background: /images/hero-banner.png
+      background: /images/hero image.png
       key_highlights:
         - title: Empowering Seniors and Clients
           description: Lorem ipsum dolor sit amet, ca
