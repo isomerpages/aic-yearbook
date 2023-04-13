@@ -23,8 +23,6 @@ sections:
         - title: Building a Future-Ready AIC
           description: Lorem ipsum dolor sit amet, c
           url: /building-a-future-ready-aic/developing-our-people/corporate-project-team/
-  - infobar:
-      url: /faq/
   - infopic:
       title: Messages by our Chairman and CEO
       description: Nam quis nulla. Integer malesuada. In in enim a arcu imperdiet
