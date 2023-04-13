@@ -2,8 +2,8 @@ collections:
   building-a-future-ready-aic:
     output: true
     order:
-      - Developing Our People/Innovation & Learning Fiesta.md
-      - Developing Our People/AIC SkillsFuture Credit.md
-      - Developing Our People/Enhanced Development Journeys.md
-      - Developing Our People/Corporate Project Team.md
       - Developing Our People/.keep
+      - Developing Our People/Corporate Project Team.md
+      - Developing Our People/Enhanced Development Journeys.md
+      - Developing Our People/AIC SkillsFuture Credit.md
+      - Developing Our People/Innovation & Learning Fiesta.md
