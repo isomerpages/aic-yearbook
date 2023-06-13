@@ -2,6 +2,7 @@ collections:
   our-leadership:
     output: true
     order:
+      - Board of Directors/.keep
       - Senior Management/Senior Management.md
       - Senior Management/.keep
       - Board of Directors.md
