@@ -3,9 +3,13 @@ title: Senior Management
 permalink: /senior-management/
 description: ""
 ---
-| Column 1 | Column 2 |
-| -------- | -------- |
-| Text     | Text     |
+```
+<table>
+<tbody><tr>
+	<td>TEST</td>
+</tr>
+</tbody></table>
+```
 
 ![](/images/1-3%20image.png)
 
