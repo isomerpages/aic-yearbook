@@ -3,13 +3,11 @@ title: Senior Management
 permalink: /senior-management/
 description: ""
 ---
-```
 <table>
 <tbody><tr>
 	<td>TEST</td>
 </tr>
 </tbody></table>
-```
 
 ![](/images/1-3%20image.png)
 
