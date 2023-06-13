@@ -3,15 +3,6 @@ title: Senior Management
 permalink: /senior-management/
 description: ""
 ---
-<table>
-<tbody>
-	<tr>
-		<td width="33.3%">TEST</td>
-		<td width="33.3%">TEST</td>
-		<td width="33.3%">TEST</td>
-</tr>
-</tbody></table>
-
 ![](/images/1-3%20image.png)
 
 ![](/images/4-6%20image.png)
