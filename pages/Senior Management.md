@@ -4,8 +4,11 @@ permalink: /senior-management/
 description: ""
 ---
 <table>
-<tbody><tr>
-	<td>TEST</td>
+<tbody>
+	<tr>
+		<td width="33.3%">TEST</td>
+		<td width="33.3%">TEST</td>
+		<td width="33.3%">TEST</td>
 </tr>
 </tbody></table>
 
