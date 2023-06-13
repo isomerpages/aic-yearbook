@@ -3,11 +3,9 @@ title: Senior Management
 permalink: /senior-management/
 description: ""
 ---
-
-
-| Column 1 | Column 2 | Column 3 |
+| | | |
 | -------- | -------- | -------- |
-| ![](/images/1-3%20image.png)     | ![](/images/4-6%20image.png)     | ![](/images/7-9%20image.png)     |
+| ![](/images/1-3%20image.png) | ![](/images/4-6%20image.png) | ![](/images/7-9%20image.png) |
 
 
 
