@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Making Waves  In Our Communities.
+      title: Powering the Heart of Care
       subtitle: AIC Yearbook FY2022
       background: /images/hero image.png
       key_highlights:
