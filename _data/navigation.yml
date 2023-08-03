@@ -2,6 +2,9 @@ logo: /images/aic-logo.png
 links:
   - title: Towards Healthier SG
     url: /permalink
+    sublinks:
+      - title: Understanding Seniors’ Needs
+        url: /understanding-seniors-needs
   - title: Making it Count
     url: /permalink
     sublinks: []
@@ -16,8 +19,3 @@ links:
   - title: About Us
     url: /permalink
     sublinks: []
-  - title: Towards Healthier SG
-    url: /permalink
-    sublinks:
-      - title: Understanding Seniors’ Needs
-        url: /understanding-seniors-needs
