@@ -17,7 +17,7 @@ There is no doubt that Healthier SG is a long journey. We have taken the first s
 
 
 **Message from our Chief Executive Officer 
-Mr Tan Kwang Cheak **
+Mr Tan Kwang Cheak**
 
 At the rate Singapore is currently ageing, by 2030, 1 in 5 people will be above 65 years old. This adds greater significance — and weight — to the work that we do at AIC, as our aim is to enable Singaporeans to age well in place. 
 
