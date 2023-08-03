@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Powering the Heart of Care
       subtitle: AIC Yearbook FY2022
-      background: /images/herohires.jpeg
+      background: /images/herohires2.png
   - infopic:
       title: Hear from our Chairman and our CEO
       description: Our Chairman and CEO share their thoughts on the year passed and
