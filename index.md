@@ -15,7 +15,7 @@ sections:
       description: Our Chairman and CEO share their thoughts on the year passed and
         our way forward.
       button: Read More
-      url: /
+      url: /ceo-message/
       alt: picture of ceo and chairman
       image: /images/aic_homepage_06a.png
   - infopic:
