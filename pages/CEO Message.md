@@ -15,12 +15,9 @@ As the national care aggregator, we work closely with community and service part
 Already, our Silver Generation Office has engaged more than 228,000 seniors through Preventive Health Visits to understand their needs, share how Healthier SG can benefit them, and help them with enrolment. In tandem, we are onboarding General Practitioners and equipping them with the resources they need to take on the role of family doctors while preparing the Community Care sector and Active Ageing Centres to support seniors in following through with their health plans. 
 There is no doubt that Healthier SG is a long journey. We have taken the first steps in the right direction, and we have much more to do. It will take the concerted effort of the entire system to achieve better health outcomes for every Singaporean. Together, we can build a stronger Singapore and a healthier future for all.
 
-```
-<hr>
-```
 
 **Message from our Chief Executive Officer 
-Mr Tan Kwang Cheak ***
+Mr Tan Kwang Cheak **
 
 At the rate Singapore is currently ageing, by 2030, 1 in 5 people will be above 65 years old. This adds greater significance — and weight — to the work that we do at AIC, as our aim is to enable Singaporeans to age well in place. 
 
@@ -32,4 +29,4 @@ Our transformation is also built on the adoption of innovative technology and no
 
 While we work as #OneAICFamily to fulfil our mission building a robust and connected care community, we must not forget that care needs of those we serve are not static. Along with longer lifespans, we must be ready to adapt and cater to changing lifestyles, societal norms, behaviours and expectations. 
 
-AIC’s transformation journey will continue to unfold in parallel with, and in full support of, Singapore’s Healthier SG journey. Both paths will lead us towards better health outcomes for all Singaporeans, and that is exactly what we strive for.  
+AIC’s transformation journey will continue to unfold in parallel with, and in full support of, Singapore’s Healthier SG journey. Both paths will lead us towards better health outcomes for all Singaporeans, and that is exactly what we strive for.
