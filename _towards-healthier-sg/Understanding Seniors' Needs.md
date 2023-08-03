@@ -5,28 +5,19 @@ description: ""
 ---
 # Supporting seniors
 
-Healthier SG is a national initiative to help Singaporeans take steps towards better health and quality of life. With Healthier SG, all Singaporeans will have a family clinic to guide them to staying healthy, a customised Health Plan to support them in their health goals, and access to community programmes to help them stay active. To support seniors in this journey, we are building an ecosystem of support for them. 
+**Healthier SG is a national initiative to help Singaporeans take steps towards better health and quality of life. With Healthier SG, all Singaporeans will have a family clinic to guide them to staying healthy, a customised Health Plan to support them in their health goals, and access to community programmes to help them stay active. To support seniors in this journey, we are building an ecosystem of support for them. **
 
 ## Engaging seniors on Healthier SG 
 In support of Ministry of Health’s (MOH) efforts to gather feedback on planned Healthier SG reforms, we conducted 28 interviews with elderly residents in April and May of 2022. Known as the ‘Healthier SG - Resident Engagement’, the project yielded valuable insights that informed the Healthier SG White Paper, which will help guide future MOH policies and plans.
 
-
+![](/images/aic_supporting-seniors_03.png)
 
 ## Surveying needs 
 The Strategy, Research and Data Division also initiated a collaboration between MOH and the Singapore Management University’s Centre for Research on Successful Ageing (SMU ROSA), to understand seniors' receptivity towards the Healthier SG initiative. 
 
-> The survey module was fielded to a total of 6,418 Singapore Life Panel® members comprising older Singaporeans aged between 57-76 years in April 2022 and the results were published in a report in July.
+![](/images/aic_surveying-sentiment_03.png)
 
-
-> Key survey findings 
-> 
->	1.	Slightly less than half of older adults surveyed were aware of Healthier SG (46.2%). 
-> 
->	2.	Slightly more than half of older adults surveyed visit polyclinics for health screenings (51.1%), while 14.1% stated that they do not.
-> 
->	3.	Only about a third of older adults surveyed (34.9%) currently have a regular family doctor.
-> 
->	4.	A large majority of older adults surveyed (85.5%) expressed willingness to enroll in Healthier SG. 
+![](/images/aic_surveying-sentiment_06.png)
 
 
 ## Preventive Health Visits
@@ -34,13 +25,14 @@ Developed by AIC’s Silver Generation Office (SGO), Preventive Health Visits ar
 
 Since April 2022, SGO has also made the most of these engagements, sharing Healthier SG initiatives with them, getting their feedback, and assisting them with enrolment.
 
-> Photo here for a softer/people-focused overtone
+![](/images/aic_preventive-health-visits_03.png)
+
 
 > Over the past year, SGO’s volunteers, the Silver Generation Ambassadors (SGAs) has engaged with more than 228,000 seniors island wide. Of that, over 35,000 seniors attended ‘Project Silver Screen’ to check their vision, hearing, and oral health. 
 > 
 
-To date, SGO has made
-> over 3,800 referrals for seniors to engage in various active ageing programmes within their community, as well as linking them to employment or volunteering opportunities.
+
+![](/images/aic_preventive-health-visits_07.png)
 
 SGO has also scheduled home COVID-19 vaccinations for over 17,000 home-bound seniors and their family members and continue to encourage seniors to receive their influenza and pneumococcal vaccinations. Over 2,000 seniors have also been connected to Befriending and Care &amp; Support services in the community.
 
