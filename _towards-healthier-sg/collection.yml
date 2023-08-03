@@ -2,4 +2,5 @@ collections:
   towards-healthier-sg:
     output: true
     order:
+      - Collaborating with Primary Care Networks.md
       - Understanding Seniors' Needs.md
