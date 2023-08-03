@@ -24,7 +24,7 @@ sections:
         health and proactive self-management to encourage healthier lifestyles.
       button: Read More
       url: /
-      alt: alt text
+      alt: towards healthier sg
       image: /images/aic_homepage_10.png
   - infopic:
       title: Touching Lives
@@ -33,14 +33,14 @@ sections:
         gracefully.
       button: Read More
       url: /
-      alt: Image alt text
+      alt: touching lives
       image: /images/aic_homepage_14.png
   - infopic:
       title: Driving Progress
       description: Our sustained partnerships with Community Care Organisations to
         support and develop the sector as it grows.
       button: Button Text
-      alt: Image alt text
+      alt: driving progress
       image: /images/aic_homepage_16.png
   - infopic:
       title: Enabling Excellence
@@ -48,6 +48,6 @@ sections:
         people and those we serve.
       button: Read More
       url: /
-      alt: Image alt text
+      alt: enabling excellence
       image: /images/aic_homepage_19.png
 ---
