@@ -34,12 +34,14 @@ sections:
       button: Read More
       url: /
       alt: Image alt text
+      image: /images/aic_homepage_14.png
   - infopic:
       title: Driving Progress
       description: Our sustained partnerships with Community Care Organisations to
         support and develop the sector as it grows.
       button: Button Text
       alt: Image alt text
+      image: /images/aic_homepage_16.png
   - infopic:
       title: Enabling Excellence
       description: Our purpose in working for the community and the care for our
