@@ -2,5 +2,6 @@ collections:
   towards-healthier-sg:
     output: true
     order:
+      - Preparing the Community Care Sector.md
       - Collaborating with Primary Care Networks.md
       - Understanding Seniors' Needs.md
