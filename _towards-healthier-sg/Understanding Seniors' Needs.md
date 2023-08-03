@@ -28,11 +28,11 @@ Since April 2022, SGO has also made the most of these engagements, sharing Healt
 ![](/images/aic_preventive-health-visits_03.png)
 
 
-> Over the past year, SGO’s volunteers, the Silver Generation Ambassadors (SGAs) has engaged with more than 228,000 seniors island wide. Of that, over 35,000 seniors attended ‘Project Silver Screen’ to check their vision, hearing, and oral health. 
-> 
+Over the past year, SGO’s volunteers, the Silver Generation Ambassadors (SGAs) has engaged with more than 228,000 seniors island wide. Of that, over 35,000 seniors attended ‘Project Silver Screen’ to check their vision, hearing, and oral health. 
 
+To date, SGO has made over 3,800 referrals for seniors to engage in various active ageing programmes within their community, as well as linking them to employment or volunteering opportunities.
 
-![](/images/aic_preventive-health-visits_07.png)
+![](/images/aic_preventive-health-visits_07a.png)
 
 SGO has also scheduled home COVID-19 vaccinations for over 17,000 home-bound seniors and their family members and continue to encourage seniors to receive their influenza and pneumococcal vaccinations. Over 2,000 seniors have also been connected to Befriending and Care &amp; Support services in the community.
 
