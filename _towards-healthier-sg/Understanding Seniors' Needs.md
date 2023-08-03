@@ -40,13 +40,12 @@ Since April 2022, SGO has also made the most of these engagements, sharing Healt
 > 
 > To date, SGO has made over 3,800 referrals for seniors to engage in various active ageing programmes within their community, as well as linking them to employment or volunteering opportunities.
 
-
-
 SGO has also scheduled home COVID-19 vaccinations for over 17,000 home-bound seniors and their family members and continue to encourage seniors to receive their influenza and pneumococcal vaccinations. Over 2,000 seniors have also been connected to Befriending and Care &amp; Support services in the community.
 
-Senior Engagement Application 
+## Senior Engagement Application
+
 The Senior Engagement Application (SEA) is a senior-cum-volunteer management system developed by SGO where Silver Generation Ambassadors (SGA) would login to the platform to conduct physical engagement sessions with seniors or to submit digital volunteer application and undertaking forms. Apart from tracking of all our volunteers’ training progress towards being certified for the Preventive Health Visit programme. SEA also enables the collection and analysis of senior profiles and trend data to preempt potential issues. Insights would be shared with healthcare providers and care partners such as Regional Health Systems and Active Ageing Centres. Additional modules to improve engagement planning and volunteer deployment were also added, and SGAs can connect with seniors in-person or virtually via Tele-Engagement. 
 
-In 2022, SEA facilitated the successful onboarding of 1,568 Silver Generation Ambassadors 
+In 2022, SEA facilitated the successful onboarding of 1,568 Silver Generation Ambassadors
 
 SEA has also been enhanced to retrieve HSG enrolment status of seniors to allow our SGAs to share HSG messaging during PHV if senior is unenrolled and guide seniors on how to enrol in HSG programme.
