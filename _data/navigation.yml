@@ -2,10 +2,10 @@ logo: /images/aic-logo.png
 links:
   - title: Towards Healthier SG
     url: /permalink
-  - title: " Making it Count"
+  - title: Making it Count
     url: /permalink
     sublinks: []
-  - title: " Amplifying Care"
+  - title: Amplifying Care
     url: /permalink
     sublinks:
       - title: Submenu Title
@@ -16,3 +16,8 @@ links:
   - title: About Us
     url: /permalink
     sublinks: []
+  - title: Towards Healthier SG
+    url: /permalink
+    sublinks:
+      - title: Understanding Seniors’ Needs
+        url: /understanding-seniors-needs
