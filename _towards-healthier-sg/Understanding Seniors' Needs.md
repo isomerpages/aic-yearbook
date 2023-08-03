@@ -15,21 +15,18 @@ In support of Ministry of Health’s (MOH) efforts to gather feedback on planned
 ## Surveying needs 
 The Strategy, Research and Data Division also initiated a collaboration between MOH and the Singapore Management University’s Centre for Research on Successful Ageing (SMU ROSA), to understand seniors' receptivity towards the Healthier SG initiative. 
 
-<img>
-The survey module was fielded to a total of 6,418 Singapore Life Panel® members comprising older Singaporeans aged between 57-76 years in April 2022 and the results were published in a report in July.
+> The survey module was fielded to a total of 6,418 Singapore Life Panel® members comprising older Singaporeans aged between 57-76 years in April 2022 and the results were published in a report in July.
 
- 
-<img>
-Key survey findings 
 
-1.	Slightly less than half of older adults surveyed were aware of Healthier SG (46.2%). 
-
-2.	Slightly more than half of older adults surveyed visit polyclinics for health screenings (51.1%), while 14.1% stated that they do not.
-
-3.	Only about a third of older adults surveyed (34.9%) currently have a regular family doctor.
-
-4.	A large majority of older adults surveyed (85.5%) expressed willingness to enroll in Healthier SG. 
-
+> Key survey findings 
+> 
+>	1.	Slightly less than half of older adults surveyed were aware of Healthier SG (46.2%). 
+> 
+>	2.	Slightly more than half of older adults surveyed visit polyclinics for health screenings (51.1%), while 14.1% stated that they do not.
+> 
+>	3.	Only about a third of older adults surveyed (34.9%) currently have a regular family doctor.
+> 
+>	4.	A large majority of older adults surveyed (85.5%) expressed willingness to enroll in Healthier SG. 
 
 
 ## Preventive Health Visits
@@ -37,11 +34,11 @@ Developed by AIC’s Silver Generation Office (SGO), Preventive Health Visits ar
 
 Since April 2022, SGO has also made the most of these engagements, sharing Healthier SG initiatives with them, getting their feedback, and assisting them with enrolment.
 
-Photo here for a softer/people-focused overtone
+> Photo here for a softer/people-focused overtone
 
-Over the past year, SGO’s volunteers, the Silver Generation Ambassadors (SGAs) has engaged with more than 228,000 seniors island wide. Of that, over 35,000 seniors attended ‘Project Silver Screen’ to check their vision, hearing, and oral health. 
-
-To date, SGO has made over 3,800 referrals for seniors to engage in various active ageing programmes within their community, as well as linking them to employment or volunteering opportunities.
+> Over the past year, SGO’s volunteers, the Silver Generation Ambassadors (SGAs) has engaged with more than 228,000 seniors island wide. Of that, over 35,000 seniors attended ‘Project Silver Screen’ to check their vision, hearing, and oral health. 
+> 
+> To date, SGO has made over 3,800 referrals for seniors to engage in various active ageing programmes within their community, as well as linking them to employment or volunteering opportunities.
 
 
 
