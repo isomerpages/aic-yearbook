@@ -2,4 +2,5 @@ collections:
   making-it-count:
     output: true
     order:
+      - Supporting Caregivers.md
       - Supporting Seniors.md
