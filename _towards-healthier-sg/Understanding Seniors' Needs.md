@@ -32,7 +32,7 @@ Key survey findings
 
 
 
-Preventive Health Visits 
+## Preventive Health Visits
 Developed by AIC’s Silver Generation Office (SGO), Preventive Health Visits are engagements with ageing residents to nudge behavioural change towards preventive healthcare. The initiative seeks to understand what matters to seniors, and through a network of volunteers, connect seniors to the wider healthcare and community support system.
 
 Since April 2022, SGO has also made the most of these engagements, sharing Healthier SG initiatives with them, getting their feedback, and assisting them with enrolment.
@@ -52,4 +52,4 @@ The Senior Engagement Application (SEA) is a senior-cum-volunteer management sys
 
 In 2022, SEA facilitated the successful onboarding of 1,568 Silver Generation Ambassadors 
 
-SEA has also been enhanced to retrieve HSG enrolment status of seniors to allow our SGAs to share HSG messaging during PHV if senior is unenrolled and guide seniors on how to enrol in HSG programme. 
+SEA has also been enhanced to retrieve HSG enrolment status of seniors to allow our SGAs to share HSG messaging during PHV if senior is unenrolled and guide seniors on how to enrol in HSG programme.
