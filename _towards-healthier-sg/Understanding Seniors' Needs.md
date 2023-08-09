@@ -4,7 +4,6 @@ permalink: /towards-healthier-sg/understanding-seniors-needs/
 description: ""
 ---
 # Supporting seniors
-
 **Healthier SG is a national initiative to help Singaporeans take steps towards better health and quality of life. With Healthier SG, all Singaporeans will have a family clinic to guide them to staying healthy, a customised Health Plan to support them in their health goals, and access to community programmes to help them stay active. To support seniors in this journey, we are building an ecosystem of support for them.**
 
 ## Engaging seniors on Healthier SG 
