@@ -31,8 +31,8 @@ Since April 2022, SGO has also made the most of these engagements, sharing Healt
 
 ## Senior Engagement Application
 
-The Senior Engagement Application (SEA) is a senior-cum-volunteer management system developed by SGO where Silver Generation Ambassadors (SGA) would login to the platform to conduct physical engagement sessions with seniors or to submit digital volunteer application and undertaking forms. Apart from tracking of all our volunteers’ training progress towards being certified for the Preventive Health Visit programme. SEA also enables the collection and analysis of senior profiles and trend data to preempt potential issues. Insights would be shared with healthcare providers and care partners such as Regional Health Systems and Active Ageing Centres. Additional modules to improve engagement planning and volunteer deployment were also added, and SGAs can connect with seniors in-person or virtually via Tele-Engagement. 
+The Senior Engagement Application (SEA) is a senior-cum-volunteer management system developed by SGO which SGAs log on to conduct physical engagement sessions with seniors.
 
-In 2022, SEA facilitated the successful onboarding of 1,568 Silver Generation Ambassadors
+![](/images/senior-engagement-application-1.png)
 
-SEA has also been enhanced to retrieve HSG enrolment status of seniors to allow our SGAs to share HSG messaging during PHV if senior is unenrolled and guide seniors on how to enrol in HSG programme.
+![](/images/senior-engagement-application-2.png)
