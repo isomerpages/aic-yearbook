@@ -12,8 +12,8 @@ In support of Ministry of Health’s (MOH) efforts to gather feedback on planned
 
 ![](/images/aic_supporting-seniors_03.png)
 
-## Surveying needs 
-The Strategy, Research and Data Division also initiated a collaboration between MOH and the Singapore Management University’s Centre for Research on Successful Ageing (SMU ROSA), to understand seniors' receptivity towards the Healthier SG initiative. 
+## Surveying sentiment
+We initiated a collaboration between MOH and the Singapore Management University’s Centre for Research on Successful Ageing, to understand seniors' receptivity towards the Healthier SG initiative.
 
 ![](/images/aic_surveying-sentiment_03.png)
 
