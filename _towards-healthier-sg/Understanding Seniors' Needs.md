@@ -23,18 +23,11 @@ We initiated a collaboration between MOH and the Singapore Management University
 ## Preventive Health Visits
 Developed by AIC’s Silver Generation Office (SGO), Preventive Health Visits are engagements with ageing residents to nudge behavioural change towards preventive healthcare. The initiative seeks to understand what matters to seniors, and through a network of volunteers, connect seniors to the wider healthcare and community support system.
 
+![](/images/aic_preventive%20health%20visits_r2.jpg)
+
 Since April 2022, SGO has also made the most of these engagements, sharing Healthier SG initiatives with them, getting their feedback, and assisting them with enrolment.
 
-![](/images/aic_preventive-health-visits_03.png)
-
-
-Over the past year, SGO’s volunteers, the Silver Generation Ambassadors (SGAs) has engaged with more than 228,000 seniors island wide. Of that, over 35,000 seniors attended ‘Project Silver Screen’ to check their vision, hearing, and oral health. 
-
-To date, SGO has made over 3,800 referrals for seniors to engage in various active ageing programmes within their community, as well as linking them to employment or volunteering opportunities.
-
-![](/images/aic_preventive-health-visits_07a.png)
-
-SGO has also scheduled home COVID-19 vaccinations for over 17,000 home-bound seniors and their family members and continue to encourage seniors to receive their influenza and pneumococcal vaccinations. Over 2,000 seniors have also been connected to Befriending and Care &amp; Support services in the community.
+![](/images/preventive-health-visits-2.png)
 
 ## Senior Engagement Application
 
