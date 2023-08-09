@@ -5,7 +5,7 @@ description: ""
 ---
 # Supporting seniors
 
-**Healthier SG is a national initiative to help Singaporeans take steps towards better health and quality of life. With Healthier SG, all Singaporeans will have a family clinic to guide them to staying healthy, a customised Health Plan to support them in their health goals, and access to community programmes to help them stay active. To support seniors in this journey, we are building an ecosystem of support for them. **
+**Healthier SG is a national initiative to help Singaporeans take steps towards better health and quality of life. With Healthier SG, all Singaporeans will have a family clinic to guide them to staying healthy, a customised Health Plan to support them in their health goals, and access to community programmes to help them stay active. To support seniors in this journey, we are building an ecosystem of support for them.**
 
 ## Engaging seniors on Healthier SG 
 In support of Ministry of Health’s (MOH) efforts to gather feedback on planned Healthier SG reforms, we conducted 28 interviews with elderly residents in April and May of 2022. Known as the ‘Healthier SG - Resident Engagement’, the project yielded valuable insights that informed the Healthier SG White Paper, which will help guide future MOH policies and plans.
