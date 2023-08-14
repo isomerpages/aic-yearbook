@@ -11,7 +11,7 @@ We have prepared onboarding resources for general practitioner clinics and their
 
 ![](/images/onboarding-general-practitioners.png)
 
-To increase efficiencies, AIC360 Touchpoints coordinates service delivery via a consolidated platform to reduce information asymmetry. It also gives Community Care Partners access to a holistic client landscape.
+To increase efficiencies, AIC360 Touchpoints coordinates service delivery via a consolidated platform to reduce information asymmetry. It also gives Community Care Partners access to a holistic client landscape.
 
 ![](/images/onboarding-general-practitioners-3.png)
 
