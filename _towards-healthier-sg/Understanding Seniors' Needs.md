@@ -20,7 +20,7 @@ We initiated a collaboration between MOH and the Singapore Management University
 
 
 ## Preventive Health Visits
-Developed by AIC’s Silver Generation Office (SGO), Preventive Health Visits are engagements with ageing residents to nudge behavioural change towards preventive healthcare. The initiative seeks to understand what matters to seniors, and through a network of volunteers, connect seniors to the wider healthcare and community support system.
+Developed by AIC’s Silver Generation Office (SGO), Preventive Health Visits are engagements with ageing residents to nudge behavioural change towards preventive healthcare. The initiative seeks to understand what matters to seniors, and through a network of volunteers known as Silver Generation Ambassadors (SGAs), connect seniors to the wider healthcare and community support system.
 
 ![](/images/preventive-health-visits.jpeg)
 
