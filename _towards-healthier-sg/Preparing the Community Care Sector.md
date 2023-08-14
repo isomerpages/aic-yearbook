@@ -20,8 +20,8 @@ To build up the knowledge and skills of AAC staff, we also developed and introdu
 
 ![](/images/i-had-the-opportunity.png)
 
-We also conducted several sharing-cum-briefing sessions with various divisions to discuss support areas for AACs. These sessions included sessions with HSG and peer-to-peer sharing. To support the development of the AAC Service, AIC actively engaged with Community Care partners through the following activities:   
+We also conducted several sharing-cum-briefing sessions with various divisions to discuss support areas for AACs. These sessions included sessions with the Healthier SG team and peer-to-peer sharing. To support the development of the AAC Service, AIC actively engaged with Community Care partners through the following activities:   
 
-![](/images/on-july-14-2022.png)
+![](/images/on-july-14-2022-1.png)
 
 More activities to engage with our Community Care partners will be carried out in the near future, as the AAC network continues to grow and thrive, serving the senior communities in Singapore.
