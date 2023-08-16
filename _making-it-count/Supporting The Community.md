@@ -39,7 +39,7 @@ Planned with the Interagency Taskforce on Mental Health and Well-Being, the over
 
 ![](/images/stand-together-for-mental-health.png)
 
-Through the collaboration of the MCCY and the SG Mental Well-being Network, TheSmartLocal, a local media company was also engaged. Under this campaign, a documentary short film was produced, titled: ‘99 Singaporeans sharing their darkest moments’. The video aims to help the public know that they are not alone on their mental wellness journey, and that it is okay to seek help when needed.
+Through the collaboration of the MCCY and the SG Mental Well-being Network, TheSmartLocal, a local media company was also engaged. Under this campaign, a documentary short film was produced, titled: ‘99 Singaporeans sharing their darkest moments’. [The video](https://youtu.be/LLfn3rgcS0c) aims to help the public know that they are not alone on their mental wellness journey, and that it is okay to seek help when needed.
 
 ![](/images/world-mental-health-day-2022.png)
 
