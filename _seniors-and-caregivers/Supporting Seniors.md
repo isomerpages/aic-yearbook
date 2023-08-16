@@ -4,7 +4,7 @@ permalink: /seniors-and-caregivers/supporting-seniors/
 description: ""
 ---
 # Supporting seniors
-**We continued our efforts to care for our seniors, whether it is through on-going programmes that cater to their needs, such as Meals on Wheels, or by rolling out new initiatives, such as the Communities of Care Pilot to inject vibrancy into our various service channels. We continue to enhance currently available support for our seniors in order to ramp up service delivery and raise awareness of Singapore’s ageing population through partnerships with Institutes of Higher Learning and our network of dedicated partners.**
+**We expend every effort to care for our seniors, be it through on-going programmes that cater to their needs, such as Meals on Wheels, or by rolling out new initiatives, such as the Communities of Care pilot. Each enhancement to the existing support for our seniors is achieved by ramping up service delivery and raising awareness of Singapore’s ageing population through new partnerships.**
 
 ## Caring for their needs
 ### Meals on Wheels
@@ -13,27 +13,24 @@ description: ""
 
 ![](/images/our-objectives.png)
 
-### Food Hygiene & Safety Assessment
-While Meals on Wheels (MOW) service providers, which are Social Service Agencies (SSA), do not need to be licensed by the Singapore Food Agency (SFA), we conducted audits to help identify any gaps in the meal preparation and delivery process.
+AIC conducts assessments on MOW service to help identify and close any gaps in the meal preparation and delivery process.
 
 ![](/images/6-mow-service-providers.png)
 
-The number of major and critical findings have decreased, due our service providers’ continuous efforts to improve their facilities and reinforce good personal hygiene in their day-to-day operations.
-
 ### Community Case Management Service
-The Community Case Management Service (CCMS) and Cluster Support (CS) programme share many similarities; they provide support to seniors in the community who have difficulties managing their health and social care needs. AIC has been working with MOH to review the community case management landscape and a decision was made streamlined both programmes into one.
+In 2022, the Cluster Support (CS) programme was streamlined into the Community Case Management Service (CCMS) to provide support to seniors in the community who have difficulties managing their health and social care needs.
 
 ![](/images/revised-ccms-model.png)
 
 ## Living well, ageing well
-### Communities of Care Pilot
-The pilot of AIC’s Communities of Care (CoC) programme will run from 2019 to 2023. Called ‘CoC 1.0’, it was developed to strengthen the construction of a place-based care ecosystem.
+### Communities of Care
+The pilot of AIC’s Communities of Care (CoC) programme was held from 2019 to 2023. Called ‘CoC 1.0’, it was developed to strengthen the construction of a place-based care ecosystem. 
 
-In CoC 1.0, various care providers worked together to create service networks by location, to best serve seniors within each community. Leveraging on each other’s strengths and resources enabled them to boost service delivery and gain valuable learnings.
+Through the pilot, various care providers worked together to create service networks by location, to best serve seniors within each community. Leveraging on each other’s strengths and resources enabled them to boost service delivery and gain valuable learnings.
 
-With learnings from CoC 1.0, AIC has developed a more structured approach for the construction of a localised care ecosystem. For CoC 2.0, AIC has secured support from the Tote Board Community Health Fund (TBCHF) to continue running CoC for another 3 years, from 2023 to 2026.
+With learnings from CoC 1.0, we developed a more structured approach for the construction of a localised care ecosystem known as CoC 2.0. The Tote Board Community Health Fund (TBCHF) has also committed to supporting the running CoC for another three years, from 2023 to 2026.
  
-More pilot sites will be involved in CoC 2.0 for testing and adaptation of the strategies developed by the providers. The objective of the second chapter of CoC would be to create and implement a playbook that will support the scalability and replicability of building CoCs across all Active Aging Centres (AACs) island wide. 
+More pilot sites will be involved in CoC 2.0 for testing and adaptation of the strategies developed by the providers. The objective of this second chapter would be to create and implement a playbook that will support the scalability and replicability of building CoCs across all Active Aging Centres (AACs) island wide. 
 
 ## SGO’s Recruitment Campaign
 From September to November 2022, a Recruitment Campaign was rolled out to strengthen Silver Generation Office’s (SGO) current pool of SGAs. The campaign’s multi-touch amplification included displaying quotes from existing SGAs on Digital Display Panels at HDB blocks, TV screens at food courts and coffee shops, and across social media platforms, such as SGO’s Facebook and YouTube channels.
