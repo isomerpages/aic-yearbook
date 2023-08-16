@@ -48,8 +48,16 @@ In view of Singapore’s rapidly ageing population and their increasingly divers
 
 As part of NUS’ Communities & Engagement Pillar, the module seeks to impart the fundamental concepts of volunteerism and enhance students’ understanding of helping seniors in their community age healthily.
 
+![](/images/sgo-staff-nus-student.png)
+
+![](/images/sgas-60-80-hrs-engagement.png)
+
 ### Enhancing Activity Access for Frailer Seniors
 Physical, cognitive, and social activities bring well-being to everyone; however, access to suitable, meaningful activities for frailer seniors can be a challenge.
+
+![](/images/enhanced-activity-access-frailer-seniors.png)
+
+![](/images/aug-2022-get-active-celebration-seniors.png)
 
 To better enable frailer seniors’ participation in activities, AIC worked with partners to curate activities suitable for their interests and abilities at two key national events in 2022. 
 
