@@ -1,5 +1,5 @@
 collections:
-  seniors-and-caregivers:
+  making-it-count:
     output: true
     order:
       - Supporting Seniors.md
