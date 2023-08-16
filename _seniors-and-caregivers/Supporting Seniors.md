@@ -56,7 +56,13 @@ To better enable frailer seniors’ participation in activities, AIC worked with
 ### Intergenerational Programmes
 AIC actively collaborates with PCF Sparkletots and the Early Childhood Development Agency on programmes that bring young and old together. Through the AIC-PCF Intergenerational Programme and the national ‘Start Small, Dream Big’ (SSDB) initiative seniors are able to build bonds and foster a deeper understanding between different generations and backgrounds through meaningful activities.
 
+![](/images/intergenerational-programmes-1.png)
+
 Over the year, our intergenerational programmes saw an expansion in the number of collaborations between our key partners. We also increased engagement opportunities with Community Care Organisations (CCOs) through activities between pre-schoolers and seniors. Compared to 2021, the number of engagements for both the AIC-PCF and SSDB initiatives have increased in 2022.
+
+![](/images/aic-pcf-intergenerational.png)
+
+![](/images/engagements-aic-pcf-ssdb.png)
 
 ## Providing financial assistance
 ### Enhanced Seniors’ Mobility & Enabling Fund
