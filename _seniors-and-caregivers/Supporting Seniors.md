@@ -26,14 +26,20 @@ In 2022, the Cluster Support (CS) programme was streamlined into the Community C
 ### Communities of Care
 The pilot of AIC’s Communities of Care (CoC) programme was held from 2019 to 2023. Called ‘CoC 1.0’, it was developed to strengthen the construction of a place-based care ecosystem. 
 
+![](/images/coc-2000-seniors.png)
+
 Through the pilot, various care providers worked together to create service networks by location, to best serve seniors within each community. Leveraging on each other’s strengths and resources enabled them to boost service delivery and gain valuable learnings.
+
+![](/images/video-place-holder.png)
 
 With learnings from CoC 1.0, we developed a more structured approach for the construction of a localised care ecosystem known as CoC 2.0. The Tote Board Community Health Fund (TBCHF) has also committed to supporting the running CoC for another three years, from 2023 to 2026.
  
-More pilot sites will be involved in CoC 2.0 for testing and adaptation of the strategies developed by the providers. The objective of this second chapter would be to create and implement a playbook that will support the scalability and replicability of building CoCs across all Active Aging Centres (AACs) island wide. 
+More pilot sites will be involved in CoC 2.0 for testing and adaptation of the strategies developed by the providers. The objective of this second chapter would be to create and implement a playbook that will support the scalability and replicability of building CoCs across all Active Aging Centres (AACs) island wide.
 
-## SGO’s Recruitment Campaign
-From September to November 2022, a Recruitment Campaign was rolled out to strengthen Silver Generation Office’s (SGO) current pool of SGAs. The campaign’s multi-touch amplification included displaying quotes from existing SGAs on Digital Display Panels at HDB blocks, TV screens at food courts and coffee shops, and across social media platforms, such as SGO’s Facebook and YouTube channels.
+### Recruiting Silver Generation Ambassadors
+From September to November 2022, a Recruitment Campaign was rolled out to strengthen our Silver Generation Office’s (SGO) current pool of Silver Generation Ambassadors (SGA). The campaign’s multi-touch amplification included displaying quotes from existing SGAs on Digital Display Panels at Housing Development Board estates, television screens at food courts and coffee shops, and across social media platforms, such as SGO’s Facebook and YouTube channels.
+
+![](/images/recruitment-campaign-37-million.png)
 
 SGO also worked with local Key Opinion Leaders (KOLs) like Belinda Lee, Chen Xi, Sujimy, Nurul Aini, and Guna, to further the campaign’s reach on social media. The KOLs contributed to the recruitment narrative by adding their own perspectives and documenting the journey of real-life SGAs, from receiving training to engaging seniors.
 
