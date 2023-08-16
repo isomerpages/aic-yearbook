@@ -88,7 +88,7 @@ The Seniors' Mobility and Enabling Fund (SMF) provides holistic support for seni
 
 To encourage more people to sign up for CHAS uptake in 2022, AIC ran a multi-pronged digital campaign in July and August, raising awareness on the expansion of the Chronic Disease Management Programme (CDMP). 
 
-The campaign comprised a collaboration with SGAG, TikTok videos, and advertisements on Facebook and Instagram. Additionally, a series of blog articles featuring a patient with chronic condition and a CHAS General Practitioner was published and amplified on AIC’s social channels. The CHAS Portal was also given a refreshed look in May 2022 to improve user experience. 
+The campaign comprised a [collaboration with SGAG](https://www.facebook.com/378167172198277/posts/6168298316518438/), TikTok videos, and advertisements on Facebook and Instagram. Additionally, [a series of blog articles](https://aic-blog.com/chronic-condition-management) featuring a patient with chronic condition and a CHAS General Practitioner was published and amplified on AIC’s social channels. The [CHAS Portal](https://www.chas.sg/) was also given a refreshed look in May 2022 to improve user experience. 
 
 ![](/images/2_1-million-people-chas.png)
 
