@@ -44,39 +44,27 @@ From September to November 2022, a Recruitment Campaign was rolled out to streng
 ![](/images/sgo-worked-with-kols.png)
 
 ### Collaboration with NUS
-In view of Singapore’s rapidly ageing population and their increasingly diverse needs, SGO collaborated with the National University of Singapore (NUS), to lead a pilot module, ‘GEN2061: Support Healthy Ageing SG’. 
+In view of Singapore’s rapidly ageing population and their increasingly diverse needs, SGO collaborated with the National University of Singapore (NUS), to lead a pilot module ‘GEN2061: Support Healthy Ageing SG’. 
 
 As part of NUS’ Communities & Engagement Pillar, the module seeks to impart the fundamental concepts of volunteerism and enhance students’ understanding of helping seniors in their community age healthily.
 
-In anticipation of seniors’ increasing care needs, SGO is currently actively reaching out to various Institutes of Higher Learning to engage students on the important role they play in Singapore’s ageing population landscape.
-
-### Book feature: Singapore Ageing
-SGO made its reach in the sphere of academia through SGO Tampines’ Deputy Head, Andrew Sim’s contribution to the book, ‘Singapore Ageing: Issues and Challenges Ahead’.
-
-Andrew researched and co-authored a chapter called ‘Building a Social Network for Older Adults: A Nation-wide Initiative by the Singapore Silver Generation Office’. He wrote the text with Dr Corrine Ghoh, an Associate Professor from the Department of Social Work in NUS. The chapter chronicles the evolution of the Silver Generation Office and the positive impact it has made since its inception, through promoting positive ageing for the well-being of seniors in Singapore. 
-
-The book, published by leading academic publisher World Scientific, serves as a useful resource for local students and international scholars who are interested in the socio-political discourse on ageing in Singapore.
-
 ### Enhancing Activity Access for Frailer Seniors
-Physical, cognitive, and social activities bring well-being to everyone; however, access to suitable, meaningful activities for frailer seniors can be a challenge. 
+Physical, cognitive, and social activities bring well-being to everyone; however, access to suitable, meaningful activities for frailer seniors can be a challenge.
 
 To better enable frailer seniors’ participation in activities, AIC worked with partners to curate activities suitable for their interests and abilities at two key national events in 2022. 
 
-## Promoting Intergenerational Engagement
 ### Intergenerational Programmes
-The intergenerational collaborations under the AIC-PCF Intergenerational Programme and ECDA’s national ‘Start Small, Dream Big’ (SSDB) initiative bring the elderly and young together through meaningful activities, to help build bonds and foster a deeper understanding between different generations and backgrounds.
+AIC actively collaborates with PCF Sparkletots and the Early Childhood Development Agency on programmes that bring young and old together. Through the AIC-PCF Intergenerational Programme and the national ‘Start Small, Dream Big’ (SSDB) initiative seniors are able to build bonds and foster a deeper understanding between different generations and backgrounds through meaningful activities.
 
-In FY2022, our intergenerational programmes saw an expansion in the number of collaborations between our key partners, namely the PAP Community Foundation (PCF) Sparkletots Preschools, Community Chest, and Early Childhood Development Agency (ECDA). We also increased engagement opportunities with Community Care Organisations (CCOs) through activities between pre-schoolers and seniors.
-
-Compared to 2021, we are pleased to note that the number of engagements for both the AIC-PCF and SSDB initiatives have increased in 2022.
+Over the year, our intergenerational programmes saw an expansion in the number of collaborations between our key partners. We also increased engagement opportunities with Community Care Organisations (CCOs) through activities between pre-schoolers and seniors. Compared to 2021, the number of engagements for both the AIC-PCF and SSDB initiatives have increased in 2022.
 
 ## Providing financial assistance
 ### Enhanced Seniors’ Mobility & Enabling Fund
-The Seniors' Mobility and Enabling Fund (SMF) provides holistic support for seniors to age in place within the community.
+The Seniors' Mobility and Enabling Fund (SMF) provides holistic support for seniors to age in place within the community. 
 
 ### Enhanced CHAS outreach
-To drive CHAS uptake and utilisation in 2022, AIC Primary Care ran a multi-pronged digital campaign in July and August, raising awareness on the expansion of the Chronic Disease Management Programme (CDMP). 
+To encourage more people to sign up for CHAS uptake in 2022, AIC ran a multi-pronged digital campaign in July and August, raising awareness on the expansion of the Chronic Disease Management Programme (CDMP). 
 
-The digital campaign comprised a collaboration with SGAG, and was rolled out on TikTok and through advertisements on Facebook and Instagram. A series of blog articles on a CHAS GP team and their patient with a chronic conditions was also produced and amplified on AIC’s social channels. 
+The campaign comprised a collaboration with SGAG, TikTok videos, and advertisements on Facebook and Instagram. Additionally, a series of blog articles featuring a patient with chronic condition and a CHAS General Practitioner was published and amplified on AIC’s social channels. The CHAS Portal was also given a refreshed look in May 2022 to improve user experience. 
 
-Additionally, we worked with MOH to weave in the Healthier SG messaging in our social media advertisements in March 2023.
+Additionally, we worked with the Ministry of Health (MOH) to weave in the Healthier SG messaging in our social media advertisements in March 2023. A TikTok video featuring a senior encouraging caregivers to assist their parents and grandparents to apply for CHAS was also produced ahead of Healthier SG’s launch in July.
