@@ -9,13 +9,21 @@ description: ""
 ## Caring for their needs
 ### Meals on Wheels
 
+![](/images/meals-on-wheels.png)
+
+![](/images/our-objectives.png)
+
 ### Food Hygiene & Safety Assessment
 While Meals on Wheels (MOW) service providers, which are Social Service Agencies (SSA), do not need to be licensed by the Singapore Food Agency (SFA), we conducted audits to help identify any gaps in the meal preparation and delivery process.
+
+![](/images/6-mow-service-providers.png)
 
 The number of major and critical findings have decreased, due our service providers’ continuous efforts to improve their facilities and reinforce good personal hygiene in their day-to-day operations.
 
 ### Community Case Management Service
 The Community Case Management Service (CCMS) and Cluster Support (CS) programme share many similarities; they provide support to seniors in the community who have difficulties managing their health and social care needs. AIC has been working with MOH to review the community case management landscape and a decision was made streamlined both programmes into one.
+
+![](/images/revised-ccms-model.png)
 
 ## Living well, ageing well
 ### Communities of Care Pilot
@@ -69,6 +77,3 @@ To drive CHAS uptake and utilisation in 2022, AIC Primary Care ran a multi-prong
 The digital campaign comprised a collaboration with SGAG, and was rolled out on TikTok and through advertisements on Facebook and Instagram. A series of blog articles on a CHAS GP team and their patient with a chronic conditions was also produced and amplified on AIC’s social channels. 
 
 Additionally, we worked with MOH to weave in the Healthier SG messaging in our social media advertisements in March 2023.
-
-
-
