@@ -2,5 +2,6 @@ collections:
   seniors-and-caregivers:
     output: true
     order:
+      - Supporting The Community.md
       - Supporting Caregivers.md
       - Supporting Seniors.md
