@@ -45,16 +45,14 @@ Through the collaboration of the MCCY and the SG Mental Well-being Network, TheS
 
 ## Dementia
 ### \#DementiaFriendlySG Movement
-In November 2022, AIC officially launched an inaugural campaign to spearhead Singapore’s movement to build a more dementia-friendly nation. The movement was part of the Dementia-Friendly Singapore (DFSG) initiative, announced in 2016 by MOH to address the growing prevalence of the illness in Singapore. The #DementiaFriendlySG social movement rallies society at all levels – individuals, communities, and businesses, calling on each group to play a part in building a caring and dementia-friendly Singapore. 
+In November 2022, AIC officially launched an inaugural campaign to spearhead Singapore’s movement to build a more dementia-friendly nation. The movement was part of the Dementia-Friendly Singapore (DFSG) initiative, first announced in 2016 by the MOH to address the growing prevalence of dementia in Singapore. The #DementiaFriendlySG social movement rallies society at all levels – individuals, communities, and businesses, calling on each group to play a part in building a caring and dementia-friendly Singapore. 
 
-Led by AIC and supported by 81 partners, the campaign hopes to spread the message on the importance of creating an inclusive society and advocated ways for the public to become a ‘Dementia Friend’ to support people living with dementia in their communities.
+Led by AIC and supported by 81 partners, the key message of the campaign was the importance of creating an inclusive society and advocated ways for the public to become a ‘Dementia Friend’ to support people living with dementia in their communities.
 
-*Photo here for a softer/people-focused overtone*
+![](/images/dementia-friendly-sg-52k.png)
 
-*@Creative team, please add graphics to go with the call-outs below:*
+![](/images/dementia-friendly-sg-cta.png)
 
-To further strengthen its efforts in building a Dementia-Friendly Singapore, AIC is actively collaborating with partners on various initiatives. This includes signing a Memorandum of Understanding (MOU) with AIC and Dementia Singapore (DSG). The MOU will see both organisations aligning their strategies to synergise efforts in capability building, communications, and support for persons living with dementia, as well as their caregivers. At the same time, initiatives and networks will be co-developed by engaging key stakeholders to meet emerging needs. 
-
-*Photo here for a softer/people-focused overtone*
+![](/images/dementia-friendly-sg-efforts.png)
 
 It is important for our ageing nation to build a caring and supportive environment for persons living with dementia, to enable them to continue living a fulfilling life in the community.
