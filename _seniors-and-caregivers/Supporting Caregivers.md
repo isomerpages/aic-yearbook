@@ -19,12 +19,10 @@ In November 2022, the new SupportGoWhere Caregivers Service Journey webpage was 
 ### Enhanced Home Caregiving Grant
 Introduced in 2019, the Home Caregiving Grant (HCG) is disbursed to caregivers from lower-income families who are looking after their loved ones with permanent moderate disability. The payouts can be used to defray costs of caregiving expenses, such as the cost of caregiver support services in the community or hiring a foreign domestic worker.
 
-*@Creative team, please highlight the following stat call-outs with graphics:
-The enhanced HCG will accord beneficiaries with no household income or a monthly household income of up to S$1,200 with double the support, from S$200 to up to S$400 per month.*
+![](/images/enhanced-hcg.png)
 
 Beneficiaries with a monthly household income of between S$1,201 and S$2,800 will receive S$250, up from S$200 previously.
 
 The increased HCG payout is part of MOH’s overall efforts to help lighten the burden of caregivers from lower-income families and to recognise their contributions. 
 
-*@Creative team, please add photos/graphics to go with the beneficiary feature below:
-Beneficiary feature:*
+![](/images/feature-abdul-majid.png)
