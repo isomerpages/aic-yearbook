@@ -75,8 +75,15 @@ The Seniors' Mobility and Enabling Fund (SMF) provides holistic support for seni
 ![](/images/23k-seniors-benefit.png)
 
 ### Enhanced CHAS outreach
+
+![](/images/enhanced-chas-outreach.png)
+
 To encourage more people to sign up for CHAS uptake in 2022, AIC ran a multi-pronged digital campaign in July and August, raising awareness on the expansion of the Chronic Disease Management Programme (CDMP). 
 
 The campaign comprised a collaboration with SGAG, TikTok videos, and advertisements on Facebook and Instagram. Additionally, a series of blog articles featuring a patient with chronic condition and a CHAS General Practitioner was published and amplified on AIC’s social channels. The CHAS Portal was also given a refreshed look in May 2022 to improve user experience. 
 
+![](/images/2_1-million-people-chas.png)
+
 Additionally, we worked with the Ministry of Health (MOH) to weave in the Healthier SG messaging in our social media advertisements in March 2023. A TikTok video featuring a senior encouraging caregivers to assist their parents and grandparents to apply for CHAS was also produced ahead of Healthier SG’s launch in July.
+
+![](/images/tik-tok.png)
