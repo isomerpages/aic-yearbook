@@ -29,19 +29,19 @@ AIC identified the opportunity to increase awareness on Community Mental Health 
 ![](/images/better-service-integration-aac-crest.png)
 
 ## World Mental Health Day 2022
-World Mental Health Day (WMHD) is commemorated annually on 10 October to raise awareness of mental well-being and to mobilise efforts in support of mental health.
+World Mental Health Day is commemorated annually on 10 October to raise awareness of mental well-being and to mobilise efforts in support of mental health.
 
-*@Creative team, please add graphics and logos to the text call-out below:*
+![](/images/aic-30-partners-60-activities.png)
 
-*Photo here for people-focused overtone*
+![](/images/dementia-photo.png)
 
 Planned with the Interagency Taskforce on Mental Health and Well-Being, the overarching theme for WMHD 2022 was ‘Stand Together for Mental Health’. The nation-wide campaign featured merchandise in the form of car decals, tote bags, and umbrellas specially designed by local artist Stephanie Raphaela Ho, a mental health activist who has lived with depression and anxiety.
 
-*Photo of car decals and tote bags*
+![](/images/stand-together-for-mental-health.png)
 
 Through the collaboration of the MCCY and the SG Mental Well-being Network, TheSmartLocal, a local media company was also engaged. Under this campaign, a documentary short film was produced, titled: ‘99 Singaporeans sharing their darkest moments’. The video aims to help the public know that they are not alone on their mental wellness journey, and that it is okay to seek help when needed.
 
-*@Creative team, please add graphics to go with the text call-outs below:*
+![](/images/world-mental-health-day-2022.png)
 
 ## Dementia
 ### \#DementiaFriendlySG Movement
