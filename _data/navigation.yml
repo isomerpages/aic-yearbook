@@ -13,11 +13,11 @@ links:
     url: "#"
     sublinks:
       - title: Supporting Seniors
-        url: making-it-count/supporting-seniors
+        url: /making-it-count/supporting-seniors
       - title: Supporting Caregivers
-        url: making-it-count/supporting-caregivers
+        url: /making-it-count/supporting-caregivers
       - title: Supporting The Community
-        url: making-it-count/supporting-the-community
+        url: /making-it-count/supporting-the-community
   - title: Amplifying Care
     url: "#"
     sublinks:
