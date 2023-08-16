@@ -41,7 +41,7 @@ From September to November 2022, a Recruitment Campaign was rolled out to streng
 
 ![](/images/recruitment-campaign-37-million.png)
 
-SGO also worked with local Key Opinion Leaders (KOLs) like Belinda Lee, Chen Xi, Sujimy, Nurul Aini, and Guna, to further the campaign’s reach on social media. The KOLs contributed to the recruitment narrative by adding their own perspectives and documenting the journey of real-life SGAs, from receiving training to engaging seniors.
+![](/images/sgo-worked-with-kols.png)
 
 ### Collaboration with NUS
 In view of Singapore’s rapidly ageing population and their increasingly diverse needs, SGO collaborated with the National University of Singapore (NUS), to lead a pilot module, ‘GEN2061: Support Healthy Ageing SG’. 
