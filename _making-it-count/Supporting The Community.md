@@ -4,37 +4,29 @@ permalink: /making-it-count/supporting-the-community/
 description: ""
 ---
 # Supporting the community
-**Caregiving is a shared responsibility that starts with everyone in the community. We took active strides last year to make mental health care more accessible, and to encourage mental health support and treatments. We are also exploring service integrations between AAC and CREST to better empower our primary and community care partners to support well-being of our community.**
+**Caregiving is a shared responsibility that starts with everyone in the community. We took active strides last year to make mental health care more accessible, and to encourage mental health support and treatments. We are also exploring service integrations to better empower our primary and community care partners to support well-being of our community.**
 
 ## Mental Health
 ### PCN-Mental Health
-Mental health is an important part of one’s overall health and well-being. In line with MOH’s Healthier SG approach, the shift towards population health aims to improve physical and mental health outcomes and reduce health inequalities across the entire population.  
+Mental health is an important part of one’s overall health and well-being. In line with Healthier SG, the shift towards population health aims to improve physical and mental health outcomes and reduce health inequalities across the entire population.  
 
-GPs and Polyclinics aim to bring care closer to home and improve seniors’ access to mental health services. For this, AIC worked closely with MOH and the Primary Care Networks (PCN) to develop PCN–Mental Health (PCN-MH), which will cater to the public’s needs through an integrated mental health network.
+General Practitioners and polyclinics aim to bring care closer to home and improve seniors’ access to mental health services. For this, AIC worked closely with MOH and the Primary Care Networks (PCN) to develop PCN–Mental Health (PCN-MH), which will cater to the public’s needs through an integrated mental health network.
 
-*@Creative team, please add graphics to go with the text call-outs below:*
+![](/images/pcn-mh-initiative-aims-t0.png)
 
-Consistent and quality nursing care across PCNs are key to supporting both seniors and caregivers holistically in the community. AIC’s Caregiving and Community Mental Health Division (CCMHD) and Primary and Community Care Development Division (PCCD) has collaborated closely to incorporate mental health components and care within the PCN nurse training roadmap.
+Consistent and quality nursing care across PCNs are key to supporting both seniors and caregivers holistically in the community. AIC is in the process of incorporating more mental health components and care within the PCN nurse training roadmap.
 
-*Photo here for people-focused overtone *
+To better equip primary care professionals, AIC has put together additional mental health resources and shared support available to complement existing public-facing resources.  
 
-To equip primary care professionals with the needful information and resources, CCMHD has put together mental health resources and shared support available for professionals alongside public-facing resources to raise awareness of PCN-MH services to Singaporeans.
+![](/images/20-pcn-nurses.png)
 
-*@Creative team, please highlight the following stat call-outs with graphics:*
+![](/images/10-pcns-230-pcn-gps.png)
+
 
 ### Service integration between AAC and CREST
-AIC’s CCMHD and PCCD divisions have been working closely to strengthen service integration between Active Ageing Centres (AAC) and Community Outreach Teams (CREST) service providers.
+AIC identified the opportunity to increase awareness on Community Mental Health (CMH) services and activities among primary and community care partners by partnering AACs to better support the needs of the larger community. To aid the AACs and facilitate the process between AAC and CREST in referring cases, information about CREST and client workflows have been incorporated into the AAC operations guide.
 
-As part of the Healthier SG initiative, AIC saw an opportunity to increase awareness on Community Mental Health (CMH) services and activities among primary and community care partners to better support the needs of the larger community.  
-
-*@Creative team, please add graphics to go with the text call-outs below:*
-To better support the AACs and facilitate the AAC and CREST partnership in referring cases, CCMHD and PCDD are working together to incorporate information about CREST and client workflows in the AAC Operations guide.
-
-To facilitate earlier identification of clients with mental health needs, AAC uses the Community Screener Tool to identify clients with mental health needs and link them to CREST for timely follow ups. CREST would also close loop with AAC so that these seniors are well supported within this network.
-
-*Photo here for people-focused overtone*
-
-AIC has also engaged partners to foster partnership, and establish a referral flow between AAC and CREST (and vice versa) in a timely manner to identify key learnings for continued service integration. The on-going partnership currently involves 10 providers across 6 constituencies, and there are plans to scale the collaboration up to all AACs and CREST from 2023!
+![](/images/better-service-integration-aac-crest.png)
 
 ## World Mental Health Day 2022
 World Mental Health Day (WMHD) is commemorated annually on 10 October to raise awareness of mental well-being and to mobilise efforts in support of mental health.
