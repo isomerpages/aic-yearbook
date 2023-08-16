@@ -68,6 +68,12 @@ Over the year, our intergenerational programmes saw an expansion in the number o
 ### Enhanced Seniors’ Mobility & Enabling Fund
 The Seniors' Mobility and Enabling Fund (SMF) provides holistic support for seniors to age in place within the community. 
 
+![](/images/number-gengagements-aic-pcf.png)
+
+![](/images/enhanced-smf-scheme.png)
+
+![](/images/23k-seniors-benefit.png)
+
 ### Enhanced CHAS outreach
 To encourage more people to sign up for CHAS uptake in 2022, AIC ran a multi-pronged digital campaign in July and August, raising awareness on the expansion of the Chronic Disease Management Programme (CDMP). 
 
