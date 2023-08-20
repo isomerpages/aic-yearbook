@@ -43,3 +43,18 @@ Community care providers with technology adoption projects that can improve prod
 The Smart Workflow Infrastructure and Technology (SWIfT) aims to improve efficiency in nursing home wards through a comprehensive review of the overall infrastructure design as well as the processes and technologies used.
 
 Five participating nursing homes received reviews and recommended improvements to their layouts and workflows. They were also given suggestions on suitable technological solutions that could be incorporated to improve productivity.
+
+![](/images/productivity-improvement.png)
+
+We are working with MOH on changes in care model and regulations, as well as to rethink the design of next-generation nursing homes. This is all with the goal of promoting greater process efficiency in the future.
+
+### Clinical Quality Improvement Collaborative
+The Clinical Quality Improvement Collaborative (CQI) is a joint effort by AIC and nursing homes to improve resident safety and quality of care, as well as to facilitate the spread of good practices within and across organisations.
+
+![](/images/3-year-cqi-collaborative-graduation.png)
+
+![](/images/i-prevent-pneumonia.png)
+
+![](/images/100-percent-of-all-direct-care-staff.png)
+
+![](/images/2-5-percent-reduction.png)
