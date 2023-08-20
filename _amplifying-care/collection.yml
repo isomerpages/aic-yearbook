@@ -1,4 +1,5 @@
 collections:
   amplifying-care:
     output: true
-    order: []
+    order:
+      - Supporting Care Delivery.md
