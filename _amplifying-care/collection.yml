@@ -2,4 +2,5 @@ collections:
   amplifying-care:
     output: true
     order:
+      - Strengthening Care Capabilities.md
       - Supporting Care Delivery.md
