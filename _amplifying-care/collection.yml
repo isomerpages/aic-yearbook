@@ -2,6 +2,7 @@ collections:
   amplifying-care:
     output: true
     order:
+      - Recognising Partners and Contributions.md
       - Developing Care Talent.md
       - Building Skills and Strategies.md
       - Strengthening Care Capabilities.md
