@@ -39,4 +39,3 @@ We developed a signature programme with uniquely AIC elements, where the modules
 ![](/images/8-runs-if-aicanvas.png)
 
 As these new colleagues assimilate to the #OneAICFamily, we hope that they can reimagine their career in the Community Care sector and add their own colour to the canvas that is our mission and strategic priorities.
-
