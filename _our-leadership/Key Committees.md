@@ -44,11 +44,11 @@ description: ""
 
 ## AIC Financial Assistance Scheme Committee
 **1 September 2023 - 31 March 2027**
-![](/images/communitee%20list_spilt_commnittee_12.png)
+![](/images/communitee%20list_spilt_commnittee_11.png)
 
 ## Community Silver Trust (CST) Evaluation Panel
 **1 April 2020 - 31 March 2023**
-![](/images/communitee%20list_spilt_commnittee_12.png)
+![](/images/communitee%20list_spilt_commnittee_13.png)
 
 ## Tote Board Community Health Fund (TBCHF)
 ![](/images/communitee%20list_spilt_commnittee_14.png)
