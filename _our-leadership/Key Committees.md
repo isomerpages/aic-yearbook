@@ -48,7 +48,7 @@ description: ""
 
 ## Community Silver Trust (CST) Evaluation Panel
 **1 April 2020 - 31 March 2023**
-![](/images/communitee%20list_spilt_commnittee_13.png)
+![](/images/communitee%20list_spilt_commnittee_12.png)
 
 ## Tote Board Community Health Fund (TBCHF)
 ![](/images/communitee%20list_spilt_commnittee_14.png)
