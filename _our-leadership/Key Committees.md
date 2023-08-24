@@ -37,7 +37,7 @@ description: ""
 **1 February 2022 to 31 January 2025**
 ![](/images/communitee%20list_spilt_commnittee_10.png)
 
-### Sector Funds
+# Sector Funds
 ## AIC Facility MediFund Committee
 **1 April 2023 - 31 March 2027**
 ![](/images/communitee%20list_spilt_commnittee_11.png)
