@@ -19,7 +19,7 @@ sections:
       alt: picture of ceo and chairman
       image: /images/message-chairman-ceo.png
   - infopic:
-      title: Towards Healthier SG
+      title: Supporting Healthier SG
       description: Our mandate in the national initiative, focusing on preventive
         health and proactive self-management to encourage healthier lifestyles.
       button: Read More
@@ -27,7 +27,7 @@ sections:
       alt: towards healthier sg
       image: /images/aic_homepage_10.png
   - infopic:
-      title: Touching Lives
+      title: Driving Purpose
       description: Our commitment to meeting the changing needs of seniors and
         connecting them to the care and support they need to live well and age
         gracefully.
@@ -36,11 +36,11 @@ sections:
       alt: touching lives
       image: /images/aic_homepage_14.png
   - infopic:
-      title: Driving Progress
+      title: Amplifying Care
       description: Our sustained partnerships with Community Care Organisations to
         support and develop the sector as it grows.
       button: Button Text
-      alt: driving progress
+      alt: amplifying care
       image: /images/aic_homepage_16.png
   - infopic:
       title: Enabling Excellence
