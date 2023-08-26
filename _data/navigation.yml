@@ -12,12 +12,14 @@ links:
   - title: Driving Purpose
     url: "#"
     sublinks:
-      - title: Supporting Seniors
-        url: /driving-purpose/supporting-seniors
-      - title: Supporting Caregivers
-        url: /driving-purpose/supporting-caregivers
-      - title: Supporting The Community
-        url: /driving-purpose/supporting-the-community
+      - title: Caring for our seniors
+        url: /driving-purpose/caring-for-our-seniors/
+      - title: Living well, ageing well
+        url: /driving-purpose/living-well-ageing-well/
+      - title: Caring for their needs
+        url: /driving-purpose/caring-for-their-needs/
+      - title: Providing support
+        url: /driving-purpose/providing-support/
   - title: Amplifying Care
     url: "#"
     sublinks:
