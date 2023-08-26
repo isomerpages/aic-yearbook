@@ -26,3 +26,25 @@ SEA is constantly being improved and refined additional modules to improve engag
 
 In 2022, SGO has made over 3,800 referrals for seniors to engage in various active ageing programmes within their community, link them up to employment/volunteering opportunities and to encourage them to plan early for their future needs through ACP/LPA.
 
+![](/images/how-the-sea-platform-works.png)
+
+## Recruiting Silver Generation Ambassadors
+From September to November 2022, a Recruitment Campaign was rolled out to strengthen our Silver Generation Office’s (SGO) current pool of Silver Generation Ambassadors (SGA). 
+
+The campaign’s multi-touch amplification included displaying quotes from existing SGAs on Digital Display Panels at Housing Development Board (HDB) estates, television screens at food courts and coffee shops, and across social media platforms such as SGO’s Facebook and YouTube channels.
+
+![](/images/recruitment-campaign-37-million.png)
+
+![](/images/sgo-worked-with-kols.png)
+
+## Collaboration with NUS
+Given Singapore’s rapidly ageing population and increasingly diverse needs, SGO collaborated with the National University of Singapore (NUS) to lead a pilot module, ‘GEN2061: Support Healthy Ageing SG’. 
+
+As part of NUS’ Communities & Engagement Pillar, the module seeks to impart the fundamental concepts of volunteerism and enhance students’ understanding of helping seniors in their community age healthily.
+
+![](/images/sgo-staff-nus-student.png)
+
+![](/images/sgas-60-80-hrs-engagement.png)
+
+In anticipation of seniors’ increasing care needs, SGO is currently actively reaching out to various Institutes of Higher Learning to engage students on the important role they play in the lives of Singapore’s ageing population.
+
