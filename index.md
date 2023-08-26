@@ -11,13 +11,13 @@ sections:
       subtitle: AIC Yearbook FY2022
       background: /images/herohires2.png
   - infopic:
-      title: Hear from our Chairman and our CEO
+      title: Views from the Top
       description: Our Chairman and CEO share their thoughts on the year passed and
         our way forward.
       button: Read More
       url: /ceo-message/
       alt: picture of ceo and chairman
-      image: /images/aic_homepage_06a.png
+      image: /images/message-chairman-ceo.png
   - infopic:
       title: Towards Healthier SG
       description: Our mandate in the national initiative, focusing on preventive
