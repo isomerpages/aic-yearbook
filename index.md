@@ -43,11 +43,11 @@ sections:
       alt: amplifying care
       image: /images/aic_homepage_16.png
   - infopic:
-      title: Enabling Excellence
+      title: "Building Trust as a #OneAICFamily"
       description: Our purpose in working for the community and the care for our
         people and those we serve.
       button: Read More
       url: /
-      alt: enabling excellence
+      alt: building trust
       image: /images/aic_homepage_19.png
 ---
