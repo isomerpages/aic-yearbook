@@ -1,5 +1,5 @@
 collections:
-  towards-healthier-sg:
+  supporting-healthier-sg:
     output: true
     order:
       - Understanding Seniors' Needs.md
