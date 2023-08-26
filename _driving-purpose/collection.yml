@@ -2,5 +2,6 @@ collections:
   driving-purpose:
     output: true
     order:
+      - Caring for our seniors.md
       - Supporting Caregivers.md
       - Supporting The Community.md
