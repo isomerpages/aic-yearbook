@@ -2,6 +2,6 @@ collections:
   supporting-healthier-sg:
     output: true
     order:
-      - Supporting Seniors.md
+      - Supporting seniors.md
       - Collaborating with Primary Care Networks.md
       - Preparing the Community Care Sector.md
