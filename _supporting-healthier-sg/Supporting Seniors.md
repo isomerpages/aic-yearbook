@@ -4,15 +4,15 @@ permalink: /supporting-healthier-sg/supporting-seniors/
 description: ""
 ---
 # Supporting seniors
-**Healthier SG is a national initiative to help Singaporeans take steps towards better health and quality of life. With Healthier SG, all Singaporeans will have a family clinic to guide them to staying healthy, a customised Health Plan to support them in their health goals, and access to community programmes to help them stay active. To support seniors in this journey, we are building an ecosystem of support for them.**
+**Launched on 5 July after more than a year of preparation, Healthier SG is a national initiative to help Singaporeans take steps towards better health and quality of life. With Healthier SG, all Singaporeans will have a family doctor to guide them, a customised Health Plan to support their goals, and access to community programmes to stay active. To help seniors on their preventive healthcare journey, AIC is building an ecosystem of care and support for them at the community and sector levels.**
 
 ## Engaging seniors on Healthier SG 
-In support of Ministry of Health’s (MOH) efforts to gather feedback on planned Healthier SG reforms, we conducted 28 interviews with elderly residents in April and May of 2022. Known as the ‘Healthier SG - Resident Engagement’, the project yielded valuable insights that informed the Healthier SG White Paper, which will help guide future MOH policies and plans.
+In support of Ministry of Health’s (MOH) efforts to gather feedback on planned Healthier SG reforms, we conducted 28 interviews with elderly residents in April and May of 2022. Known as the ‘Healthier SG - Resident Engagement’, the project yielded valuable insights that informed the Healthier SG White Paper, to help guide future policies and plans.
 
 ![](/images/aic_supporting-seniors_03.png)
 
 ## Surveying sentiment
-We initiated a collaboration between MOH and the Singapore Management University’s Centre for Research on Successful Ageing, to understand seniors' receptivity towards the Healthier SG initiative.
+We initiated a collaboration between MOH and the Singapore Management University’s Centre for Research on Successful Ageing, to understand seniors' receptivity towards the Healthier SG initiative. 
 
 ![](/images/aic_surveying-sentiment_03.png)
 
@@ -20,19 +20,11 @@ We initiated a collaboration between MOH and the Singapore Management University
 
 
 ## Preventive Health Visits
-Developed by AIC’s Silver Generation Office (SGO), Preventive Health Visits are engagements with ageing residents to nudge behavioural change towards preventive healthcare. The initiative seeks to understand what matters to seniors, and through a network of volunteers known as Silver Generation Ambassadors (SGAs), connect seniors to the wider healthcare and community support system.
+Developed by AIC’s Silver Generation Office (SGO), Preventive Health Visits (PHV) started in April 2022, building on the engagement efforts of our Silver Generation Ambassadors (SGA). PHV are home visits made possible due to the trusting relationships built over the years by SGO with seniors in the community.
+
+With the Healthier SG initiative being rolled out, PHV became a natural engagement channel to help seniors understand and learn more about preventive healthcare. Through the engagements, SGAs were able to provide more information to seniors and, for some, help nudge their behaviour towards accepting preventive healthcare benefits. Through PHV engagements, SGO can also understand what matters to seniors and connect seniors who need support to the broader healthcare and community ecosystem.
 
 ![](/images/preventive-health-visits.jpeg)
 A*n SGA conducting home visits*
 
-Since April 2022, SGO has also made the most of these engagements, sharing Healthier SG initiatives with them, getting their feedback, and assisting them with enrolment.
-
-![](/images/preventive-health-visits-2.png)
-
-## Senior Engagement Application
-
-The Senior Engagement Application (SEA) is a senior-cum-volunteer management system developed by SGO which SGAs log on to conduct physical engagement sessions with seniors.
-
-![](/images/senior-engagement-application-1.png)
-
-![](/images/senior-engagement-application-2.png)
+SGO has made the most of HPV engagements, sharing with seniors about Healthier SG initiatives, assisting them with enrolment, and getting their feedback.
