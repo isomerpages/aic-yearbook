@@ -42,6 +42,6 @@ AIC identified the opportunity to increase awareness of Community Mental Health 
 
 Information about CREST and client workflows have been incorporated into the AAC operations guide to facilitate the process between AAC and CREST in referring cases.
 
-![](/images/better-service-integration-aac-crest.png)
+![](/images/better-service-integration.png)
 
 AIC has also engaged AAC and CREST partners to facilitate service integration and promptly establish a referral flow between them. The ongoing partnership involves ten providers across six constituencies, and plans are in place to scale the collaboration up to all AACs and CREST from 2023.
