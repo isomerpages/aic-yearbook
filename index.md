@@ -23,7 +23,7 @@ sections:
       description: Our mandate in the national initiative, focusing on preventive
         health and proactive self-management to encourage healthier lifestyles.
       button: Read More
-      url: /
+      url: /supporting-healthier-sg/supporting-seniors/
       alt: towards healthier sg
       image: /images/aic_homepage_10.png
   - infopic:
@@ -32,7 +32,7 @@ sections:
         connecting them to the care and support they need to live well and age
         gracefully.
       button: Read More
-      url: /
+      url: /driving-purpose/caring-for-our-seniors/
       alt: touching lives
       image: /images/aic_homepage_14.png
   - infopic:
@@ -42,12 +42,13 @@ sections:
       button: Button Text
       alt: amplifying care
       image: /images/aic_homepage_16.png
+      url: /amplifying-care/supporting-care-delivery/
   - infopic:
       title: "Building Trust as a #OneAICFamily"
       description: Our purpose in working for the community and the care for our
         people and those we serve.
       button: Read More
-      url: /
+      url: /oneaicfamily/future-ready-aic/
       alt: building trust
       image: /images/aic_homepage_19.png
 ---
