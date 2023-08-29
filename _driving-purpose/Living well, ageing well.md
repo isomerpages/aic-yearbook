@@ -33,9 +33,9 @@ Through the pilot, various care providers worked together to create service netw
 
 ![](/images/video-place-holder.png)
 
-With learnings from CoC 1.0, AIC was equipped to develop a more structured approach for constructing a localised care ecosystem known as CoC 2.0. The Tote Board Community Health Fund (TBCHF) also committed to supporting running CoC 2.0 for three years, from 2023 to 2026.
+With learnings from CoC 1.0, AIC was equipped to develop a more structured approach for constructing a localised care ecosystem known as CoC 2.0. The Tote Board Community Health Fund also committed to supporting running CoC 2.0 for three years, from 2023 to 2026.
 
-More pilot sites will be involved in testing and adopting strategies the care providers developed. The objective of CoC’s second chapter would be to create and implement a playbook to support the scalability and replicability of having CoCs across all Active Aging Centres (AACs) island wide.
+More pilot sites will be involved in testing and adopting strategies the care providers developed. The objective of CoC’s second chapter would be to create and implement a playbook to support the scalability and replicability of having CoCs across all Active Ageing Centres (AACs) island wide.
 
 ## Service integration between AAC and CREST
 AIC identified the opportunity to increase awareness of Community Mental Health (CMH) services and activities among primary and community care partners by partnering with AACs to support the larger community's needs better. 
