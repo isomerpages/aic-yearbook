@@ -6,7 +6,7 @@ description: ""
 # Caring for our seniors
 **AIC’s Silver Generation Office continue its outreach in engaging seniors, sharing about Healthier SG, and assisting with enrolment. A recruitment drive to strengthen SGO’s pool of Silver Generation Ambassadors was held in partnership with local Key Opinion Leaders and attracted a healthy number of volunteer sign-ups. To invite the next generation to help seniors age healthily, a meaningful collaboration was forged with the National University of Singapore, which piloted a module for students to be involved in SGO's work and befriend seniors.**
 
-## Engaging our Seniors
+## Engaging our seniors
 Since April 2022, AIC’s Silver Generation Office (SGO) volunteers have engaged with thousands of Singapore’s seniors through their Preventive Health Visits (PHV) programme. The volunteers, known as Silver Generation Ambassadors (SGA), have been making rounds and visiting seniors in their homes, encouraging them to get their routine vaccinations and helping them enrol for Healthier SG, the nation’s latest health initiative.
 
 ![](/images/sgas-223k-seniors.png)
@@ -47,4 +47,3 @@ As part of NUS’ Communities & Engagement Pillar, the module seeks to impart th
 ![](/images/sgas-60-80-hrs-engagement.png)
 
 In anticipation of seniors’ increasing care needs, SGO is currently actively reaching out to various Institutes of Higher Learning to engage students on the important role they play in the lives of Singapore’s ageing population.
-
