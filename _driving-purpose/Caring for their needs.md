@@ -78,7 +78,7 @@ Our ageing nation needs to build a caring and supportive environment for persons
 ## Meals on Wheels
 ![](/images/meals-on-wheels.png)
 
-![](/images/our-objectives.png)
+![](/images/meals-on-wheels-objectives.png)
 
 ![](/images/aic-conducts-assessments-mow-service.png)
 
