@@ -6,7 +6,7 @@ description: ""
 # Caring for their needs
 **AIC expends every effort to care for seniors through initiatives such as Intergenerational Programmes, dedicated Activities for Frailer Seniors, Meals on Wheels, and new initiatives like the Communities of Care pilot. Access to mental health help for seniors is not forgotten, with more activities being held to increase public awareness and the addition of more dementia Go-To-Points (GTP), community nodes for dementia-related resources, in efforts to build a #DementiaFriendlySG.**
 
-# Intergenerational Programmes
+# Intergenerational programmes
 AIC actively collaborates with PCF Sparkletots and the Early Childhood Development Agency (ECDA) on meaningful activities that bring the young and old together. 
 
 Through the AIC-PCF Intergenerational Programme and the national ‘Start Small, Dream Big’ (SSDB) initiative, seniors and children come together to build bonds and connect, fostering a deeper understanding between different generations and backgrounds.
@@ -21,7 +21,7 @@ Compared to 2021, the number of engagements for both the AIC-PCF and SSDB initia
 
 ![](/images/engagements-aic-pcf-ssdb.png)
 
-## Enhancing Activity Access for Frailer Seniors
+## Enhancing activity access for frailer seniors
 Physical, cognitive, and social activities bring well-being to everyone; however, access to suitable, meaningful activities for frailer seniors can be challenging. To better enable frailer seniors’ participation in activities, AIC worked with partners to curate activities ideal for their interests and abilities at two national events in 2022.
 
 ![](/images/enhanced-activity-access-frailer-seniors.png)
