@@ -42,7 +42,8 @@ Given Singapore’s rapidly ageing population and increasingly diverse needs, SG
 
 As part of NUS’ Communities & Engagement Pillar, the module seeks to impart the fundamental concepts of volunteerism and enhance students’ understanding of helping seniors in their community age healthily.
 
-![](/images/sgo-staff-nus-student.png)
+![](/images/sgo-staff-nus-student-v2.png)
+SGO staff and NUS student conducting PHV engagement as part of the on-the-Job training. 
 
 ![](/images/sgas-60-80-hrs-engagement.png)
 
