@@ -6,7 +6,7 @@ description: ""
 # Providing support
 **Caregiving is a shared responsibility that starts with everyone in the community. AIC is working with various partners to enhance financial assistance and relevant resources available to caregivers, to support them in their caring journey better. We are taking active strides to make aid more accessible for all and explore service integrations with community care partners to support the well-being of caregivers in the community and their charges.**
 
-## Respite Care
+## Respite care
 Caregiving is a long and demanding journey. Many caregivers put their loved ones’ needs and interest ahead of theirs. There are multiple channels of support available for caregivers to tap on, including respite care services and the Caregiver Training Grant -- an annual subsidy that lets caregivers attend approved courses to better care for their loved ones.
 
 Short term, temporary care options, otherwise known as respite care options, provide caregivers with additional assistance in their responsibilities. Different respite care providers offer support for seniors with varying levels of needs.
@@ -52,7 +52,7 @@ Additionally, AIC worked with the Ministry of Health (MOH) to weave in the Healt
 
 ![](/images/physical-events-are-back.png)
 
-## SupportGoWhere Caregiving Page
+## SupportGoWhere caregiving page
 AIC has collaborated with ServiceSG and GovTech to create SupportGoWhere’s ‘Care Services Recommender’ to help caregivers to correctly identify the appropriate service or scheme that will be suitable for seniors under their care. This tool is part of our efforts to support and integrate whole-of-government efforts to effectively meet citizen's needs.
 
 Through SupportGoWhere’s latest online resource, AIC hpes to help caregivers access the latest information, plan ahead, and get suitable assistance.
