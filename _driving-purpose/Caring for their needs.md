@@ -39,9 +39,9 @@ Consistent and quality nursing care across PCNs is key to supporting seniors and
 
 AIC has put together additional mental health resources and shared support to equip primary care professionals to complement existing public-facing resources better. 
 
-![](/images/20-pcn-nurses.png)
+![](/images/20-pcn-nurses-v2.png)
 
-![](/images/10-pcns-230-pcn-gps.png)
+![](/images/20-pcn-nurses-photo.png)
 
 ## World Mental Health Day 2022
 World Mental Health Day is commemorated annually on 10 October to raise awareness of mental well-being and to mobilise efforts in support of better mental health.
