@@ -22,7 +22,7 @@ The Caregiver Training Grant is a $200 annual subsidy provided for each care rec
 ## Enhanced Seniors’ Mobility & Enabling Fund
 The Seniors' Mobility and Enabling Fund (SMF) provides holistic support for seniors to age in place within the community.
 
-![](/images/number-of-engagements-for-aic-pcf.png)
+![](/images/smf-extends-subsidies.png)
 
 ![](/images/enhanced-smf-scheme.png)
 
