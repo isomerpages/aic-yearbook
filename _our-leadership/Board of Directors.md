@@ -8,4 +8,4 @@ description: ""
 ![](/images/board-of-directors-3.png)
 ![](/images/board-of-directors-4.png)
 ![](/images/board-of-directors-5.png)
-![](/images/board-of-directors-6.png)
+![](/images/board-of-directors-6-v2.png)
