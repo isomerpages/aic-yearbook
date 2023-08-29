@@ -33,7 +33,7 @@ Mental health is an essential part of one’s overall health and well-being. In 
 
 General Practitioners (GPs) and polyclinics aim to bring care closer to home and improve seniors’ access to mental health services. For this, AIC worked closely with MOH and the Primary Care Networks (PCN) to develop PCN–Mental Health (PCN-MH), catering to the public’s needs through an integrated mental health network.
 
-![](/images/pcn-mh-initiative-aims-t0.png)
+![](/images/the-pcn-mh-initiative.png)
 
 Consistent and quality nursing care across PCNs is key to supporting seniors and caregivers holistically in the community. Recognising this, AIC incorporates more mental health components and care within the PCN nurse training roadmap.
 
