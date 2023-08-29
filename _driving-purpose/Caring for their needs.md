@@ -46,9 +46,7 @@ AIC has put together additional mental health resources and shared support to eq
 ## World Mental Health Day 2022
 World Mental Health Day is commemorated annually on 10 October to raise awareness of mental well-being and to mobilise efforts in support of better mental health.
 
-![](/images/aic-30-partners-60-activities.png)
-
-![](/images/dementia-photo.png)
+![](/images/30-partners-60-activities-v2.png)
 
 Planned with the Interagency Taskforce on Mental Health and Well-Being, the overarching theme for WMHD 2022 was ‘Stand Together for Mental Health’. The nation-wide campaign featured merchandise in the form of car decals, tote bags, and umbrellas specially designed by local artist Stephanie Raphaela Ho, a mental health activist who has lived with depression and anxiety.
 
@@ -62,6 +60,8 @@ The collaboration also engaged a local media company, TheSmartLocal. Under this 
 In November 2022, AIC officially launched an inaugural campaign to spearhead Singapore’s movement to build a more dementia-friendly nation. The social movement was part of the Dementia-Friendly Singapore (DFSG) initiative, first announced in 2016 by the MOH to address the growing prevalence of dementia in Singapore.
 
 The #DementiaFriendlySG movement rallies society at all levels – individuals, communities, and businesses, calling on each group to play a part in building a caring and dementia-friendly Singapore.
+
+![](/images/dementia-photo.png)
 
 Led by AIC and supported by 81 partners, the campaign’s key message was the importance of creating an inclusive society. It advocated ways for the public to become a ‘Dementia Friend’ to support people living with dementia in their communities.
 
