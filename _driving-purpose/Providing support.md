@@ -35,7 +35,7 @@ Introduced in 2019, the Home Caregiving Grant (HCG) is disbursed to eligible car
 
 The increased HCG payout is part of MOH’s overall efforts to help lighten the burden of caregivers from lower-income families and to recognise their contributions. 
 
-![](/images/feature-abdul-majid.png)
+![](/images/mr-majid.png)
 
 ## Enhanced CHAS outreach
 ![](/images/chas-is-an-initiative.png)
@@ -50,7 +50,9 @@ Additionally, AIC worked with the Ministry of Health (MOH) to weave in the Healt
 
 ![](/images/a-tiktok-video-featuring.png)
 
-![](/images/physical-events-are-back.png)
+![](/images/enhanced-activity-access-frailer-seniors.png)
+
+*Physical events are back, first with the launching of the new CHAS portal in May 2022 and the resumption of CHAS public roadshows all over Singapore from August 2022.*
 
 ## SupportGoWhere caregiving page
 AIC has collaborated with ServiceSG and GovTech to create SupportGoWhere’s ‘Care Services Recommender’ to help caregivers to correctly identify the appropriate service or scheme that will be suitable for seniors under their care. This tool is part of our efforts to support and integrate whole-of-government efforts to effectively meet citizen's needs.
