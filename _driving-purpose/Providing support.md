@@ -38,7 +38,7 @@ The increased HCG payout is part of MOH’s overall efforts to help lighten the 
 ![](/images/feature-abdul-majid.png)
 
 ## Enhanced CHAS outreach
-![](/images/enhanced-chas-outreach.png)
+![](/images/chas-is-an-initiative.png)
 
 To encourage more people to sign up for CHAS uptake in 2022, AIC ran a multi-pronged digital campaign in July and August, raising awareness on the expansion of the Chronic Disease Management Programme (CDMP). 
 
