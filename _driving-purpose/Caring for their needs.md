@@ -63,8 +63,6 @@ In November 2022, AIC officially launched an inaugural campaign to spearhead Sin
 
 The #DementiaFriendlySG movement rallies society at all levels – individuals, communities, and businesses, calling on each group to play a part in building a caring and dementia-friendly Singapore.
 
-![](/images/dementia-photo.png)
-
 Led by AIC and supported by 81 partners, the campaign’s key message was the importance of creating an inclusive society. It advocated ways for the public to become a ‘Dementia Friend’ to support people living with dementia in their communities.
 
 ![](/images/dementia-friendly-sg-52k.png)
