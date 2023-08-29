@@ -58,7 +58,7 @@ The collaboration also engaged a local media company, TheSmartLocal. Under this 
 
 ![](/images/world-mental-health-day-2022.png)
 
-## #DementiaFriendlySG Movement
+## #DementiaFriendlySG movement
 In November 2022, AIC officially launched an inaugural campaign to spearhead Singapore’s movement to build a more dementia-friendly nation. The social movement was part of the Dementia-Friendly Singapore (DFSG) initiative, first announced in 2016 by the MOH to address the growing prevalence of dementia in Singapore.
 
 The #DementiaFriendlySG movement rallies society at all levels – individuals, communities, and businesses, calling on each group to play a part in building a caring and dementia-friendly Singapore.
