@@ -9,14 +9,14 @@ description: ""
 ## Engaging seniors on Healthier SG 
 In support of Ministry of Health’s (MOH) efforts to gather feedback on planned Healthier SG reforms, we conducted 28 interviews with elderly residents in April and May of 2022. Known as the ‘Healthier SG - Resident Engagement’, the project yielded valuable insights that informed the Healthier SG White Paper, to help guide future policies and plans.
 
-![](/images/aic_supporting-seniors_03.png)
+![](/images/supporting-seniors-image1.png)
 
 ## Surveying sentiment
 We initiated a collaboration between MOH and the Singapore Management University’s Centre for Research on Successful Ageing, to understand seniors' receptivity towards the Healthier SG initiative. 
 
-![](/images/aic_surveying-sentiment_03.png)
+![](/images/supporting-seniors-image2.png)
 
-![](/images/aic_surveying-sentiment_06.png)
+![](/images/supporting-seniors-image3.png)
 
 
 ## Preventive Health Visits
