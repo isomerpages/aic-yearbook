@@ -11,6 +11,6 @@ In the Healthier SG White Paper released in September 2022, it was highlighted t
 
 To build up AAC staff’s knowledge and skills, AIC introduced relevant training courses, which were attended by over 800 staff. In support of the Healthier SG launch, new courses such as the ‘Social Connector and Community-based Vital Signs Monitoring’ were also trialed in February and March 2023, in preparation for roll-out to all AACs thereafter.
 
-![](/images/in-july-2022-34-participants.png)
+![](/images/preparing-ccs-image1.png)
 
 AIC has also conducted several briefing-cum-sharing sessions with various divisions to discuss AAC's role in supporting the Healthier SG initiative. AIC will carry out more activities to engage with our Community Care partners as the AAC network continues to serve the senior communities in Singapore.
