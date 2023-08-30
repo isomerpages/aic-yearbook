@@ -9,10 +9,10 @@ description: ""
 ## Onboarding General Practitioners
 We have prepared onboarding resources for General Practitioner clinics and their teams, to equip them in administering Healthier SG initiatives in their clinics. This has allowed the teams to familiarise themselves with the content and prepare them for the initiative ahead of its launch.
 
-![](/images/onboarding-general-practitioners.png)
+![](/images/collaborating-pcn-image1.png)
 
 To increase efficiencies, AIC360 Touchpoints coordinates service delivery via a consolidated platform to reduce information asymmetry. It also gives Community Care Partners access to a holistic client landscape.
 
-![](/images/onboarding-general-practitioners-3.png)
+![](/images/collaborating-pcn-image2.png)
 
-![](/images/onboarding-general-practitioners-2.png)
+![](/images/collaborating-pcn-image3.png)
