@@ -78,26 +78,28 @@ Led by AIC and supported by 81 partners, the campaign’s key message was the im
 Our ageing nation needs to build a caring and supportive environment for persons living with dementia to enable them to continue living a fulfilling life in the community.
 
 ## Meals on Wheels
-![](/images/meals-on-wheels.png)
+![](/images/caring-for-their-needs-image18.png)
 
-![](/images/meals-on-wheels-objectives.png)
+![](/images/caring-for-their-needs-image19.png)
 
-![](/images/aic-conducts-assessments-mow-service.png)
+![](/images/caring-for-their-needs-image20.png)
 
 ## Community Case Management Service
 In 2022, the Cluster Support (CS) programme was streamlined into the Community Case Management Service (CCMS) to provide support to seniors in the community who have difficulties managing their health and social care needs.
 
-![](/images/revised-ccms-model.png)
+![](/images/caring-for-their-needs-image21.png)
 
 ## Advance Care Planning
 A study conducted by SMU in 2019 revealed that 53.3% of Singaporeans surveyed are now more comfortable discussing end-of-life matters and issues concerning their own death, compared to 36% in 2013. This is an encouraging trend of Singaporeans becoming more willing end-of-life matters.
 
 AIC is the national office that works closely with healthcare providers and community partners to make Advance Care Planning (ACP) more accessible to Singaporeans. An ACP helps Singaporeans communicate their values and healthcare preferences to their loved ones and healthcare team. The process of an ACP helps to kickstart conversations and provide a safe space for the beneficiary to share their personal wishes and care preferences, decreasing the stress of decision-making that their family members have to go through. It also ensures that their preferences are heard, especially when they can no longer speak for themselves. 
 
-![](/images/a-simplified-timeline-of-the-steps.png)
+![](/images/caring-for-their-needs-image22.png)
+
+[Simple Steps For ACP | Agency For Integrated Healthcare (aic.sg)](https://www.aic.sg/care-services/simple-steps-for-acp)
 
 AIC and our community providers are also working to enhance public awareness of ACP through outreach to younger Singaporeans via online resources on social media platforms. Educating this demographic, who may be caregivers, may also help to convince their older parents to do an ACP as well. With Tele-ACP being rolled out during the Covid-19 onset, it has also made it more convenient and accessible for Singaporeans to do their ACP.
 
-![](/images/as-of-31-may-2023.png)
+![](/images/caring-for-their-needs-image23.png)
 
 For patients with chronic or life-limiting conditions, they may check in with their healthcare professionals to do an ACP. For healthy individuals who wish to do their ACP, they may visit the MyLegacy page for a list of the places to make an appointment for an ACP session, or visit https://mylegacy.life.gov.sg/ for more details on end-of-life planning.
