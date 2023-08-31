@@ -3,7 +3,7 @@ title: Employee Engagement
 permalink: /oneaicfamily/employee-engagement/
 description: ""
 ---
-# Employee Engagement
+# Employee engagement
 **We deeply care for our people – AIC’s enablers in transforming the Community Care landscape in Singapore. Our talents render care services and work with various community partners to support the delivery of care services to many communities, often going above and beyond their normal work scopes when certain situations require them to. Our people are at the heart of our work, and we are committed to creating an environment where they are supported to do their best.**
 
 ## AIC 2022 Homecoming
