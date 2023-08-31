@@ -3,10 +3,10 @@ title: Recognising Partners and Contributions
 permalink: /amplifying-care/recognising-partners-and-contributions/
 description: ""
 ---
-# Recognising Partners and Contributions
+# Recognising partners and contributions
 **The Silver Generation Office held appreciation events for their volunteers and community partners as it celebrated its 8th milestone. Our staff also received two public service awards for efforts in promoting vaccinations among seniors during the COVID-19 pandemic.**
 
-## Silver Generation’s 8th Anniversary
+## Silver Generation’s 8th anniversary
 Following the ease in COVID-19 restriction measures, the Silver Generation Office (SGO) resumed its annual appreciation events for Silver Generation Ambassadors (SGAs) and Community Partners in conjunction with their 8th Anniversary. 
 
 A total of 478 SGAs received service awards in recognition of their long-standing dedication and commitment to supporting seniors in the community. 20 SGAs who have gone above and beyond their call of duty while volunteering was also identified and awarded with the Exemplary Award.
