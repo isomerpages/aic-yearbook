@@ -3,11 +3,11 @@ title: Supporting Care Delivery
 permalink: /amplifying-care/supporting-care-delivery/
 description: ""
 ---
-# Supporting Care Delivery
+# Supporting care delivery
 
 **Our people and systems deliver quality care to communities all around Singapore. We always strive to incorporate better methods and strategies to improve our initiatives, workflows, and processes to meet the needs of our population. With these consistent developments, we strengthen Singapore’s capabilities to create vibrant engagements through our network of Community Care Organisations.**
 
-## Making Care Better
+## Making care better
 ![](/images/aic-connect-workplace.png)
 
 Named AIConnect@Workplace, it is a central node for all partners in the Community Care sector to access the latest information, and tap on a repository of healthcare resources and guides. The channel enables partners to engage and connect with one another and share news.
@@ -44,7 +44,7 @@ Service providers are encouraged to work towards adopting the good practices adv
 
 ![](/images/partners-gphs.png)
 
-### New Activity Resources
+### New activity resources
 ![](/images/heartful-conversations.png)
 
 ![](/images/keeping-frailer-seniors-active.png)
