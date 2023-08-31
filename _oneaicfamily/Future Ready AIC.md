@@ -17,15 +17,6 @@ To build digital capabilities, we on-boarded a suite of digital tools to acceler
  
 To ensure that our employees are equipped with the necessary knowledge to leverage on these digital tools, we adopted Citizen Developer Strategy, where employees were trained to use various no-code digital tools to streamline their work.  
 
-## Launch of Microsoft 365
-As part of AIC's continuous efforts in driving organisational transformation, we were an early adopter of the Microsoft 365 suite of applications among the Ministry of Health’s (MOH) healthcare clusters and entities.
-
-![](/images/transforming-the-way-image.png)
-
-![](/images/formulation-of-policies.png)
-
-![](/images/m653-was-piloted.png)
-
 ## Enhancing cybersecurity
 Technological advances continue to march ahead and at AIC, we understand the importance of protecting ourselves against the various threats that continue to emerge. Strengthening the organisation’s cyber security awareness serves to not only ourselves, but the information of our clients, who we consider the core of the work we do.
 
