@@ -3,10 +3,10 @@ title: Building Skills and Strategies
 permalink: /amplifying-care/building-skills-and-strategies/
 description: ""
 ---
-# Building Skills and Strategies
+# Building skills and strategies
 **We continue to focus our efforts on enriching the talent pool and bench-strength of our people through various leadership programmes and initiatives. A structured pathway was launched for Senior Nurses and Nurse Managers to train them to assume leadership positions. At the same time, an enhanced AIC Learning Network takes shape as more courses are progressively added for the benefit of our care partners.**
 
-## AIC Leadership-Building Programmes
+## AIC leadership-building programmes
 The IMPACT and INSIGHT Leadership programmes are part of AIC’s initiatives to provide a series of customised programme and pathway to grow the leadership pipeline and bench strength in the Community Care sector. More than 100 leaders and managers have attended and benefitted from these Leadership Milestone programmes. 
 
 AIC sends one leader from the Community Care sector each year to attend Harvard Business School’s ‘Strategic Perspective in Non-profit Management’ programme. This programme is a partnership between Harvard Singapore Foundation and the Lee Kuan Yew School of Public Policy.
@@ -26,7 +26,7 @@ Since January 2022, AIC has also facilitated CCNLP peer networking sessions for 
 
 Additionally, MOH and AIC are also working with participating CCOs to develop Individual Development Plans to track the development and progression of their nursing talents in accordance with the Community Nursing Competency Framework. 
 
-## AIC Learning Network
+## AIC learning network
 ![](/images/the-aic-learning-network.png)
 
 Since the launch of the Community Care Learning Management System (CCLMS) to encourage self-directed e-learning, we have streamlined and improved the user experience to meet the needs of sector workforce through annual system enhancements. New enhancements will be rolled out to improve user management functionality and governance in alignment to SkillsFuture Singapore’s Continuing Education and Training Grants Governance Framework. 
