@@ -3,7 +3,7 @@ title: Future Ready AIC
 permalink: /oneaicfamily/future-ready-aic/
 description: ""
 ---
-# Future-Ready AIC
+# Future-ready AIC
 **The world is advancing at a rapid pace. At AIC, we are mindful of the importance of implementing digital solutions to increase efficiencies and enhance the experience of all those who interact with our services. Ensuring our people thrive with the right tools is important because, with a future-focused and ready workforce, we will be better positioned to achieve the best care outcomes for our clients.**
 
 ## Transforming the way we work
