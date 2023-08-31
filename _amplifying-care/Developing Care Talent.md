@@ -3,12 +3,12 @@ title: Developing Care Talent
 permalink: /amplifying-care/developing-care-talent/
 description: ""
 ---
-# Developing Care Talent
+# Developing care talent
 **While we continue to uphold our vision to create a vibrant care community in Singapore, our mission to invest in the people that are part of our Care Community remains unchanged. We have paid close attention to training, equipping, and developing our various talent pools, ensuring we have clear career pathways and development programmes in place. After all, shaping the next generation of leaders in Community Care only serves to further strengthen the care network and improve capabilities, service delivery, and care quality.**
 
 ![](/images/developing-care-talent.png)
 
-## Employment Facilitation Initiatives
+## Employment facilitation initiatives
 
 A suite of employment facilitation initiatives for the Community Care sector was implemented to facilitate employment of locals to meet capacity expansions. 
 
@@ -16,7 +16,7 @@ These initiatives tie in with AIC’s strategic objectives of securing a product
 
 ![](/images/1300-locals-60-pmets.png)
 
-## Community Care Job Redesign Initiative
+## Community care Job Redesign initiative
 The Job Redesign (JR) initiative for the Community Care sector evaluates and if required, redesigns support care roles, which are critical to the smooth delivery of care services within the field. The aim of JR is to create higher value-adding roles that combine different care skills and functions, to encourage cross-deployment and multi-skilling of staff. 
 
 From the initiative, support care staff will have more options to build on and advance their careers in Community Care.
@@ -51,7 +51,7 @@ Various relevant topics were shared at the forum, including Japan’s experience
 
 ![](/images/1700-attendees-20-sppeakers.png)
 
-## Community Care Excellence Awards
+## Community care excellence awards
 ![](/images/community-care-excellence-awards-2.png)
 
 Winning Teams comprise community care heroes who are constantly thinking of ways to improve quality care in three broad categories:  
