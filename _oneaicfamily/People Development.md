@@ -3,7 +3,7 @@ title: People Development
 permalink: /oneaicfamily/people-development/
 description: ""
 ---
-# People Development
+# People development
 **We invest in our people and talent through various new initiatives to support their growth and enrich their career journeys with us. My CAREer@AIC gives staff a one-stop platform to gain a holistic overview of the business and career development possibilities at AIC. Initiatives such as ‘Walk In Your Shoes’ encourage inter-department learning and engagement, driving teamwork and collaboration. Our onboarding experience for new joiners continues to be innovatively revamped, and all these initiatives inspire our people to endeavour for excellence, unity, and understanding.**
 
 ## My CAREer@AIC
