@@ -3,10 +3,10 @@ title: Strengthening Care Capabilities
 permalink: /amplifying-care/strengthening-care-capabilities/
 description: ""
 ---
-# Strengthening Care Capabilities
+# Strengthening care capabilities
 **At AIC, we believe that quality care starts with people. To enrich and invest in the many hands that care for our community, we equip our teams with the latest information and resources. From seminars to research-based initiatives for improved safety and care practices, we are committed to reshaping the work that goes into transforming the many lives we collectively touch.**
 
-## Calibrating Care Strategies
+## Calibrating care strategies
 ### Community Care Work Plan Seminar
 The annual Community Care Work Plan Seminar (CCWPS) serves as a key platform for MOH and AIC to share the achievements of the Community Care sector and the key developments ahead. This helps Community Care partners align, build, and support their goals.
 
@@ -25,12 +25,12 @@ The Community Care Digital Transformation Plan (CCDTP) is a structured framework
 
 ![](/images/a-funding-of-16-million.png)
 
-### Capability Building Initiatives for CCOs
+### Capability building initiatives for CCOs
 ![](/images/since-2014-over-1300.png)
 
 ![](/images/number-of-staff-2022.png)
 
-### Productivity and Digitalisation Grant
+### Productivity and digitalisation grant
 ![](/images/streamlining-processes-adopting-technology.png)
 
 Community care providers with technology adoption projects that can improve productivity in quality care, such as through savings in manhours cost and more may tap on PDG, which is administered by AIC.
@@ -39,7 +39,7 @@ Community care providers with technology adoption projects that can improve prod
 
 ![](/images/chef-partnership-programme.png)
 
-### SWIfT Study
+### SWIfT study
 The Smart Workflow Infrastructure and Technology (SWIfT) aims to improve efficiency in nursing home wards through a comprehensive review of the overall infrastructure design as well as the processes and technologies used.
 
 Five participating nursing homes received reviews and recommended improvements to their layouts and workflows. They were also given suggestions on suitable technological solutions that could be incorporated to improve productivity.
@@ -48,7 +48,7 @@ Five participating nursing homes received reviews and recommended improvements t
 
 We are working with MOH on changes in care model and regulations, as well as to rethink the design of next-generation nursing homes. This is all with the goal of promoting greater process efficiency in the future.
 
-### Clinical Quality Improvement Collaborative
+### Clinical Quality Improvement collaborative
 The Clinical Quality Improvement Collaborative (CQI) is a joint effort by AIC and nursing homes to improve resident safety and quality of care, as well as to facilitate the spread of good practices within and across organisations.
 
 ![](/images/3-year-cqi-collaborative-graduation.png)
