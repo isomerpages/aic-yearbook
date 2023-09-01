@@ -2,7 +2,7 @@ collections:
   oneaicfamily:
     output: true
     order:
-      - Enhancing Staff Wellbeing.md
-      - Culture & Engagement.md
       - People Development.md
+      - Culture & Engagement.md
+      - Enhancing Staff Wellbeing.md
       - Future Ready AIC.md
