@@ -2,6 +2,6 @@ collections:
   oneaicfamily:
     output: true
     order:
-      - Future Ready AIC.md
       - People Development.md
+      - Future Ready AIC.md
       - Employee Engagement.md
