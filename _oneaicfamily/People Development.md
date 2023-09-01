@@ -4,7 +4,7 @@ permalink: /oneaicfamily/people-development/
 description: ""
 ---
 # People development
-**We invest in our people and talent through various new initiatives to support their growth and enrich their career journeys with us. My CAREer@AIC gives staff a one-stop platform to gain a holistic overview of the business and career development possibilities at AIC. Initiatives such as ‘Walk In Your Shoes’ encourage inter-department learning and engagement, driving teamwork and collaboration. Our onboarding experience for new joiners continues to be innovatively revamped, and all these initiatives inspire our people to endeavour for excellence, unity, and understanding.**
+**As an organisation, AIC has grown from strength to strength, gradually expanding our capabilities and functions to deliver quality care services and positively impact communities. To support AIC’s growth, we are investing in our people through initiatives to support their personal and career growth in their journey with us. My CAREer@AIC gives staff a one-stop platform to gain a holistic overview of the business and the career development possibilities at AIC. Meanwhile, initiatives such as ‘Walk In Your Shoes’ and the ‘Innovation & Learning Fiesta’ encourage inter-department learning and engagement, driving teamwork and collaboration. We also continuously refresh the onboarding experience for new joiners to inspire our younger talents to endeavour for excellence, unity, and understanding.**
 
 ## My CAREer@AIC
 At AIC, we see endless possibilities in our people. We enable our people to take ownership of their development and explore various career paths by providing them with the right opportunities and tools.
