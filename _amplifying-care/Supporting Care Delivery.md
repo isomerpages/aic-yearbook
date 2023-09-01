@@ -28,40 +28,22 @@ Since October 2022, we have successfully onboarded three grants onto OSG. The re
 
 ![](/images/180-service-providers%20.png)
 
-## CareConnect
+### CareConnect Phase 2A
+![](/images/careconnect-platform.png)
+
 CareConnect is a secure, digital platform to engage Active Ageing Centre (AAC) providers with the latest information and resources. AAC providers also use the platform to submit their progress reports, which makes submissions easy and helps to reduce errors.
 
 ![](/images/progess-reports-aic.png)
 
-In 2022, all AACs have started using CareConnect to submit their Progress Reports to AIC. Resources and past webinar records can also be found via the platform for Providers’ easy retrieval.
+In 2022, all AACs started using CareConnect to submit their Progress Reports to AIC. Resources and past webinar records can also be found via the platform for easy retrieval.
 
 ### Good Practices Handbooks
-The Good Practices Handbooks (GPHs) were developed by AIC with inputs from workgroups representing the Community Care sector, and an advisory panel comprising members from the Ministry of Health (MOH) and the community. GPHs articulate realistic and achievable day-to-day practices of quality care, above and beyond Service Requirements.
+AIC developed the Good Practices Handbooks (GPHs) with inputs from workgroups representing the Community Care sector and an advisory panel comprising members from the Ministry of Health (MOH) and the community. GPHs articulate realistic and achievable day-to-day practices of quality care, above and beyond Service Requirements.
 
 ![](/images/good-practices-handbooks.png)
 
-Service providers are encouraged to work towards adopting the good practices advocated in the handbooks in the next three to five years, to raise the overall quality of care within the sector. Concurrently, AIC is developing resources to encourage adoption among providers, through e-learning modules on specific topics, infographics and videos, and thematic sharing sessions.
+Service providers are encouraged to work towards adopting the good practices advocated in the handbooks in the next three to five years to raise the overall quality of care within the sector. Concurrently, AIC is developing resources to encourage adoption among providers through e-learning
 
 ![](/images/partners-gphs.png)
 
-### New activity resources
-![](/images/heartful-conversations.png)
-
-![](/images/keeping-frailer-seniors-active.png)
-
-We are looking to broaden our range of activity resources to provide more support to seniors, Community Care staff, and caregivers, to enrich their engagements.
-
-### Community Silver Trust
-![](/images/community-silver-trust.png)
-
-The matching grant, disbursed by AIC, is used by eligible organisations on projects to increase service capacity, build their capabilities, and to defray operating expenses.  
-![](/images/1-billion-top-up.png)
-
-![](/images/cst-matched-311-million.png)
-
-### Launch of FUN! Fund
-Launched in November 2022, the FUN! Fund was co-developed by AIC and The Community Foundation of Singapore. It supports innovative ideas that engage seniors to improve their well-being, be socially active, and have fun.
-
-![](/images/fund-objectives.png)
-
-![](/images/call-for-donations.png)
+modules on specific topics, infographics and videos, and thematic sharing sessions.
