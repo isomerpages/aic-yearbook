@@ -57,6 +57,7 @@ Winning Teams comprise community care heroes who are constantly thinking of ways
 
 ![](/images/dover-park-hospice-telemedicine-services.png)
 
+## Enhancing Productivity
 ### Community Care Digital Transformation Plan
 The Community Care Digital Transformation Plan (CCDTP) is a structured framework that aims to uplift digitalisation rates and enhance productivity and job satisfaction levels in Community Care Organisations (CCO). CCDTP was unveiled by AIC at its 2022 CCWPS. This new initiative aims to boost the adoption of digital solutions among partners in the sector to render better support to seniors and clients in the community.
 
@@ -87,22 +88,19 @@ Five participating nursing homes received reviews and recommended improvements t
 
 We are working with MOH on changes in care model and regulations, as well as to rethink the design of next-generation nursing homes. This is all with the goal of promoting greater process efficiency in the future.
 
-### Clinical Quality Improvement collaborative
-The Clinical Quality Improvement Collaborative (CQI) is a joint effort by AIC and nursing homes to improve resident safety and quality of care, as well as to facilitate the spread of good practices within and across organisations.
+## Enhancing Cybersecurity
+### Cybersecurity Awareness Programme
+AIC has developed the Cybersecurity Skills and Competency Framework and supported the launch of the Community Care Digital Transformation Plan. To raise cybersecurity awareness, three Cyber Webinars were organised for participants to gain more insights on social engineering, PDPA, and business continuity planning as part of AIC’s Cyber Week.
 
-![](/images/3-year-cqi-collaborative-graduation.png)
+![](/images/150-community-care.png)
 
-![](/images/i-prevent-pneumonia.png)
+### Open Government Product (OGP) HealthTech Sprint
+AIC attended the OGP HealthTech Sprint in March 2023 to leverage on a couple of initiatives, such as OGP CheckFirst, FormSG, sgID, and forms.sg to streamline the following processes: 
 
-![](/images/100-percent-of-all-direct-care-staff.png)
+* Senior Mobility Fund (SMF) Applications 
+* Caregiver Training Grant (CTG) Training Provider Applications and feedback management 
+* Sector Manpower Quota Eligibility Check and Work Pass Application Form 
+* Nursing Home Safety Culture Survey
 
-![](/images/2-5-percent-reduction.png)
+![](/images/the-initiatives-implemented-achieved.png)
 
-### Public Sector Transformation Awards
-In July 2022, SGO received the One Public Service Award and the Star Partner Award at the Public Sector Transformation Awards.
-
-![](/images/one-public-service-award.png)
-
-![](/images/star-partner-award.png)
-
-![](/images/public-sector-transformation.png)
