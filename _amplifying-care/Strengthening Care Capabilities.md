@@ -6,29 +6,19 @@ description: ""
 # Strengthening care capabilities
 **At AIC, we believe that quality care starts with our people. To enrich and invest in the many hands that care for our community, we equip them with the latest information and resources. From seminars to research-based initiatives for improved care practices, we are committed to reshaping how we transform the lives we collectively touch.**
 
-## Calibrating Care Strategies
+## Calibrating care strategies
 ### Community Care Work Plan Seminar
 
 The annual Community Care Work Plan Seminar (CCWPS) serves as a key platform for MOH and AIC to share the achievements of the Community Care sector and the developments ahead. This helps Community Care partners align, build, and support their goals.
 
 The 7th edition of CCWPS, themed ‘Co-creating a Healthier SG’, was held at Pan Pacific Singapore in June 2022. Minister for Health Mr Ong Ye Kung graced the event as the Guest-of-Honour.
 
-![](/images/strenghtening-care-capabilities.png)
+![Panel discussion on "Collaborating with Healthcare Clusters for a Stronger Community Care"](/images/strenghtening-care-capabilities.png)
 
 ![](/images/100-sectors-leaders.png)
 
 Partners benefitted from the in-depth panel discussions addressing ‘Collaborating with Healthcare Clusters for a Stronger Community Care’ and took part actively in the Question-and-Answer sessions. There were also keynote speeches on ‘Celebrating Collaborations with Friends of Community Care’ and ‘Empowering the Community Care Sector for a Healthier SG’.
 
-### Community Care SPRINT Forum 2022
-Organised by AIC, the four-day Community Care SPRINT Forum (CCSF) focuses on supporting the Community Care sector’s continued emphasis on improving quality and productivity, digitalisation efforts, people development, and process innovation. 
-
-With the theme ‘Reimagining the Future of Community Care with Healthier SG’, the programme explored new ways of delivering quality care in an evolving ecosystem.  
-
-Various relevant topics were shared at the forum, including Japan’s experience managing an ageing society, corporate CapitaLand’s strategy in leading their organisation through change and uncertainty, the latest innovations from the Community Care sector and more.
-
-![](/images/ccwps-2022.png)
-
-![](/images/4-day-ccsf-event.png)
 
 ### Community Care SPRINT Forum 2022
 Organised by AIC, the four-day Community Care SPRINT Forum (CCSF) focuses on supporting the Community Care sector’s continued emphasis to further improve quality and productivity, digitalisation efforts, people development, and process innovation. 
@@ -41,7 +31,7 @@ Various relevant topics were shared at the forum, including Japan’s experience
 
 ![](/images/1700-attendees-20-sppeakers.png)
 
-### Community care excellence awards
+### Community Care Excellence Awards
 ![](/images/community-care-excellence-awards-2.png)
 
 Winning Teams comprise community care heroes who are constantly thinking of ways to improve quality care in three broad categories:  
@@ -49,7 +39,7 @@ Winning Teams comprise community care heroes who are constantly thinking of ways
 * Client Experience and  
 * Productivity Improvement
 
-![](/images/ccea-award-30-ccos.png)
+![](/images/ccea%20award%20r1.png)
 
 ![](/images/mr-james-ganesan.png)
 
@@ -62,6 +52,7 @@ Winning Teams comprise community care heroes who are constantly thinking of ways
 The Community Care Digital Transformation Plan (CCDTP) is a structured framework that aims to uplift digitalisation rates and enhance productivity and job satisfaction levels in Community Care Organisations (CCO). CCDTP was unveiled by AIC at its 2022 CCWPS. This new initiative aims to boost the adoption of digital solutions among partners in the sector to render better support to seniors and clients in the community.
 
 ![](/images/ccwps-2022.png)
+(pending image change due to corrupt file)
 
 ![](/images/a-funding-of-16-million.png)
 
@@ -103,4 +94,3 @@ AIC attended the OGP HealthTech Sprint in March 2023 to leverage on a couple of 
 * Nursing Home Safety Culture Survey
 
 ![](/images/the-initiatives-implemented-achieved.png)
-
