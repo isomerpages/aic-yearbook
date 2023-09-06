@@ -18,11 +18,10 @@ Since October 2022, we have successfully onboarded three grants onto OSG. The re
 ![](/images/180-service-providers%20.png)
 
 ## CareConnect Phase 2A
-![](/images/careconnect-platform.png)
 
 CareConnect is a secure, digital platform to engage Active Ageing Centre (AAC) providers with the latest information and resources. AAC providers also use the platform to submit their progress reports, which makes submissions easy and helps to reduce errors.
 
-![](/images/progess-reports-aic.png)
+![](/images/careconnect3.png) 
 
 In 2022, all AACs started using CareConnect to submit their Progress Reports to AIC. Resources and past webinar records can also be found via the platform for easy retrieval.
 
@@ -31,16 +30,17 @@ AIC developed the Good Practices Handbooks (GPHs) with inputs from workgroups re
 
 ![](/images/good-practices-handbooks.png)
 
-Service providers are encouraged to work towards adopting the good practices advocated in the handbooks in the next three to five years to raise the overall quality of care within the sector. Concurrently, AIC is developing resources to encourage adoption among providers through e-learning
+Service providers are encouraged to work towards adopting the good practices advocated in the handbooks in the next three to five years to raise the overall quality of care within the sector. Concurrently, AIC is developing resources to encourage adoption among providers through e-learning modules on specific topics, infographics and videos, and thematic sharing sessions.
 
-![](/images/partners-gphs.png)
 
-modules on specific topics, infographics and videos, and thematic sharing sessions.
-
+![](/images/sprint1.png)
+*Partners with their copies of GPHs at the SPRINT forum in Oct 2022*
 ## New Activity Resources
 ![](/images/heartful-conversations.png)
+View toolkit [here](https://aic.buzz/heartfulconversationsw)
 
 ![](/images/keeping-frailer-seniors-active.png)
+Watch videos: [In Malay](https://for.sg/wellness-exercisevid-malay) | [In Tamil](https://for.sg/wellness-exercisevid-tamil)
 
 We are looking to broaden our range of activity resources to provide more support to seniors, Community Care staff, and caregivers, to enrich their engagements.
 
