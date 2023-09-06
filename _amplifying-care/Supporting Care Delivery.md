@@ -35,7 +35,7 @@ Service providers are encouraged to work towards adopting the good practices adv
 
 ![](/images/sprint1.png)
 *Partners with their copies of GPHs at the SPRINT forum in Oct 2022*
-## New Activity Resources
+## New activity resources
 ![](/images/heartful-conversations.png)
 View toolkit [here](https://aic.buzz/heartfulconversationsw)
 
