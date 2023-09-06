@@ -5,7 +5,9 @@ description: ""
 ---
 # People development
 **As an organisation, AIC has grown from strength to strength, gradually expanding our capabilities and functions to deliver quality care services and positively impact communities. To support AIC’s growth, we are investing in our people through initiatives to support their personal and career growth in their journey with us. My CAREer@AIC gives staff a one-stop platform to gain a holistic overview of the business and the career development possibilities at AIC. Meanwhile, initiatives such as ‘Walk In Your Shoes’ and the ‘Innovation & Learning Fiesta’ encourage inter-department learning and engagement, driving teamwork and collaboration. We also continuously refresh the onboarding experience for new joiners to inspire our younger talents to endeavour for excellence, unity, and understanding.**
+
 ![](/images/pd1pd1.png)
+
 ![](/images/pd2pd2.png)
 
 ## My CAREer@AIC
