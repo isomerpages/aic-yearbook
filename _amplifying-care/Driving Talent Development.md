@@ -52,7 +52,8 @@ AIC sends one leader from the Community Care sector each year to attend Harvard 
 
 Targeted at top executives of non-profits, the programme explores crucial concepts and skills for non-profit leadership. It also looks into strengthening management and accountability while leading the evolution for a more responsive, successful, and sustainable organisation.
 
-![](/images/ms-chan-su-yee.png)
+![](/images/chansuyee1.png)
+*Ms Chan Su Yee (second from right), CEO of NTUC Health, was 2022’s attendee of the Strategic Perspective in Non-profit Management’ programme. She is pictured here in front of their school building at Harvard.*
 
 ### Employment facilitation initiatives
 AIC has implemented a suite of employment facilitation initiatives for the Community Care sector to facilitate the employment of locals to meet capacity expansions. 
