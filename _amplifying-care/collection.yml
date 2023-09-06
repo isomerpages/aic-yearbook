@@ -2,7 +2,7 @@ collections:
   amplifying-care:
     output: true
     order:
-      - Strengthening Care Capabilities.md
+      - Strengthening care capabilities.md
       - Supporting Care Delivery.md
       - Driving Talent Development.md
       - Building A Future ready AIC.md
