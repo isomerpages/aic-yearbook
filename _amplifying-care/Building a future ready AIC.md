@@ -39,4 +39,5 @@ In July 2022, SGO received the One Public Service Award and the Star Partner Awa
 
 ![](/images/star-partner-award.png)
 
-![](/images/public-sector-transformation.png)
+![](/images/pstst2.png)
+*Former SGO Chief, Sim Tiong Kian and Director (Ops), Eric Chen, receiving the awards at the Public Sector Transformation Awards ceremony.*
