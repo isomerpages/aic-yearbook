@@ -16,7 +16,7 @@ At AIC, we see endless possibilities in our people. We enable our people to take
 With this belief, we continued to up the ante in our career development efforts by introducing My CAREer@AIC in 2022. The career microsite serves as a one-stop platform for employees to browse information on AIC’s career development framework, explore career paths, check out career opportunities, and get inspired by fellow colleagues’ stories that share their journeys with AIC.  
 
 ![](/images/catherine1.png)
-![](/images/catherine2.png)
+![](/images/catherine2.png) 
 
 ![](/images/yun-ru.png)
 
