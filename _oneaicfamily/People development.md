@@ -23,10 +23,12 @@ With this belief, we continued to up the ante in our career development efforts 
 ## The ‘Walk In Your Shoes’ initiative
 'Walk In Your Shoes' is an AIC initiative for divisions and departments to host staff learning sessions. This was implemented in response to staff's feedback seeking opportunities for more cross-department learning and engagement sessions. The series intended to foster stronger collaborations between departments.
 
-![](/images/walk-in-your-shoes-2.png)
+![](/images/walk-in-your-shoes-3.png)
 
 Staff who participated gave positive feedback, as these sessions provided them with the opportunity to learn from one another, find areas for partnership, and spark a new appreciation for each other's work.
 
+![](/images/kitchen.png)
+*As part of our efforts to drive innovation, we held our annual Innovation & Learning Fiesta in November 2022. The fiesta was its third year and drew participants from MOH and the public healthcare clusters.*
 ## Innovation & Learning Fiesta
 As part of our efforts to drive innovation, we held our annual Innovation & Learning Fiesta in November 2022. The fiesta was its third year and drew participants from MOH and the public healthcare clusters.  
   
@@ -41,6 +43,6 @@ As we emerged from the pandemic in 2022, we saw the opportunity to reimagine our
 
 We developed a signature programme with uniquely AIC elements, where the modules anchored on our Employee Value Proposition – Family, Purpose, and Growth. Underpinned by clear objectives with empowered learning for personal reflections and internalisation, the programme provides employees with greater integration, connectivity, and support even before their first day with AIC. 
 
-![](/images/8-runs-if-aicanvas.png)
+![](/images/8-runs-if-aicanvas2.png)
 
 As these new colleagues assimilate to the #OneAICFamily, we hope that they can reimagine their career in the Community Care sector and add their own colour to the canvas that is our mission and strategic priorities.
