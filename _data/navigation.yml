@@ -20,20 +20,18 @@ links:
         url: /driving-purpose/caring-for-their-needs/
       - title: Providing support
         url: /driving-purpose/providing-support/
-  - title: Amplifying Care
+  - title: Amplifying care
     url: "#"
     sublinks:
-      - title: Supporting care delivery
-        url: /amplifying-care/supporting-care-delivery/
       - title: Strengthening care capability
         url: /amplifying-care/strengthening-care-capabilities/
-      - title: Building skills & strategies
-        url: /amplifying-care/building-skills-and-strategies/
-      - title: Developing care talent
-        url: /amplifying-care/developing-care-talent/
-      - title: Celebrating partnerships
-        url: /amplifying-care/recognising-partners-and-contributions/
-  - title: Building Trust as OneAICFamily
+      - title: Supporting care delivery
+        url: /amplifying-care/supporting-care-delivery/
+      - title: Driving talent development
+        url: /amplifying-care/driving-talent-development/
+      - title: Building a future-ready AIC
+        url: /amplifying-care/building-a-future-ready-aic/
+  - title: Building trust as OneAICFamily
     url: "#"
     sublinks:
       - title: Future-ready AIC
