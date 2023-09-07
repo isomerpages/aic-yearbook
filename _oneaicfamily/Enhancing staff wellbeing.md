@@ -11,13 +11,21 @@ Peer Support Network (PSN) is a formalised group of close to 60 staff volunteers
 
 In commemoration of World Mental Health Day 2022, the peer supporters participated in ‘Connecting through Art’, an initiative for peer-to-peer bonding. A post-event survey found that overall, participants favoured the session and found the initiative ‘very meaningful’; some felt it was a beneficial opportunity for self-discovery.
 
-![](/images/climbing-illustration.png)
-![](/images/peer-supporters-were-equipped-with.png)
+![](/images/header.png)
+
+![](/images/peer-supporters-were-equipped-with1.png)
 
 ## Employee Assistance Programme
 Employee Assistance Programme (EAP) is a resource where external counsellors are engaged for our staff to go for counselling. As part of commemorating World Mental Health Day 2022, an EAP counsellor also hosted a lunchtime talk for AIC's staff.
 
 ![](/images/employee-assistance-programme.png)
+
+## AIC Wellness Studio
+
+AIC’s Wellness Studio is a dedicated resource that provides staff with some ‘me-time’ space. The space is available for staff to relax and refresh while at work and is especially set up with thematic posters and fitted with comfortable chairs and lounges in soothing colours.
+
+![](/image/wellness-studio.png)
+client to provide image
 
 ## Kopi Chats and AIC in Conversation
 Throughout the year, our employees had opportunities to engage senior leaders in informal dialogue at 'AIC in Conversation' and 'Kopi Chat Live' sessions.
