@@ -1,7 +1,7 @@
 logo: /images/aic-logo.png
 links:
   - title: Supporting Healthier SG
-    url: "#"
+    url: /supporting-healthier-sg/supporting-seniors/
     sublinks:
       - title: Supporting seniors
         url: /supporting-healthier-sg/supporting-seniors/
@@ -10,7 +10,7 @@ links:
       - title: Preparing the sector
         url: /supporting-healthier-sg/preparing-community-care-sector/
   - title: Driving purpose
-    url: "#"
+    url: /driving-purpose/caring-for-our-seniors/
     sublinks:
       - title: Caring for our seniors
         url: /driving-purpose/caring-for-our-seniors/
@@ -21,7 +21,7 @@ links:
       - title: Providing support
         url: /driving-purpose/providing-support/
   - title: Amplifying care
-    url: "#"
+    url: /amplifying-care/strengthening-care-capabilities/
     sublinks:
       - title: Strengthening care capability
         url: /amplifying-care/strengthening-care-capabilities/
@@ -32,7 +32,7 @@ links:
       - title: Building a future-ready AIC
         url: /amplifying-care/building-a-future-ready-aic/
   - title: Building trust as OneAICFamily
-    url: /oneaicfamily/
+    url: /oneaicfamily/people-development/
     sublinks:
       - title: People development
         url: /oneaicfamily/people-development/
