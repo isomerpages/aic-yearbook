@@ -11,7 +11,7 @@ AIC actively collaborates with PCF Sparkletots and the Early Childhood Developme
 
 Through the AIC-PCF Intergenerational Programme and the national ‘Start Small, Dream Big’ (SSDB) initiative, seniors and children come together to build bonds and connect, fostering a deeper understanding between different generations and backgrounds.
 
-![](/images/image1.png)
+![](/images/ayer%20rajah%20centre%20.png)
 
 Over the years, AIC’s intergenerational programmes saw an increase in the number of collaborations with our supportive partners. There was increased engagements with Community Care Organisations (CCOs) through activities between pre-schoolers and seniors. 
 
@@ -20,11 +20,10 @@ Compared to 2021, the number of engagements for both the AIC-PCF and SSDB initia
 ![](/images/image2.png)
 
 ![](/images/image3.png)
+![](/images/image4.png)
 
 ## Enhancing activity access for frailer seniors
 Physical, cognitive, and social activities bring well-being to everyone; however, access to suitable, meaningful activities for frailer seniors can be challenging. To better enable frailer seniors’ participation in activities, AIC worked with partners to curate activities ideal for their interests and abilities at two national events in 2022.
-
-![](/images/image4.png)
 
 ![](/images/image5.png)
 
