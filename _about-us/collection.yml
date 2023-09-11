@@ -2,6 +2,5 @@ collections:
   about-us:
     output: true
     order:
-      - Our Key Committees.md
       - Our Leadership.md
       - Our Organisation.md
