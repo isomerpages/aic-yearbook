@@ -29,6 +29,8 @@ Since the launch of the Community Care Learning Management System (CCLMS) to enc
 
 ![](/images/building-skills-and-strategies_12.png)
 
+There was also a significant take-up for the Community Care Skills Standards Framework for Support Care Staff, with two-thirds of the sector reporting having adopted the framework. This framework was also used to develop the competencies for the Community Care Associate job roles as part of the sector’s Job Redesign.
+    
 ## Developing tomorrow's leaders
 
 ### Community Care Nursing Leadership Programme
