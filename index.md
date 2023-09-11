@@ -17,7 +17,7 @@ sections:
       button: Read More
       url: /views-from-the-top
       alt: picture of ceo and chairman
-      image: /images/message-chairman-ceo.png
+      image: /images/views-from-the-top-1.png
   - infopic:
       title: Supporting Healthier SG
       description: Our mandate in the national initiative, focusing on preventive
@@ -25,7 +25,7 @@ sections:
       button: Read More
       url: /supporting-healthier-sg/supporting-seniors/
       alt: towards healthier sg
-      image: /images/aic_homepage_10.png
+      image: /images/supporting-healthier-sg.png
   - infopic:
       title: Driving Purpose
       description: Our commitment to meeting the changing needs of seniors and
@@ -34,14 +34,14 @@ sections:
       button: Read More
       url: /driving-purpose/caring-for-our-seniors/
       alt: touching lives
-      image: /images/aic_homepage_14.png
+      image: /images/driving-purpose.png
   - infopic:
       title: Amplifying Care
       description: Our sustained partnerships with Community Care Organisations to
         support and develop the sector as it grows.
       button: Button Text
       alt: amplifying care
-      image: /images/aic_homepage_16.png
+      image: /images/amplifying-care.png
       url: /amplifying-care/supporting-care-delivery/
   - infopic:
       title: "Building Trust as a #OneAICFamily"
@@ -50,5 +50,5 @@ sections:
       button: Read More
       url: /oneaicfamily/future-ready-aic/
       alt: building trust
-      image: /images/aic_homepage_19.png
+      image: /images/building-trust.png
 ---
