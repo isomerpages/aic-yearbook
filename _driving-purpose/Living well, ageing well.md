@@ -28,11 +28,9 @@ The pilot of AIC’s Communities of Care (CoC) programme was held from 2019 to 2
 
 Through the pilot, various care providers worked together to create service networks by location to best serve seniors within each community. Leveraging on each other’s strengths and resources enabled them to boost service delivery and gain valuable learnings from the experience.
 
-![](/images/living-well-ageing-well-image5.png)
-
 With learnings from CoC 1.0, AIC was equipped to develop a more structured approach for constructing a localised care ecosystem known as CoC 2.0. The Tote Board Community Health Fund also committed to supporting running CoC 2.0 for three years, from 2023 to 2026.
 
-More pilot sites will be involved in testing and adopting strategies the care providers developed. The objective of CoC’s second chapter would be to create and implement a playbook to support the scalability and replicability of having CoCs across all Active Ageing Centres (AACs) island wide.
+More pilot sites will be involved in testing and adopting strategies the care providers developed. The objective of CoC’s second chapter would be to create and implement a playbook to support the scalability and replicability of having CoCs across all AACs island wide.
 
 ## Service integration between AAC and CREST
 AIC identified the opportunity to increase awareness of Community Mental Health (CMH) services and activities among primary and community care partners by partnering with AACs to support the larger community's needs better. 
