@@ -15,7 +15,7 @@ sections:
       description: Our Chairman and CEO share their thoughts on the year passed and
         our way forward.
       button: Read More
-      url: /ceo-message/
+      url: /views-from-the-top
       alt: picture of ceo and chairman
       image: /images/message-chairman-ceo.png
   - infopic:
