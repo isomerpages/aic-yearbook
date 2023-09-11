@@ -7,13 +7,13 @@ description: ""
 **Caregiving is a shared responsibility that starts with everyone in the community. AIC is working with various partners to enhance financial assistance and relevant resources available to caregivers, to support them in their caring journey better. We are taking active strides to make aid more accessible for all and explore service integrations with community care partners to support the well-being of caregivers in the community and their charges.**
 
 ## Respite care
-Caregiving is a long and demanding journey. Many caregivers put their loved ones’ needs and interest ahead of theirs. There are multiple channels of support available for caregivers to tap on, including respite care services and the Caregiver Training Grant -- an annual subsidy that lets caregivers attend approved courses to better care for their loved ones.
+Caregiving can be a long and demanding journey. Many caregivers put their loved ones’ needs and interest ahead of theirs. There are multiple channels of support available for caregivers to tap on, including respite care services and the Caregiver Training Grant -- an annual subsidy that lets caregivers attend approved courses to better care for their loved ones.
 
 Short term, temporary care options, otherwise known as respite care options, provide caregivers with additional assistance in their responsibilities. Different respite care providers offer support for seniors with varying levels of needs.
 
 ![](/images/providing-support-image1.png)
 
-AIC piloted a night respite option, which aim to provide caregivers of persons with dementia with Sundowning behaviour the opportunity to take time off from night-time caregiving duties. Sundowning is the worsening of behavioural difficulties towards the end of the day. This service is designed to help persons with dementia with their daily activities and provide meaningful engagement. The pilot concluded mid-2023 and the service is under review.
+AIC piloted a night respite option, which aim to provide caregivers of persons living with dementia with Sundowning behaviour the opportunity to take time off from night-time caregiving duties. Sundowning is a symptom of dementia and refers to a state of confusion, restlessness or agitation that typically occurs between late afternoon and evening, at times into the night. This service is designed to help persons living with dementia with their daily activities and provide meaningful engagement. The pilot concluded mid-2023 and the service is under review.
 
 The Caregiver Training Grant is a $200 annual subsidy provided for each care recipient every year. The appointed caregiver must complete the training course and receive a certificate of attendance, if there is one, in order to qualify for the grant.
 
@@ -50,7 +50,7 @@ Additionally, AIC worked with the Ministry of Health (MOH) to weave in the Healt
 
 ![](/images/providing-support-image10.png)
 
-*Physical events are back, first with the launching of the new CHAS portal in May 2022 and the resumption of CHAS public roadshows all over Singapore from August 2022.*
+Physical events are back, first with the launching of the new CHAS portal in May 2022 and the resumption of CHAS public roadshows all over Singapore from August 2022.
 
 ## SupportGoWhere caregiving page
 AIC has collaborated with ServiceSG and GovTech to create SupportGoWhere’s ‘Care Services Recommender’ to help caregivers to correctly identify the appropriate service or scheme that will be suitable for seniors under their care. This tool is part of our efforts to support and integrate whole-of-government efforts to effectively meet citizen's needs.
