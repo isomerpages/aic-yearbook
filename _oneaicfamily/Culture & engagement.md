@@ -4,8 +4,8 @@ permalink: /oneaicfamily/culture-and-engagement/
 description: ""
 ---
 # Culture & engagement
-**Our talents render services and work with various partners to support care services delivery to communities, often going above and beyond their work scopes when certain situations arise. As #OneAICFamily, we deeply care for them and are always finding new ways to engage, encourage, and support our enablers in transforming Community Care in Singapore. Our people are at the heart of our work, and we are committed to creating an environment where they are empowered to be their best. **
-
+**Our talents render services and work with various partners to support care services delivery to communities, often going above and beyond their work scopes when certain situations arise. As #OneAICFamily, we deeply care for them and are always finding new ways to engage, encourage, and support our enablers in transforming Community Care in Singapore. Our people are at the heart of our work, and we are committed to creating an environment where they are empowered to be their best. 
+**
 ![](/images/what-we-are-focusing-on.png)
 
 ## AIC 2022 homecoming
