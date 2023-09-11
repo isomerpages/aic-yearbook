@@ -43,6 +43,7 @@ AIC has put together additional mental health resources and shared support to eq
 ![](/images/caring-for-their-needs-image8.png)
 
 ![](/images/caring-for-their-needs-image9.png)
+*PCN nurses learning more about mental health care*
 
 ![](/images/caring-for-their-needs-image10.png)
 
@@ -63,8 +64,6 @@ The collaboration also engaged a local media company, TheSmartLocal. Under this 
 In November 2022, AIC officially launched an inaugural campaign to spearhead Singapore’s movement to build a more dementia-friendly nation. The social movement was part of the Dementia-Friendly Singapore (DFSG) initiative, first announced in 2016 by the MOH to address the growing prevalence of dementia in Singapore.
 
 The #DementiaFriendlySG movement rallies society at all levels – individuals, communities, and businesses, calling on each group to play a part in building a caring and dementia-friendly Singapore.
-
-![](/images/caring-for-their-needs-image14.png)
 
 Led by AIC and supported by 81 partners, the campaign’s key message was the importance of creating an inclusive society. It advocated ways for the public to become a ‘Dementia Friend’ to support people living with dementia in their communities.
 
