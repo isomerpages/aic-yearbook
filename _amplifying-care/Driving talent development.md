@@ -7,7 +7,6 @@ description: ""
 
 **We continue to focus on enriching our people's talent pool and bench strength through various leadership programmes and initiatives. We are paying close attention to training, equipping, and developing different talent pools, ensuring clear career pathways and development programmes are in place for them. We launched a structured pathway for Senior Nurses and Nurse Managers to prepare them for leadership positions and an enhanced AIC Learning Network with courses that will benefit our workforce and Community Care partners.
 **
-
 ## A culture of learning
 ### Making care better
 ![](/images/aic-connect-workplace.png)
