@@ -3,7 +3,7 @@ title: Building a future ready sector
 permalink: /amplifying-care/building-a-future-ready-sector/
 description: ""
 ---
-# Building a future-ready AIC
+# Building a future-ready sector
 
 ## Community Care Job Redesign Initiative
 The Job Redesign (JR) initiative for the Community Care sector evaluates and redesigns support care roles, which are critical to the smooth delivery of care services within the field. The aim of JR is to create higher value-adding roles that combine different care skills and functions and to encourage cross-deployment and multi-skilling of staff. 
