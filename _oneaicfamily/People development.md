@@ -28,7 +28,8 @@ With this belief, we continued to up the ante in our career development efforts 
 Staff who participated gave positive feedback, as these sessions provided them with the opportunity to learn from one another, find areas for partnership, and spark a new appreciation for each other's work.
 
 ![](/images/kitchen.png)
-*As part of our efforts to drive innovation, we held our annual Innovation & Learning Fiesta in November 2022. The fiesta was its third year and drew participants from MOH and the public healthcare clusters.*
+*‘Walk In Your Shoes’ participants learning about the CHEF Partnership programme at United Medicare Centre – Toa Payoh*
+
 ## Innovation & Learning Fiesta
 As part of our efforts to drive innovation, we held our annual Innovation & Learning Fiesta in November 2022. The fiesta was its third year and drew participants from MOH and the public healthcare clusters.  
   
