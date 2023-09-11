@@ -9,11 +9,12 @@ description: ""
 ## Calibrating care strategies
 ### Community Care Work Plan Seminar
 
-The annual Community Care Work Plan Seminar (CCWPS) serves as a key platform for MOH and AIC to share the achievements of the Community Care sector and the developments ahead. This helps Community Care partners align, build, and support their goals.
+The annual Community Care Work Plan Seminar (CCWPS) serves as a key platform for the Ministry of Health (MOH) and AIC to share the achievements of the Community Care sector and the developments ahead. This helps Community Care partners align, build, and support their goals.
 
 The 7th edition of CCWPS, themed ‘Co-creating a Healthier SG’, was held at Pan Pacific Singapore in June 2022. Minister for Health Mr Ong Ye Kung graced the event as the Guest-of-Honour.
 
 ![Panel discussion on "Collaborating with Healthcare Clusters for a Stronger Community Care"](/images/strenghtening-care-capabilities.png)
+*Panel discussion on "Collaborating with Healthcare Clusters for a Stronger Community Care"*
 
 ![](/images/100-sectors-leaders.png)
 
