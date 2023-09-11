@@ -4,10 +4,10 @@ permalink: /driving-purpose/caring-for-our-seniors/
 description: ""
 ---
 # Caring for our seniors
-**AIC’s Silver Generation Office continue its outreach in engaging seniors, sharing about Healthier SG, and assisting with enrolment. A recruitment drive to strengthen SGO’s pool of Silver Generation Ambassadors was held in partnership with local Key Opinion Leaders and attracted a healthy number of volunteer sign-ups. To invite the next generation to help seniors age healthily, a meaningful collaboration was forged with the National University of Singapore, which piloted a module for students to be involved in SGO's work and befriend seniors.**
+**AIC’s Silver Generation Office (AGO) continues its outreach in engaging seniors, sharing about Healthier SG, and assisting with enrolment. A recruitment drive to strengthen SGO’s pool of Silver Generation Ambassadors was held in partnership with local Key Opinion Leaders and attracted a healthy number of volunteer sign-ups. To invite the next generation to help seniors age healthily, a meaningful collaboration was forged with the National University of Singapore, which piloted a module for students to be involved in SGO's work and befriend seniors.**
 
 ## Engaging our seniors
-Since April 2022, AIC’s Silver Generation Office (SGO) volunteers have engaged with thousands of Singapore’s seniors through their Preventive Health Visits (PHV) programme. The volunteers, known as Silver Generation Ambassadors (SGA), have been making rounds and visiting seniors in their homes, encouraging them to get their routine vaccinations and helping them enrol for Healthier SG, the nation’s latest health initiative.
+Since April 2022, SGO volunteers have engaged with thousands of Singapore’s seniors through their Preventive Health Visits (PHV) programme. The volunteers, known as Silver Generation Ambassadors (SGA), have been making rounds and visiting seniors in their homes, encouraging them to get their routine vaccinations and helping them enrol for Healthier SG, the nation’s latest health initiative.
 
 ![](/images/caring-for-seniors-image1.png)
 
@@ -24,7 +24,7 @@ With SEA, SGO is also able identify the number of hours SGAs have dedicated in s
 
 SEA is constantly being improved and refined additional modules to improve engagement, planning, and volunteer deployment were added. SGAs can choose to connect with seniors in-person or virtually via the system’s Tele-Engagement option. Following the engagement, seniors are then referred and connected to relevant community partners to support their needs. 
 
-In 2022, SGO has made over 3,800 referrals for seniors to engage in various active ageing programmes within their community, link them up to employment/volunteering opportunities and to encourage them to plan early for their future needs through ACP/LPA.
+In 2022, SGO has made over 3,800 referrals for seniors to engage in various active ageing programmes within their community, link them up to employment/volunteering opportunities and to encourage them to plan early for their future needs through Advance Care Planning/Lasting Power of Attorney.
 
 ![](/images/caring-for-seniors-image4.png)
 
@@ -37,6 +37,11 @@ The campaign’s multi-touch amplification included displaying quotes from exist
 
 ![](/images/caring-for-seniors-image6.png)
 
+
+
+SGO also worked with local Key Opinion Leaders (KOLs) like Belinda Lee, Chen Xi, Sujimy, Nurul Aini, and Guna, to further the campaign’s reach on social media. The KOLs contributed to the recruitment narrative by adding their own perspectives and documenting the journeys of real-life SGAs, from receiving training, to being qualified to engage with seniors.
+   
+
 ![](/images/caring-for-seniors-image7.png)
 
 ## Collaboration with NUS
@@ -45,7 +50,7 @@ Given Singapore’s rapidly ageing population and increasingly diverse needs, SG
 As part of NUS’ Communities & Engagement Pillar, the module seeks to impart the fundamental concepts of volunteerism and enhance students’ understanding of helping seniors in their community age healthily.
 
 ![](/images/caring-our-seniors-image8_cropped.png)
-*SGO staff and NUS student conducting PHV engagement as part of the on-the-Job training.*
+*SGO staff and NUS student conducting PHV engagement as part of the on-the-job training.*
 
 ![](/images/caring-our-seniors-image9.png)
 
