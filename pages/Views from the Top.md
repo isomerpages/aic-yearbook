@@ -3,7 +3,7 @@ title: Views from the Top
 permalink: /views-from-the-top/
 description: ""
 ---
-![](/images/banner-1fae7487.png)
+![](/images/views-from-the-top.png)
 
 **Message from our Chairman
 Dr Gerard Ee**
