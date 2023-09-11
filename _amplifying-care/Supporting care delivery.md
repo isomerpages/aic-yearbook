@@ -40,7 +40,14 @@ Service providers are encouraged to work towards adopting the good practices adv
 View toolkit [here](https://aic.buzz/heartfulconversationsw)
 
 ![](/images/keeping-frailer-seniors-active.png)
-Watch videos: [In Malay](https://for.sg/wellness-exercisevid-malay) | [In Tamil](https://for.sg/wellness-exercisevid-tamil)
+
+<div class="bp-youtube">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/DXajUg4h0Po?si=bf0TCcyF_eViz9t2" height="315" width="560"></iframe>
+</div>
+
+<div class="bp-youtube">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/QASQNbcx71M?si=mxW_IhCZ6Y8uBMKu" height="315" width="560"></iframe>
+</div>
 
 We are looking to broaden our range of activity resources to provide more support to seniors, Community Care staff, and caregivers, to enrich their engagements.
 
