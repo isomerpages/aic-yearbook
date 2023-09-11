@@ -11,14 +11,6 @@ In support of Ministry of Health’s (MOH) efforts to gather feedback on planned
 
 ![](/images/supporting-seniors-image1.png)
 
-## Surveying sentiment
-We initiated a collaboration between MOH and the Singapore Management University’s Centre for Research on Successful Ageing, to understand seniors' receptivity towards the Healthier SG initiative. 
-
-![](/images/supporting-seniors-image2.png)
-
-![](/images/supporting-seniors-image3.png)
-
-
 ## Preventive Health Visits
 Developed by AIC’s Silver Generation Office (SGO), Preventive Health Visits (PHV) started in April 2022, building on the engagement efforts of our Silver Generation Ambassadors (SGA). PHV are home visits made possible due to the trusting relationships built over the years by SGO with seniors in the community.
 
