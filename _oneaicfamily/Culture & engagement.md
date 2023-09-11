@@ -8,7 +8,7 @@ description: ""
 
 ![](/images/what-we-are-focusing-on.png)
 
-## AIC 2022 homecoming
+## AIC 2022 Homecoming
 With the Work Away from Office policy launched, we needed to continue to reconnect, re-engage, and strengthen our connections as #OneAICFamily. 
 
 As part of our efforts to facilitate team engagement and interaction, a Signature Teambuilding programme named “AIC 2022 Homecoming” was developed. It consisted of experiential activities and team learning. The programme saw nearly 1,200 staff attending the multiple half-day teambuilding sessions across the three months from July to September 2022. 
@@ -27,4 +27,5 @@ Following the ease in COVID-19 restriction measures, the Silver Generation Offic
 
 A total of 478 SGAs received service awards for their long-standing dedication and commitment to supporting seniors in the community. 20 SGAs who have gone above and beyond their call of duty while volunteering was also identified and awarded the Exemplary Award.
 
-![](/images/sgo-townhall.png)
+![](/images/sgo-townhall1.png)
+*SGO held its 8th Anniversary and Townhall event on 30 November 2022.*
