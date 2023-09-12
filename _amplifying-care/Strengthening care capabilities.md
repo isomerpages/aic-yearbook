@@ -46,8 +46,6 @@ Winning Teams comprise community care heroes who are constantly thinking of ways
 
 ![](/images/dover-park-hospice2.png)
 
-
-
 ## Enhancing productivity
 ### Community Care Digital Transformation Plan
 The Community Care Digital Transformation Plan (CCDTP) is a structured framework that aims to uplift digitalisation rates and enhance productivity and job satisfaction levels in Community Care Sector. CCDTP was unveiled by AIC at its 2022 CCWPS. This new initiative aims to boost the adoption of digital solutions among partners in the sector to render better support to seniors and clients in the community.
