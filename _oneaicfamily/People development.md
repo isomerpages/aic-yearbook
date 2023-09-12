@@ -6,9 +6,9 @@ description: ""
 # People development
 **As an organisation, AIC has grown from strength to strength, gradually expanding our capabilities and functions to deliver quality care services and positively impact communities. To support AIC’s growth, we are investing in our people through initiatives to support their personal and career growth in their journey with us. My CAREer@AIC gives staff a one-stop platform to gain a holistic overview of the business and the career development possibilities at AIC. Meanwhile, initiatives such as ‘Walk In Your Shoes’ and the ‘Innovation & Learning Fiesta’ encourage inter-department learning and engagement, driving teamwork and collaboration. We also continuously refresh the onboarding experience for new joiners to inspire our younger talents to endeavour for excellence, unity, and understanding.**
 
-![](/images/pd1pd1.png)
+![](/images/pd1pd12.png)
 
-![](/images/pd2pd2.png)
+![](/images/pd2pd22.png)
 
 ## My CAREer@AIC
 At AIC, we see endless possibilities in our people. We enable our people to take ownership of their development and explore various career paths by providing them with the right opportunities and tools.
@@ -16,9 +16,9 @@ At AIC, we see endless possibilities in our people. We enable our people to take
 With this belief, we continued to up the ante in our career development efforts by introducing My CAREer@AIC in 2022. The career microsite serves as a one-stop platform for employees to browse information on AIC’s career development framework, explore career paths, check out career opportunities, and get inspired by fellow colleagues’ stories that share their journeys with AIC.  
 
 ![](/images/catherine1.png)
-![](/images/catherine2.png) 
+![](/images/catherine4.png) 
 
-![](/images/yun-ru.png)
+![](/images/yun-ru1.png)
 
 ## The ‘Walk In Your Shoes’ initiative
 'Walk In Your Shoes' is an AIC initiative for divisions and departments to host staff learning sessions. This was implemented in response to staff's feedback seeking opportunities for more cross-department learning and engagement sessions. The series intended to foster stronger collaborations between departments.
