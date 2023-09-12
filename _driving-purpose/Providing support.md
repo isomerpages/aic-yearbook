@@ -35,7 +35,7 @@ Introduced in 2019, the Home Caregiving Grant (HCG) is disbursed to eligible car
 
 The increased HCG payout is part of MOH’s overall efforts to help lighten the burden of caregivers from lower-income families and to recognise their contributions. 
 
-![](/images/providing-support-image7.png)
+![](/images/enhanced-home-caregiving-grant.png)
 
 ## Enhanced CHAS outreach
 ![](/images/providing-support-image8.png)
