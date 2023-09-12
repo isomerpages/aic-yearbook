@@ -64,7 +64,7 @@ These initiatives align with AIC’s strategic objectives of securing a producti
 
 AIC maintains a dedicated page that is accessible by the public to help drive outreach – check it out [here](http://www.aic.sg/commcarejobs).
 
-![](/images/ms-kok-kah-wei1.png)
+![](/images/kok-kah-wei2.png)
 
 ## Community Care Manpower Development Award
 The Community Care Manpower Development Award (CCMDA) recognises staff in the Community Care sector, providing them with training, support, and opportunities to develop and upgrade themselves professionally. 
