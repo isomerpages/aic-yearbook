@@ -21,7 +21,7 @@ Since October 2022, we have successfully onboarded three grants onto OSG. The re
 
 CareConnect is a secure, digital platform to engage Active Ageing Centre (AAC) providers with the latest information and resources. AAC providers also use the platform to submit their progress reports, which makes submissions easy and helps to reduce errors.
 
-![](/images/careconnect3.png) 
+![](/images/care-connect4.png) 
 
 In 2022, all AACs started using CareConnect to submit their Progress Reports to AIC. Resources and past webinar records can also be found via the platform for easy retrieval.
 
