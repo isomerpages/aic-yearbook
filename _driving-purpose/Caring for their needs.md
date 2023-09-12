@@ -93,7 +93,7 @@ A study conducted by SMU in 2019 revealed that 53.3% of Singaporeans surveyed ar
 
 AIC is the national office that works closely with healthcare providers and community partners to make Advance Care Planning (ACP) more accessible to Singaporeans. An ACP helps Singaporeans communicate their values and healthcare preferences to their loved ones and healthcare team. The process of an ACP helps to kickstart conversations and provide a safe space for the beneficiary to share their personal wishes and care preferences, decreasing the stress of decision-making that their family members have to go through. It also ensures that their preferences are heard, especially when they can no longer speak for themselves. 
 
-![](/images/caring-for-their-needs-image22.png)
+![](/images/advance-care-planning.png)
 
 [Simple Steps For ACP | Agency For Integrated Healthcare (aic.sg)](https://www.aic.sg/care-services/simple-steps-for-acp)
 
