@@ -44,9 +44,9 @@ Winning Teams comprise community care heroes who are constantly thinking of ways
 
 ![](/images/mr-james-ganesan.png)
 
-![](/images/dover-park-hospice.png)
+![](/images/dover-park-hospice2.png)
 
-![](/images/dover-park-hospice-telemedicine-services.png)
+
 
 ## Enhancing productivity
 ### Community Care Digital Transformation Plan
