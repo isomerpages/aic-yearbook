@@ -26,7 +26,7 @@ Ren Ci Hospital, NTUC Health, and St Luke's Eldercare will continue JR in the Ea
 ## Clinical Quality Improvement Collaborative
 The Clinical Quality Improvement Collaborative (CQI) is a joint effort by AIC and nursing homes to improve resident safety and quality of care, as well as to facilitate the spread of good practices within and across organisations.
 
-![](/images/3-year-cqi-collaborative-graduation1![]().png)
+![](/images/3-year-cqi-collaborative-graduation1.png)
 
 ![](/images/i-prevent-pneumonia.png)
 
