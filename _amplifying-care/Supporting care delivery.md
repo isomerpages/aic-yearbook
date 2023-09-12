@@ -61,7 +61,7 @@ We are looking to broaden our range of activity resources to provide more suppor
 The matching grant, disbursed by AIC, is used by eligible organisations on projects to increase service capacity, build their capabilities, and to defray operating expenses.  
 ![](/images/1-billion-top-up.png)
 
-![](/images/cst-matched-311-million.png)
+![](/images/cst-matched-311-million1.png)
 
 ## Launch of FUN! Fund
 Launched in November 2022, the FUN! Fund was co-developed by AIC and The Community Foundation of Singapore. It supports innovative ideas that engage seniors to improve their well-being, be socially active, and have fun.
