@@ -66,6 +66,6 @@ The matching grant, disbursed by AIC, is used by eligible organisations on proje
 ## Launch of FUN! Fund
 Launched in November 2022, the FUN! Fund was co-developed by AIC and The Community Foundation of Singapore. It supports innovative ideas that engage seniors to improve their well-being, be socially active, and have fun.
 
-![](/images/fund-objectives.png)
+![](/images/fund-objectives1.png)
 
 ![](/images/call-for-donations.png)
