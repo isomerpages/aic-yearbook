@@ -19,7 +19,8 @@ Compared to 2021, the number of engagements for both the AIC-PCF and SSDB initia
 
 ![](/images/image2.png)
 
-![](/images/image3.png)
+![](/images/intergenerational-programmes.png)
+
 ![](/images/image4.png)
 
 ## Enhancing activity access for frailer seniors
