@@ -59,6 +59,8 @@ Planned with the Interagency Taskforce on Mental Health and Well-Being, the over
 
 The collaboration also engaged a local media company, TheSmartLocal. Under this campaign, a documentary short film was produced, titled ‘99 Singaporeans sharing their darkest moments’. The video aims to help the public know that they are not alone on their mental wellness journey, and that it is okay to seek help when needed.
 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/LLfn3rgcS0c?si=lGEPIQkQ2uppEuJ2" height="315" width="560"></iframe>
+
 ![](/images/caring-for-their-needs-image13.png)
 
 ## #DementiaFriendlySG movement
