@@ -27,7 +27,7 @@ AICâ€™s Wellness Studio is a dedicated resource that provides staff with some â€
 ## Kopi Chats and AIC in Conversation
 Throughout the year, our employees had opportunities to engage senior leaders in informal dialogue at 'AIC in Conversation' and 'Kopi Chat Live' sessions.
 
-![](/images/introducing-sng-hock-lin.png)
+![](/images/introducing-sng-hock-lin1.png)
 
 'AIC in Conversation' allows employee voices to be heard while giving leaders a better understanding of ground sentiments. Staff have a chance to virtually meet up with our CEO Mr Tan Kwang Cheak, and other senior leaders at 'Kopi Chat Live', which is hosted on AIC's online Workplace platform. These hour-long sessions keep employees updated on the latest happenings within the organisation, learn more about the leaders' perspectives, and provide opportunities for them to raise questions or share their thoughts.
 
