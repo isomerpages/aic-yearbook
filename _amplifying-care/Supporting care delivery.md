@@ -36,10 +36,16 @@ Service providers are encouraged to work towards adopting the good practices adv
 ![](/images/sprint1.png)
 *Partners with their copies of GPHs at the SPRINT forum in Oct 2022*
 ## New activity resources
-![](/images/heartful-conversations.png)
-View toolkit [here](https://aic.buzz/heartfulconversationsw)
+In 2022, we launched our first art therapy infused activity toolkit, Heartful Conversations, to facilitate paired activities and foster meaningful conversations between seniors and their caregivers.
 
-![](/images/keeping-frailer-seniors-active.png)
+[The toolkit](https://aic.buzz/heartfulconversationsw) was developed by art therapists. It features 10 activities that provide opportunities for creative art-making with seniors, including persons living with dementia, to cultivate purposeful engagement and strengthen bonds.
+
+Containing simple instructions, the ready-to-use toolkit has activities that can be carried out using materials easily available at home.
+
+
+![](/images/heartfulconversations2.png)
+
+Keeping frailer seniors active is also important. To increase physical activity options in vernacular languages like Malay and Tamil, exercise videos providing seated and standing options were produced in collaboration with partners, Sport Singapore and Mediacorp.
 
 <div class="bp-youtube">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/DXajUg4h0Po?si=bf0TCcyF_eViz9t2" height="315" width="560"></iframe>
