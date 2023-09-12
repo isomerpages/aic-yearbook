@@ -3,42 +3,42 @@ title: Senior Management
 permalink: /our-leadership/senior-management/
 description: ""
 ---
-![](/images/aic_sm_layout_2023_r_1-3.png)
+![](/images/aic_sm_layout_2023_r_1.png)
 
-![](/images/aic_sm_layout_2023_r_1-3%20copy%202.png)
+![](/images/aic_sm_layout_2023_r_2.png)
 
-![](/images/aic_sm_layout_2023_r_1-3%20copy%203.png)
+![](/images/aic_sm_layout_2023_r_3.png)
 
-![](/images/aic_sm_layout_2023_r_1-3%20copy%204.png)
+![](/images/aic_sm_layout_2023_r_4.png)
 
-![](/images/aic_sm_layout_2023_r_1-3%20copy%205.png)
+![](/images/aic_sm_layout_2023_r_5.png)
 
-![](/images/aic_sm_layout_2023_r_1-3%20copy%206.png)
+![](/images/aic_sm_layout_2023_r_6.png)
 
-![](/images/aic_sm_layout_2023_r_1-3%20copy%207.png)
+![](/images/aic_sm_layout_2023_r_7.png)
 
-![](/images/aic_sm_layout_2023_r_1-3%20copy%208.png)
+![](/images/aic_sm_layout_2023_r_8.png)
 
-![](/images/aic_sm_layout_2023_r_1-3%20copy%209.png)
+![](/images/aic_sm_layout_2023_r_9.png)
 
-![](/images/aic_sm_layout_2023_r_1-3%20copy%2010.png)
+![](/images/aic_sm_layout_2023_r_10.png)
 
-![](/images/aic_sm_layout_2023_r_1-3%20copy%2011.png)
+![](/images/aic_sm_layout_2023_r_11.png)
 
-![](/images/aic_sm_layout_2023_r_1-3%20copy%2012.png)
+![](/images/aic_sm_layout_2023_r_12.png)
 
-![](/images/aic_sm_layout_2023_r_1-3%20copy%2013.png)
+![](/images/aic_sm_layout_2023_r_13.png)
 
-![](/images/aic_sm_layout_2023_r_1-3%20copy%2014.png)
+![](/images/aic_sm_layout_2023_r_14.png)
 
-![](/images/aic_sm_layout_2023_r_1-3%20copy%2015.png)
+![](/images/aic_sm_layout_2023_r_15.png)
 
-![](/images/aic_sm_layout_2023_r_1-3%20copy%2016.png)
+![](/images/aic_sm_layout_2023_r_16.png)
 
-![](/images/aic_sm_layout_2023_r_1-3%20copy%2017.png)
+![](/images/aic_sm_layout_2023_r_17.png)
 
-![](/images/aic_sm_layout_2023_r_1-3%20copy%2018.png)
+![](/images/aic_sm_layout_2023_r_18.png)
 
-![](/images/aic_sm_layout_2023_r_1-3%20copy%2019.png)
+![](/images/aic_sm_layout_2023_r_19.png)
 
-![](/images/aic_sm_layout_2023_r_1-3%20copy%2020.png)
+![](/images/aic_sm_layout_2023_r_20.png)
