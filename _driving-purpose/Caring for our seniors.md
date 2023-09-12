@@ -9,7 +9,7 @@ description: ""
 ## Engaging our seniors
 Since April 2022, SGO volunteers have engaged with thousands of Singapore’s seniors through their Preventive Health Visits (PHV) programme. The volunteers, known as Silver Generation Ambassadors (SGA), have been making rounds and visiting seniors in their homes, encouraging them to get their routine vaccinations and helping them enrol for Healthier SG, the nation’s latest health initiative.
 
-![](/images/caring-for-seniors-image1.png)
+![](/images/engaging-our-seniors.png)
 
 ## Senior Engagement Application
 The Senior Engagement Application (SEA) is an online, senior-cum-volunteer management system developed by SGO. SGAs will log on to the system when they conduct physical or virtual engagement sessions with seniors.
