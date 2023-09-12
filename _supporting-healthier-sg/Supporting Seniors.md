@@ -9,7 +9,7 @@ description: ""
 ## Engaging seniors on Healthier SG 
 In support of Ministry of Health’s (MOH) efforts to gather feedback on planned Healthier SG reforms, we conducted 28 interviews with elderly residents in April and May of 2022. Known as the ‘Healthier SG - Resident Engagement’, the project yielded valuable insights that informed the Healthier SG White Paper, to help guide future policies and plans.
 
-![](/images/supporting-seniors-image1.png)
+![](/images/supporting-seniors-image4.png)
 
 ## Preventive Health Visits
 Developed by AIC’s Silver Generation Office (SGO), Preventive Health Visits (PHV) started in April 2022, building on the engagement efforts of our Silver Generation Ambassadors (SGA). PHV are home visits made possible due to the trusting relationships built over the years by SGO with seniors in the community.
