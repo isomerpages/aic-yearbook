@@ -19,7 +19,7 @@ In 2022, AIC organised many events with our Community Care partners to discuss s
 
 ![](/images/living-well-ageing-well-image2.png)
 
-![](/images/living-well-ageing-well-image3.png)
+![](/images/living-well-ageing-well.png)
 
 ## Communities of Care
 The pilot of AIC’s Communities of Care (CoC) programme was held from 2019 to 2023. Called ‘CoC 1.0’, it was developed to strengthen the construction of a place-based care ecosystem.
