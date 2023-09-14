@@ -33,7 +33,7 @@ With learnings from CoC 1.0, AIC was equipped to develop a more structured appro
 More pilot sites will be involved in testing and adopting strategies the care providers developed. The objective of CoC’s second chapter would be to create and implement a playbook to support the scalability and replicability of having CoCs across all AACs island wide.
 
 ## Service integration between AAC and CREST
-AIC identified the opportunity to increase awareness of Community Mental Health (CMH) services and activities among primary and community care partners by partnering with AACs to support the larger community's needs better. 
+By working with AACs to support the larger community’s needs, AIC identified the opportunity to increase awareness of Community Mental Health (CMH) services and activities among primary and community care partners. 
 
 Information about CREST and client workflows have been incorporated into the AAC operations guide to facilitate the process between AAC and CREST in referring cases.
 
