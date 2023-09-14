@@ -12,10 +12,7 @@ AIC actively collaborates with PCF Sparkletots and the Early Childhood Developme
 Through the AIC-PCF Intergenerational Programme and the national ‘Start Small, Dream Big’ (SSDB) initiative, seniors and children come together to build bonds and connect, fostering a deeper understanding between different generations and backgrounds.
 
 ![](/images/ayer%20rajah%20centre%20.png)
-
-*Children from Star Learners @ Jurong East and seniors from St Luke’s Eldercare (SLEC) Ayer Rajah Centre created beautiful flower crafts together through the national “Start Small, Dream Big” initiative.*
-
-*Photo Credit: Preschool Market*
+*Children from Star Learners @ Jurong East and seniors from St Luke’s Eldercare (SLEC) Ayer Rajah Centre created beautiful flower crafts together through the national “Start Small, Dream Big” initiative. Photo Credit: Preschool Market*
 
 Over the years, AIC’s intergenerational programmes saw an increase in the number of collaborations with our supportive partners. There was increased engagements with Community Care Organisations (CCOs) through activities between pre-schoolers and seniors. 
 
