@@ -40,10 +40,11 @@ There was also a significant take-up for the Community Care Skills Standards Fra
 ### Community Care Nursing Leadership Programme
 The Community Care Nursing Leadership Programme (CCNLP) was developed to facilitate succession planning and strengthen the pipeline of nursing leaders for the Community Care sector. It aims to build up the nursing leadership bench strength through a structured pathway.
 
-Since January 2022, AIC has facilitated CCNLP peer networking sessions for successfully on-boarded nursing talents to bond, share their experiences, and network with dedicated AIC Talent Partners. The sessions are held every quarter and include dialogues with nursing leaders on their leadership journeys. Nursing talents can have meaningful conversations on any queries or concerns regarding their journeys.
+![](/images/ccnlp-senior-nurses-nurse-managers2.png)
+
+Since January 2022, AIC has facilitated CCNLP peer networking sessions for successfully onboarded nursing talents to bond, share their experiences, and network with dedicated AIC Talent Partners. The sessions are held every quarter and include dialogues with nursing leaders on their leadership journeys. Nursing talents can have meaningful conversations on any queries or concerns regarding their journeys.
 
 ![](/images/ccnlp-senior-nurses-nurse-managers1.png)
-![](/images/ccnlp-senior-nurses-nurse-managers2.png)
 
 ![](/images/6-ccnlp-selection.png)
 
