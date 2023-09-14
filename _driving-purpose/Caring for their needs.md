@@ -69,15 +69,17 @@ In November 2022, AIC officially launched an inaugural campaign to spearhead Sin
 
 The #DementiaFriendlySG movement rallies society at all levels – individuals, communities, and businesses, calling on each group to play a part in building a caring and dementia-friendly Singapore.
 
+![](/images/caring-for-their-needs-image15.png)
+
 Led by AIC and supported by 81 partners, the campaign’s key message was the importance of creating an inclusive society. It advocated ways for the public to become a ‘Dementia Friend’ to support people living with dementia in their communities.
 
-![](/images/caring-for-their-needs-image15.png)
 
 ![](/images/caring-for-their-needs-image16.png)
 
+Our ageing nation needs to build a caring and supportive environment for persons living with dementia to enable them to continue living a fulfilling life in the community.
+
 ![](/images/caring-for-their-needs-image17.png)
 
-Our ageing nation needs to build a caring and supportive environment for persons living with dementia to enable them to continue living a fulfilling life in the community.
 
 ## Meals on Wheels
 ![](/images/caring-for-their-needs-image18.png)
@@ -92,8 +94,6 @@ In 2022, the Cluster Support (CS) programme was streamlined into the Community C
 ![](/images/caring-for-their-needs-image21.png)
 
 ## Advance Care Planning
-A study conducted by SMU in 2019 revealed that 53.3% of Singaporeans surveyed are now more comfortable discussing end-of-life matters and issues concerning their own death, compared to 36% in 2013. This is an encouraging trend of Singaporeans becoming more willing end-of-life matters.
-
 AIC is the national office that works closely with healthcare providers and community partners to make Advance Care Planning (ACP) more accessible to Singaporeans. An ACP helps Singaporeans communicate their values and healthcare preferences to their loved ones and healthcare team. The process of an ACP helps to kickstart conversations and provide a safe space for the beneficiary to share their personal wishes and care preferences, decreasing the stress of decision-making that their family members have to go through. It also ensures that their preferences are heard, especially when they can no longer speak for themselves. 
 
 ![](/images/advance-care-planning.png)
