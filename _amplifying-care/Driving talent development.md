@@ -21,9 +21,11 @@ In January 2023, AIConnect@Workplace celebrated its first birthday at an event t
 *Ms June Shaul from Meta sharing on key tips to creating engaging posts on Workplace.*
 
 ### AIC Learning Network
+With Community Care partners committed to continually developing their people, more than 14,100 training places were filled. This is equivalent to about 7 in 10 of the sector’s manpower attending training offered by the AIC Learning Network.
+
 ![](/images/the-aic-learning-network2.png)
 
-With Community Care partners committed to continually developing their people, more than 14,100 training places were filled. This is equivalent to about 7 in 10 of the sector’s manpower attending training offered by the AIC Learning Network.
+More courses will be progressively added to meet the emerging needs of the Community Care sector. 
 
 Since the launch of the Community Care Learning Management System (CCLMS) to encourage self-directed e-learning, we have streamlined and improved the user experience to meet the needs of sector workforce through annual system enhancements. New enhancements will be rolled out to improve user management functionality and governance in alignment to SkillsFuture Singapore’s Continuing Education and Training Grants Governance Framework.
 
