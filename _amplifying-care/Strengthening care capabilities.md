@@ -4,7 +4,7 @@ permalink: /amplifying-care/strengthening-care-capabilities/
 description: ""
 ---
 # Strengthening care capabilities
-**At AIC, we believe that quality care starts with our people. To enrich and invest in the many hands that care for our community, we equip them with the latest information and resources. From seminars to research-based initiatives for improved care practices, we are committed to reshaping how we transform the lives we collectively touch.**
+ **At AIC, we believe that quality care starts with our people. To enrich and invest in the many hands that care for our community, we equip Community Care Organisations (CCOs) with the latest information and resources. From seminars to research-based initiatives for improved care practices, we are committed to reshaping how we transform the lives we collectively touch.**
 
 ## Calibrating care strategies
 ### Community Care Work Plan Seminar
@@ -16,9 +16,9 @@ The 7th edition of CCWPS, themed ‘Co-creating a Healthier SG’, was held at P
 ![Panel discussion on "Collaborating with Healthcare Clusters for a Stronger Community Care"](/images/strenghtening-care-capabilities.png)
 *Panel discussion on "Collaborating with Healthcare Clusters for a Stronger Community Care"*
 
-![](/images/100-sectors-leaders.png)
-
 Partners benefitted from the in-depth panel discussions addressing ‘Collaborating with Healthcare Clusters for a Stronger Community Care’ and took part actively in the Question-and-Answer sessions. There were also keynote speeches on ‘Celebrating Collaborations with Friends of Community Care’ and ‘Empowering the Community Care Sector for a Healthier SG’.
+
+![](/images/100-sectors-leaders.png)
 
 
 ### Community Care SPRINT Forum 2022
