@@ -4,7 +4,7 @@ permalink: /driving-purpose/caring-for-their-needs/
 description: ""
 ---
 # Caring for their needs
-**AIC expends every effort to care for seniors through initiatives such as Intergenerational Programmes, dedicated Activities for Frailer Seniors, Meals on Wheels, and new initiatives like the Communities of Care pilot. Access to mental health help for seniors is not forgotten, with more activities being held to increase public awareness and the addition of more dementia Go-To-Points (GTP), community nodes for dementia-related resources, in efforts to build a #DementiaFriendlySG.**
+**AIC expends every effort to care for seniors through initiatives such as intergenerational programmes, dedicated activities for frailer seniors, Meals on Wheels, and new initiatives like the Communities of Care pilot. Access to mental health help for seniors is not forgotten, with more activities being held to increase public awareness and the addition of more dementia Go-To-Points (GTP), community nodes for dementia-related resources, in efforts to build a #DementiaFriendlySG.**
 
 # Intergenerational programmes
 AIC actively collaborates with PCF Sparkletots and the Early Childhood Development Agency (ECDA) on meaningful activities that bring the young and old together. 
@@ -14,7 +14,7 @@ Through the AIC-PCF Intergenerational Programme and the national ‘Start Small,
 ![](/images/ayer%20rajah%20centre%20.png)
 *Children from Star Learners @ Jurong East and seniors from St Luke’s Eldercare (SLEC) Ayer Rajah Centre created beautiful flower crafts together through the national “Start Small, Dream Big” initiative. Photo Credit: Preschool Market*
 
-Over the years, AIC’s intergenerational programmes saw an increase in the number of collaborations with our supportive partners. There was increased engagements with Community Care Organisations (CCOs) through activities between pre-schoolers and seniors. 
+Over the years, AIC’s intergenerational programmes saw an increase in the number of collaborations with our supportive partners. There were increased engagements with organisations in the Community Care sector through activities between pre-schoolers and seniors. 
 
 Compared to 2021, the number of engagements for both the AIC-PCF and SSDB initiatives have increased in 2022.
 
