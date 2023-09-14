@@ -5,7 +5,7 @@ description: ""
 ---
 # Supporting care delivery
 
-**Our people and systems deliver quality care to communities all around Singapore. As such, AIC continuously strives to incorporate better methods and strategies to improve our initiatives, workflows, and processes to meet the care our population needs. Through constant development, we are strengthening Singapore’s capabilities to create vibrant engagements with seniors through our network of Community Care Organisations.**
+**Our people and systems deliver quality care to communities all around Singapore. As such, AIC continuously strives to incorporate better methods and strategies to improve our initiatives, workflows, and processes to meet the care our population needs. Through constant development, we are strengthening Singapore’s capabilities to create vibrant engagements with seniors through our network of Community Care Organisations (CCOs).**
 
 ## OurSG Grants Portal
 
@@ -23,10 +23,8 @@ CareConnect is a secure, digital platform to engage Active Ageing Centre (AAC) p
 
 ![](/images/care-connect4.png) 
 
-In 2022, all AACs started using CareConnect to submit their Progress Reports to AIC. Resources and past webinar records can also be found via the platform for easy retrieval.
-
 ## Good Practices Handbooks
-AIC developed the Good Practices Handbooks (GPHs) with inputs from workgroups representing the Community Care sector and an advisory panel comprising members from the Ministry of Health (MOH) and the community. GPHs articulate realistic and achievable day-to-day practices of quality care, above and beyond Service Requirements.
+AIC developed the Good Practices Handbooks (GPHs) with inputs from workgroups representing the Community Care sector and an advisory panel comprising members from the Ministry of Health (MOH) and the community. GPHs articulate realistic and achievable day-to-day practices of quality care, above and beyond service requirements.
 
 ![](/images/good-practices-handbooks.png)
 
@@ -34,7 +32,7 @@ Service providers are encouraged to work towards adopting the good practices adv
 
 
 ![](/images/sprint1.png)
-*Partners with their copies of GPHs at the SPRINT forum in Oct 2022*
+*Copies of GPHs were distributed to attendees of the SPRINT forum in Oct 2022*
 ## New activity resources
 In 2022, we launched our first art therapy infused activity toolkit, Heartful Conversations, to facilitate paired activities and foster meaningful conversations between seniors and their caregivers.
 
