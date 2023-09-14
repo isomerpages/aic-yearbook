@@ -28,25 +28,24 @@ sections:
       image: /images/supporting-healthier-sg.png
   - infopic:
       title: Driving Purpose
-      description: Our commitment to meeting the changing needs of seniors and
-        connecting them to the care and support they need to live well and age
-        gracefully.
+      description: Our commitment to meet the changing needs of seniors, and enabling
+        them to live well and age gracefully.
       button: Read More
       url: /driving-purpose/caring-for-our-seniors/
       alt: touching lives
       image: /images/driving-purpose.png
   - infopic:
       title: Amplifying Care
-      description: Our sustained partnerships with Community Care Organisations to
-        support and develop the sector as it grows.
+      description: Our sustained collaborations with our partners to support and
+        develop the Community Care sector as it grows.
       button: Read More
       alt: amplifying care
       image: /images/amplifying-care.png
       url: /amplifying-care/supporting-care-delivery/
   - infopic:
       title: "Building Trust as a #OneAICFamily"
-      description: Our purpose in working for the community and the care for our
-        people and those we serve.
+      description: Our purpose in working for the community, and caring for our people
+        and those we serve.
       button: Read More
       url: /oneaicfamily/future-ready-aic/
       alt: building trust
