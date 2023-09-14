@@ -39,7 +39,7 @@ sections:
       title: Amplifying Care
       description: Our sustained partnerships with Community Care Organisations to
         support and develop the sector as it grows.
-      button: Button Text
+      button: Read More
       alt: amplifying care
       image: /images/amplifying-care.png
       url: /amplifying-care/supporting-care-delivery/
