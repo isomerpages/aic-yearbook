@@ -3,6 +3,6 @@ title: Our Past Yearbooks
 permalink: /our-past-yearbooks/
 description: ""
 ---
-# [2021](https://www.aic-yearbook.sg)
+# [2021](https://www.aic.sg/about-us/yearbooks)
 
-# [2020](https://www.aic-yearbook.sg/FY19-20)
+# [2020](https://www.aic.sg/about-us/yearbooks)
