@@ -11,7 +11,7 @@ To support our efforts in providing clearer focus on integration, innovation, an
 
 ![](/images/vision-future-ready-workforce.png)
 
-To inculcate a future-ready mindset for transformation and facilitate stronger collaborations throughout AIC, we have implemented various initiatives such as 'Walk in Your Shoes', meant for staff to understand how various parts of the organisation work. Learning Journeys such as our annual 'Innovation & Learning Fiesta' also help us learn from other organisations about their transformation journey.
+To inculcate a future-ready mindset for transformation and facilitate stronger collaborations throughout AIC, we have implemented various initiatives such as our annual 'Innovation & Learning Fiesta' to help us learn from other organisations about their transformation journey.
 
 To build digital capabilities, we onboarded a suite of digital tools to accelerate the adoption of innovative technology. Our employees have adopted these digital solutions to improve work productivity and service delivery.
 
