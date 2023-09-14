@@ -24,9 +24,9 @@ In 2022, AIC organised many events with our Community Care partners to discuss s
 ## Communities of Care
 The pilot of AIC’s Communities of Care (CoC) programme was held from 2019 to 2023. Called ‘CoC 1.0’, it was developed to strengthen the construction of a place-based care ecosystem.
 
-![](/images/living-well-ageing-well-image4.png)
-
 Through the pilot, various care providers worked together to create service networks by location to best serve seniors within each community. Leveraging on each other’s strengths and resources enabled them to boost service delivery and gain valuable learnings from the experience.
+
+![](/images/living-well-ageing-well-image4.png)
 
 With learnings from CoC 1.0, AIC was equipped to develop a more structured approach for constructing a localised care ecosystem known as CoC 2.0. The Tote Board Community Health Fund also committed to supporting running CoC 2.0 for three years, from 2023 to 2026.
 
