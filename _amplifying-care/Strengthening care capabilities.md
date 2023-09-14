@@ -22,7 +22,7 @@ Partners benefitted from the in-depth panel discussions addressing ‘Collaborat
 
 
 ### Community Care SPRINT Forum 2022
-Organised by AIC, the four-day Community Care SPRINT Forum (CCSF) focuses on supporting the Community Care sector’s continued emphasis to further improve quality and productivity, digitalisation efforts, people development, and process innovation. 
+Organised by AIC, the four-day Community Care SPRINT Forum (CCSF) focused on supporting the Community Care sector’s continued emphasis to further improve quality and productivity, digitalisation efforts, people development, and process innovation. 
 
 With the theme ‘Reimagining the Future of Community Care with Healthier SG’, the programme line-up explored new ways of delivering quality care in an evolving ecosystem.  
  
@@ -35,7 +35,7 @@ Various relevant topics were shared at the forum, including Japan’s experience
 ### Community Care Excellence Awards
 ![](/images/community-care-excellence-awards-2.png)
 
-Winning Teams comprise community care heroes who are constantly thinking of ways to improve quality care in three broad categories:  
+Award winners comprise staff who are constantly thinking of ways to improve quality care in three broad categories:  
 * Clinical Quality   
 * Client Experience and  
 * Productivity Improvement
@@ -56,6 +56,8 @@ The Community Care Digital Transformation Plan (CCDTP) is a structured framework
 ![](/images/a-funding-of-16-million.png)
 
 ### Capability building initiatives for CCOs
+Since 2014, over 1,300 staff across over 200 Community Care facilities have been train through AIC Wellness Programme-related courses. 
+
 ![](/images/since-2014-over-1300.png)
 
 ![](/images/number-of-staff-2022.png)
@@ -63,7 +65,7 @@ The Community Care Digital Transformation Plan (CCDTP) is a structured framework
 ### Productivity and Digitalisation Grant
 ![](/images/streamlining-processes-adopting-technology.png)
 
-Community care providers with technology adoption projects that can improve productivity in quality care, such as through savings in manhours cost and more may tap on PDG, which is administered by AIC.
+Community Care providers with technology adoption projects that can improve productivity in quality care, such as through savings in manhours cost and more may tap on PDG, which is administered by AIC.
 
 ![](/images/500-projects.png)
 
@@ -76,7 +78,7 @@ Five participating nursing homes received reviews and recommended improvements t
 
 ![](/images/productivity-improvement.png)
 
-We are working with MOH on changes in care model and regulations, as well as to rethink the design of next-generation nursing homes. This is all with the goal of promoting greater process efficiency in the future.
+AIC is working with MOH on changes to care model and regulations, as well as to rethink the design of next-generation nursing homes. This is all with the goal of promoting greater process efficiency in the future.
 
 ## Enhancing cybersecurity
 ### Cybersecurity Awareness Programme
@@ -84,8 +86,8 @@ AIC has developed the Cybersecurity Skills and Competency Framework and supporte
 
 ![](/images/150-community-care.png)
 
-### Open Government Product (OGP) HealthTech Sprint
-AIC attended the OGP HealthTech Sprint in March 2023 to leverage on a couple of initiatives, such as OGP CheckFirst, FormSG, sgID, and forms.sg to streamline the following processes: 
+### Open Government Product HealthTech Sprint
+AIC staff attended the Open Government Product (OGP) HealthTech Sprint in March 2023 to leverage on a couple of initiatives, such as OGP CheckFirst, FormSG, sgID, and forms.sg to streamline the following processes: 
 
 * Senior Mobility Fund (SMF) Applications 
 * Caregiver Training Grant (CTG) Training Provider Applications and feedback management 
