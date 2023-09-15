@@ -74,7 +74,7 @@ The #DementiaFriendlySG movement rallies society at all levels – individuals, 
 Led by AIC and supported by 81 partners, the campaign’s key message was the importance of creating an inclusive society. It advocated ways for the public to become a ‘Dementia Friend’ to support people living with dementia in their communities.
 
 
-![](/images/caring-for-their-needs-image16.png)
+![](/images/caring-for-their-needs-image16b.png)
 
 Our ageing nation needs to build a caring and supportive environment for persons living with dementia to enable them to continue living a fulfilling life in the community.
 
