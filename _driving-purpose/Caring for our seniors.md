@@ -11,6 +11,8 @@ Since April 2022, SGO volunteers have engaged with thousands of Singapore’s se
 
 ![](/images/engaging-our-seniors.png)
 
+SGAs also continue to encourage seniors to receive their influenza and pneumococcal vaccinations. 
+
 ## Senior Engagement Application
 The Senior Engagement Application (SEA) is an online, senior-cum-volunteer management system developed by SGO. SGAs use the system when they conduct physical or virtual engagement sessions with seniors.
 
@@ -35,14 +37,14 @@ The campaign’s multi-touch amplification included displaying quotes from exist
 
 ![](/images/caring-for-seniors-image5.png)
 
-![](/images/caring-for-seniors-image6.png)
+![](/images/caring-for-seniors-image6b.png)
 
 
 
 SGO also worked with local Key Opinion Leaders (KOLs) like Belinda Lee, Chen Xi, Sujimy, Nurul Aini, and Guna, to further the campaign’s reach on social media. The KOLs contributed to the recruitment narrative by adding their own perspectives and documenting the journeys of real-life SGAs, from receiving training, to being qualified to engage with seniors.
    
 
-![](/images/caring-for-seniors-image7.png)
+![](/images/caring-for-seniors-image7b.png)
 
 ## Collaboration with NUS
 Given Singapore’s rapidly ageing population and increasingly diverse needs, SGO collaborated with the National University of Singapore (NUS) to lead a pilot module, ‘GEN2061: Support Healthy Ageing SG’. 
