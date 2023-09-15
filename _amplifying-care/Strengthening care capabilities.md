@@ -63,7 +63,7 @@ Since 2014, over 1,300 staff across over 200 Community Care facilities have been
 ![](/images/number-of-staff-2022.png)
 
 ### Productivity and Digitalisation Grant
-![](/images/streamlining-processes-adopting-technology.png)
+![](/images/streamlining-processes-adopting-technology1.png)
 
 Community Care providers with technology adoption projects that can improve productivity in quality care, such as through savings in manhours cost and more may tap on PDG, which is administered by AIC.
 
