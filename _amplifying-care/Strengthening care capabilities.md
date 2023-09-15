@@ -84,7 +84,7 @@ AIC is working with MOH on changes to care model and regulations, as well as to 
 ### Cybersecurity Awareness Programme
 AIC has developed the Cybersecurity Skills and Competency Framework and supported the launch of the Community Care Digital Transformation Plan. To raise cybersecurity awareness, three Cyber Webinars were organised for participants to gain more insights on social engineering, PDPA, and business continuity planning as part of AIC’s Cyber Week.
 
-![](/images/150-community-care.png)
+![](/images/150-community-care1.png)
 
 ### Open Government Product HealthTech Sprint
 AIC staff attended the Open Government Product (OGP) HealthTech Sprint in March 2023 to leverage on a couple of initiatives, such as OGP CheckFirst, FormSG, sgID, and forms.sg to streamline the following processes: 
