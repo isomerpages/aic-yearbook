@@ -26,7 +26,7 @@ The Seniors' Mobility and Enabling Fund (SMF) provides holistic support for seni
 
 ![](/images/providing-support-image4.png)
 
-![](/images/smf-3_.png)
+![](/images/smf-4_.png)
 
 ## Enhanced Home Caregiving Grant
 Introduced in 2019, the Home Caregiving Grant (HCG) is disbursed to eligible caregivers who are looking after their loved ones with permanent moderate disability. The payouts can be used to defray costs of caregiving expenses, such as the cost of caregiver support services in the community or hiring a foreign domestic worker.
