@@ -57,7 +57,7 @@ AIC has collaborated with ServiceSG and GovTech to create SupportGoWhere’s ‘
 
 Through SupportGoWhere’s latest online resource, AIC hpes to help caregivers access the latest information, plan ahead, and get suitable assistance.
 
-![](/images/providing-support-image11.png)
+![](/images/providing-support-image11b.png)
 
 In November 2022, the new SupportGoWhere Caregivers Service Journey webpage was launched. The one-stop, multilingual platform helps caregivers identify the most accurate service or scheme using a simple assessment tool, helping them to efficiently find the best service for their charges. The page also lists a wide range of services targeted at care recipients and the postal codes for all the services.
 
