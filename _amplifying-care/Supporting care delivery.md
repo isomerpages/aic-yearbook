@@ -41,7 +41,7 @@ In 2022, we launched our first art therapy infused activity toolkit, Heartful Co
 Containing simple instructions, the ready-to-use toolkit has activities that can be carried out using materials easily available at home.
 
 
-![](/images/heartfulconversations2.png)
+![](/images/heartfulconversations3.png)
 
 Keeping frailer seniors active is also important. To increase physical activity options in vernacular languages like Malay and Tamil, exercise videos providing seated and standing options were produced in collaboration with partners, Sport Singapore and Mediacorp.
 
