@@ -29,7 +29,7 @@ Physical, cognitive, and social activities bring well-being to everyone; however
 
 ![](/images/image5.png)
 
-![](/images/enhancing-activity-access.png)
+![](/images/enhancing-activity-access1.png)
 
 ## PCN-Mental Health
 Mental health is an essential part of one’s overall health and well-being. In line with Healthier SG, the shift towards population health aims to improve physical and mental health outcomes and reduce health inequalities across the entire population. 
