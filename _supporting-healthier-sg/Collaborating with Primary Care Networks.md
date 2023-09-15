@@ -15,4 +15,4 @@ To increase efficiencies, AIC360 Touchpoints coordinates service delivery vi
 
 ![](/images/collaborating-pcn-image2.png)
 
-![](/images/collaborating-pcn-image3.png)
+![](/images/collaborating-pcn-image3b.png)
