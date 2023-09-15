@@ -11,7 +11,7 @@ Caregiving can be a long and demanding journey. Many caregivers put their loved 
 
 Short term, temporary care options, otherwise known as respite care options, provide caregivers with additional assistance in their responsibilities. Different respite care providers offer support for seniors with varying levels of needs.
 
-![](/images/providing-support-image1.png)
+![](/images/providing-support-image1b.png)
 
 AIC piloted a night respite option, which aim to provide caregivers of persons living with dementia with Sundowning behaviour the opportunity to take time off from night-time caregiving duties. Sundowning is a symptom of dementia and refers to a state of confusion, restlessness or agitation that typically occurs between late afternoon and evening, at times into the night. This service is designed to help persons living with dementia with their daily activities and provide meaningful engagement. The pilot concluded mid-2023 and the service is under review.
 
