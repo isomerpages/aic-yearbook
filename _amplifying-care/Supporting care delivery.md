@@ -36,7 +36,7 @@ Service providers are encouraged to work towards adopting the good practices adv
 ## New activity resources
 In 2022, we launched our first art therapy infused activity toolkit, Heartful Conversations, to facilitate paired activities and foster meaningful conversations between seniors and their caregivers.
 
-[The toolkit](**[https://www.aic.sg/care-services/Documents/Wellness/Heartful%20Conversations\_print.pdf](https://www.aic.sg/care-services/Documents/Wellness/Heartful%20Conversations_print.pdf)**) was developed by art therapists. It features 10 activities that provide opportunities for creative art-making with seniors, including persons living with dementia, to cultivate purposeful engagement and strengthen bonds.
+[The toolkit](https://www.aic.sg/care-services/Documents/Wellness/Heartful%20Conversations\_print.pdf) was developed by art therapists. It features 10 activities that provide opportunities for creative art-making with seniors, including persons living with dementia, to cultivate purposeful engagement and strengthen bonds.
 
 Containing simple instructions, the ready-to-use toolkit has activities that can be carried out using materials easily available at home.
 
