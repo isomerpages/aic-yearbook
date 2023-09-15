@@ -31,7 +31,7 @@ More courses will be progressively added to meet the emerging needs of the Commu
 
 Since the launch of the Community Care Learning Management System (CCLMS) to encourage self-directed e-learning, we have streamlined and improved the user experience to meet the needs of sector workforce through annual system enhancements. New enhancements will be rolled out to improve user management functionality and governance in alignment to SkillsFuture Singapore’s Continuing Education and Training Grants Governance Framework.
 
-![](/images/building-skills-and-strategies_12.png)
+![](/images/building-skills-and-strategies_13.png)
 
 There was also a significant take-up for the Community Care Skills Standards Framework for support care staff, with two-thirds of the sector reporting having adopted the framework. This framework was also used to develop the competencies for the Community Care Associate job roles as part of the sector’s Job Redesign.
     
@@ -69,7 +69,7 @@ These initiatives align with AIC’s strategic objectives of securing a producti
 
 AIC maintains a dedicated page that is accessible by the public to help drive outreach – check it out [here](http://www.aic.sg/commcarejobs).
 
-![](/images/koh-kah-wei2.png)
+![](/images/koh-kah-wei3.png)
 
 ## Community Care Manpower Development Award
 The Community Care Manpower Development Award (CCMDA) recognises staff in the Community Care sector, providing them with training, support, and opportunities to develop and upgrade themselves professionally. 
