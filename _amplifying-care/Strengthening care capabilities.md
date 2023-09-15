@@ -67,7 +67,7 @@ Since 2014, over 1,300 staff across over 200 Community Care facilities have been
 
 Community Care providers with technology adoption projects that can improve productivity in quality care, such as through savings in manhours cost and more may tap on PDG, which is administered by AIC.
 
-![](/images/500-projects.png)
+![](/images/500-projects1.png)
 
 ![](/images/chef-partnership-programme.png)
 
