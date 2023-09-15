@@ -9,7 +9,7 @@ description: ""
 ## Engaging our seniors
 Since April 2022, SGO volunteers have engaged with thousands of Singapore’s seniors through their Preventive Health Visits (PHV) programme. The volunteers, known as Silver Generation Ambassadors (SGAs), have been making rounds and visiting seniors in their homes, encouraging them to get their routine vaccinations and helping them enrol for Healthier SG.
 
-![](/images/engaging-our-seniors.png)
+![](/images/engaging-our-seniors1.png)
 
 SGAs also continue to encourage seniors to receive their influenza and pneumococcal vaccinations. 
 
