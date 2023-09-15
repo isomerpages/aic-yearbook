@@ -6,7 +6,7 @@ description: ""
 # People development
 **As an organisation, AIC has grown from strength to strength, gradually expanding our capabilities and functions to deliver quality care services and positively impact communities. To support AIC’s growth, we are investing in our people through initiatives to support their personal and career growth in their journey with us.**
 
-![](/images/pd1pd12.png)
+![](/images/pd1pd13.png)
 
 ![](/images/pd2pd22.png)
 
@@ -16,7 +16,7 @@ At AIC, we see endless possibilities in our people. We enable our people to take
 With this belief, we continued to up the ante in our career development efforts by introducing My CAREer@AIC in 2022. The career microsite serves as a one-stop platform for employees to browse information on AIC’s career development framework, explore career paths, check out career opportunities, and get inspired by fellow colleagues’ stories that share their journeys with AIC.  
 
 ![](/images/catherine1.png)
-![](/images/catherine4.png) 
+![](/images/catherine5.png) 
 
 ![](/images/yun-ru1.png)
 
@@ -37,7 +37,7 @@ Themed 'Future Ready Workforce, Future Ready AIC', the programme highlights comp
 
 The week-long fiesta proved to be an educational experience for AIC's staff and guests, offering everyone valuable learnings which they could glean from and then apply in their work.
 
-![](/images/keynote-speaker-ng-cher-pong.png)
+![](/images/keynote-speaker-ng-cher-pong1.png)
 
 ## #AICanvas employee onboarding programme
 As we emerged from the pandemic in 2022, we saw the opportunity to reimagine our employee onboarding programme as we pivot to new ways of working, learning, and bonding.
