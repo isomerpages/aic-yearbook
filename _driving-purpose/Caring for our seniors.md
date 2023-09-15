@@ -20,7 +20,7 @@ In 2022, SEA facilitated the successful onboarding of over 1,500 SGAs. The SEA s
 
 With SEA, SGO is also able to identify the number of hours SGAs have dedicated in supporting our seniors at a glance. In recognition of their contribution, close to 500 SGAs received the Service Award.
 
-![](/images/senior-engagement-appreciation.png)
+![](/images/senior-engagement-appreciation1.png)
 
 SEA is constantly being improved and refined, with more modules to improve engagement, planning, and volunteer deployment added. SGAs can choose to connect with seniors in-person or virtually via the system’s Tele-Engagement option. Following the engagement, seniors are then referred and connected to relevant community partners to support their needs. 
 
