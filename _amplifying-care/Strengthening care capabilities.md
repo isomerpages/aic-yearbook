@@ -76,7 +76,7 @@ The Smart Workflow Infrastructure and Technology (SWIfT) aims to improve efficie
 
 Five participating nursing homes received reviews and recommended improvements to their layouts and workflows. They were also given suggestions on suitable technological solutions that could be incorporated to improve productivity.
 
-![](/images/productivity-improvement.png)
+![](/images/productivity-improvement1.png)
 
 AIC is working with MOH on changes to care model and regulations, as well as to rethink the design of next-generation nursing homes. This is all with the goal of promoting greater process efficiency in the future.
 
