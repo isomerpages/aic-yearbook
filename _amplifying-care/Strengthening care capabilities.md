@@ -18,7 +18,7 @@ The 7th edition of CCWPS, themed ‘Co-creating a Healthier SG’, was held at P
 
 Partners benefitted from the in-depth panel discussions addressing ‘Collaborating with Healthcare Clusters for a Stronger Community Care’ and took part actively in the Question-and-Answer sessions. There were also keynote speeches on ‘Celebrating Collaborations with Friends of Community Care’ and ‘Empowering the Community Care Sector for a Healthier SG’.
 
-![](/images/100-sectors-leaders.png)
+![](/images/100-sectors-leaders1.png)
 
 
 ### Community Care SPRINT Forum 2022
@@ -44,7 +44,7 @@ Award winners comprise staff who are constantly thinking of ways to improve qual
 
 ![](/images/mr-james-ganesan.png)
 
-![](/images/dover-park-hospice2.png)
+![](/images/dover-park-hospice4.png)
 
 ## Enhancing productivity
 ### Community Care Digital Transformation Plan
@@ -53,7 +53,7 @@ The Community Care Digital Transformation Plan (CCDTP) is a structured framework
 ![](/images/ccwps-r1-tkc.png) 
  *Mr Tan Kwang Cheak, CEO of AIC, following the exercise conducted by Dexie, a social robot dedicated for aged and dementia care, at the launch of CCDTP at CCWPS 2022.*
 					
-![](/images/a-funding-of-16-million.png)
+![](/images/a-funding-of-16-million1.png)
 
 ### Capability building initiatives for CCOs
 Since 2014, over 1,300 staff across over 200 Community Care facilities have been train through AIC Wellness Programme-related courses. 
