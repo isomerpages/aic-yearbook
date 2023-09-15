@@ -58,7 +58,7 @@ The Community Care Digital Transformation Plan (CCDTP) is a structured framework
 ### Capability building initiatives for CCOs
 Since 2014, over 1,300 staff across over 200 Community Care facilities have been train through AIC Wellness Programme-related courses. 
 
-![](/images/since-2014-over-1300.png)
+![](/images/since-2014-over-13000.png)
 
 ![](/images/number-of-staff-2022.png)
 
