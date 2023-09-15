@@ -65,7 +65,7 @@ AIC has implemented a suite of employment facilitation initiatives for the Commu
 
 These initiatives align with AIC’s strategic objectives of securing a productive, skilled workforce with a solid local core. These initiatives have also facilitated the Manpower Recruitment and Training Initiative (MRTI), Senior Management Associate Scheme (SMAS), and ongoing recruitment and publicity efforts.
 
-![](/images/1300-locals-60-pmets1.png)
+![](/images/1300-locals-60-pmets2.png)
 
 AIC maintains a dedicated page that is accessible by the public to help drive outreach – check it out [here](http://www.aic.sg/commcarejobs).
 
