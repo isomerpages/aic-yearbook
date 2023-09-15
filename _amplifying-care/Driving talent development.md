@@ -23,7 +23,7 @@ In January 2023, AIConnect@Workplace celebrated its first birthday at an event t
 ### AIC Learning Network
 With Community Care partners committed to continually developing their people, more than 14,100 training places were filled. This is equivalent to about 7 in 10 of the sector’s manpower attending training offered by the AIC Learning Network.
 
-![](/images/the-aic-learning-network2.png)
+![](/images/the-aic-learning-network3.png)
 
 More courses will be progressively added to meet the emerging needs of the Community Care sector. 
 
