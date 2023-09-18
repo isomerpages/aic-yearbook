@@ -35,7 +35,7 @@ From September to November 2022, a Recruitment Campaign was rolled out to streng
 
 The campaign’s multi-touch amplification included displaying quotes from existing SGAs on Digital Display Panels at Housing Development Board (HDB) estates, television screens at food courts and coffee shops, and across social media platforms such as SGO’s Facebook and YouTube channels.
 
-![](/images/caring-for-seniors-image5.png)
+![](/images/caring-for-seniors-image5b.png)
 
 ![](/images/caring-for-seniors-image6b.png)
 
