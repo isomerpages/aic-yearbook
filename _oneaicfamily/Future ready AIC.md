@@ -9,7 +9,13 @@ description: ""
 ## Transforming the way we work
 To support our efforts in providing clearer focus on integration, innovation, and alignment across AIC, a new team was set up in July 2022. They take the lead by to synthesis internal culture and engagement initiatives driving business, workforce, and organisation transformation.
 
-![](/images/vision-future-ready-workforce.png)
+![](/images/vision-future-ready-workforce1.png)
+
+At AIC, we constantly review and transform how we work through our people, processes, and systems. To create a future-ready AIC, we have established the AIC Transformation Framework to drive business, workforce, and organisation transformation by:
+
+* Nurturing a 'future-ready' mindset among employees
+* Building digital capabilities to streamline processes to improve productivity and service delivery
+* Empowering employees to improve their work through competency upskilling and work re-designing
 
 To inculcate a future-ready mindset for transformation and facilitate stronger collaborations throughout AIC, we have implemented various initiatives such as our annual 'Innovation & Learning Fiesta' to help us learn from other organisations about their transformation journey.
 
