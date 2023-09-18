@@ -44,7 +44,7 @@ Award winners comprise staff who are constantly thinking of ways to improve qual
 
 ![](/images/mr-james-ganesan.png)
 
-![](/images/dover-park-hospice4.png)
+![](/images/dover-park-hospice5.png)
 
 ## Enhancing productivity
 ### Community Care Digital Transformation Plan
