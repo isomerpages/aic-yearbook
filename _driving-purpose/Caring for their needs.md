@@ -100,7 +100,7 @@ AIC is the national office that works closely with healthcare providers and comm
 ![](/images/advance-care-planning.png)
 ![](/images/advance-care-planning1.png)
 
-[Simple Steps For ACP | Agency For Integrated Healthcare (aic.sg)](https://www.aic.sg/care-services/simple-steps-for-acp)
+View: [Simple Steps For ACP](https://www.aic.sg/care-services/simple-steps-for-acp)
 
 AIC and our community providers are also working to enhance public awareness of ACP through outreach to younger Singaporeans via online resources on social media platforms. Educating this demographic, who may be caregivers, may also help to convince their older parents to do an ACP as well. With Tele-ACP being rolled out during the COVID-19 onset, it has also made it more convenient and accessible for Singaporeans to do their ACP.
 
