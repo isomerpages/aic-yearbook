@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: AIC Yearbook 2022
-description: An Isomer site of the Singapore Government
+description: AIC Yearbook 2022
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
