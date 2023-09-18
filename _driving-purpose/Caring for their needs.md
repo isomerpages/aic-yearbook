@@ -62,7 +62,7 @@ The collaboration also engaged a local media company, TheSmartLocal. Under this 
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/LLfn3rgcS0c?si=lGEPIQkQ2uppEuJ2" height="315" width="560"></iframe>
 
-![](/images/caring-for-their-needs-image13c.png)
+![](/images/caring-for-their-needs-image13b.png)
 
 ## #DementiaFriendlySG movement
 In November 2022, AIC officially launched an inaugural campaign to spearhead Singapore’s movement to build a more dementia-friendly nation. The social movement was part of the Dementia-Friendly Singapore (DFSG) initiative, first announced in 2016 by the MOH to address the growing prevalence of dementia in Singapore.
