@@ -1,32 +1,53 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: AIC Yearbook 2022
+description: AIC Yearbook 2022
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: Powering the Heart of Care
+      subtitle: AIC Yearbook FY2022
+      background: /images/banner 2.png
+  - infopic:
+      title: Views from the Top
+      description: Our Chairman and CEO share their thoughts on the year passed and
+        our way forward.
+      button: Read More
+      url: /views-from-the-top
+      alt: picture of ceo and chairman
+      image: /images/views-from-the-top-1.png
+  - infopic:
+      title: Supporting Healthier SG
+      description: Our mandate in the national initiative, focusing on preventive
+        health and proactive self-management to encourage healthier lifestyles.
+      button: Read More
+      url: /supporting-healthier-sg/supporting-seniors/
+      alt: towards healthier sg
+      image: /images/supporting-healthier-sg.png
+  - infopic:
+      title: Driving Purpose
+      description: Our commitment to meet the changing needs of seniors, and enabling
+        them to live well and age gracefully.
+      button: Read More
+      url: /driving-purpose/caring-for-our-seniors/
+      alt: touching lives
+      image: /images/driving-purpose.png
+  - infopic:
+      title: Amplifying Care
+      description: Our sustained collaborations with our partners to support and
+        develop the Community Care sector as it grows.
+      button: Read More
+      alt: amplifying care
+      image: /images/amplifying-care.png
+      url: /amplifying-care/supporting-care-delivery/
+  - infopic:
+      title: "Building Trust as #OneAICFamily"
+      description: Our purpose in working for the community, and caring for our people
+        and those we serve.
+      button: Read More
+      url: /oneaicfamily/future-ready-aic/
+      alt: building trust
+      image: /images/building-trust.png
 ---
-

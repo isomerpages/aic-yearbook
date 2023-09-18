@@ -1,0 +1,6 @@
+collections:
+  our-leadership:
+    output: true
+    order:
+      - Board of Directors.md
+      - Senior Management.md
