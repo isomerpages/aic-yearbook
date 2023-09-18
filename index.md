@@ -43,7 +43,7 @@ sections:
       image: /images/amplifying-care.png
       url: /amplifying-care/supporting-care-delivery/
   - infopic:
-      title: "Building Trust as a #OneAICFamily"
+      title: "Building Trust as #OneAICFamily"
       description: Our purpose in working for the community, and caring for our people
         and those we serve.
       button: Read More
