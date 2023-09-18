@@ -75,6 +75,7 @@ Led by AIC and supported by 81 partners, the campaign’s key message was the im
 
 
 ![](/images/caring-for-their-needs-image16c.png)
+*Call to action from the #DementiaFriendlySG campaign*
 
 Our ageing nation needs to build a caring and supportive environment for persons living with dementia to enable them to continue living a fulfilling life in the community.
 
