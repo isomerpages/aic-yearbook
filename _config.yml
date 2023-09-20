@@ -1,4 +1,4 @@
-title: AIC Yearbook 2022
+title: AIC Yearbook FY2022
 url: https://www.open.gov.sg
 favicon: /images/aic-favicon.ico
 colors:
@@ -15,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: AIC Yearbook 2022
+description: AIC Yearbook FY2022
 permalink: none
 baseurl: ""
 exclude:
