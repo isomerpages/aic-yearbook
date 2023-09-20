@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: AIC Yearbook 2022
-description: AIC Yearbook 2022
-image: /images/isomer-logo.svg
+title: AIC Yearbook FY2022
+description: AIC Yearbook FY2022
+image: /images/aic-logo.png
 permalink: /
 notification: ""
 sections:
