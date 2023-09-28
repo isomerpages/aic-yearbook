@@ -27,6 +27,7 @@ description: ""
 ![](/images/communitee%20list_spilt_commnittee_7.png)
 
 ## Shared Procurement Programme Committee
+**1 April 2021 - 31 March 2024**
 ![](/images/communitee%20list_spilt_commnittee_8.png)
 
 ## Shared Procurement Programme Evaluation Panel
