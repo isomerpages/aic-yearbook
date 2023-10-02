@@ -19,10 +19,12 @@ description: ""
 ![](/images/communitee%20list_spilt(280923)_commnittee_4.png)
 
 ## National General Practitioners Advisory Panel (NGPAP)
-![](/images/communitee%20list_spilt(280923)_commnittee_5.png)
+
+![](/images/communitee%20list_spilt%20(021023)_commnittee_5.png)
 
 ## National InterRAI Steering Committee
-![](/images/communitee%20list_spilt(280923)_commnittee_6.png)
+![](/images/communitee%20list_spilt%20(021023)_commnittee_6.png)
+
 
 ## Primary Care Networks (PCN) Council
 ![](/images/communitee%20list_spilt(280923)_commnittee_7.png)
