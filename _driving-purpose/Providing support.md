@@ -24,7 +24,7 @@ The Seniors' Mobility and Enabling Fund (SMF) provides holistic support for seni
 
 ![](/images/providing-support-image3.png)
 
-![](/images/providing-support-image4b.png)
+![](/images/providing-support-image4c.png)
 
 ![](/images/smf-5_.png)
 
