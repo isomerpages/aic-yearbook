@@ -11,7 +11,7 @@ We have prepared onboarding resources for GPs and their teams, to equip them in 
 
 ![](/images/collaborating-pcn-image1.png)
 
-To increase efficiencies, AIC360 Touchpoints coordinates service delivery via a consolidated platform to reduce information asymmetry. It also gives Community Care partners access to a holistic client landscape.
+To increase efficiencies, AIC360 Touchpoints coordinates service delivery via a consolidated platform to reduce information asymmetry. It also gives those overseeing Community Care partners oversight of the holistic client landscape.
 
 ![](/images/collaborating-pcn-image2.png)
 
