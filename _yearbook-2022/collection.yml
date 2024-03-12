@@ -2,6 +2,7 @@ collections:
   yearbook-2022:
     output: true
     order:
+      - Supporting Healthier Sg/Preparing the Community Care Sector.md
       - Supporting Healthier Sg/Collaborating with Primary Care Networks.md
       - Supporting Healthier Sg/Supporting Seniors.md
       - Supporting Healthier Sg/.keep
