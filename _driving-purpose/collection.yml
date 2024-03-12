@@ -1,5 +1,4 @@
 collections:
   driving-purpose:
     output: true
-    order:
-      - Providing support.md
+    order: []
