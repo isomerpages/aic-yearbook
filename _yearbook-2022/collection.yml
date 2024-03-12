@@ -2,6 +2,7 @@ collections:
   yearbook-2022:
     output: true
     order:
+      - Amplifying Care/Strengthening care capabilities.md
       - Amplifying Care/.keep
       - Driving Purpose/Providing support.md
       - Driving Purpose/Caring for their needs.md
