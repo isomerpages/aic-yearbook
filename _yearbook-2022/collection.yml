@@ -1,4 +1,5 @@
 collections:
   yearbook-2022:
     output: true
-    order: []
+    order:
+      - Key Committees.md
