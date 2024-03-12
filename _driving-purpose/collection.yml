@@ -2,5 +2,4 @@ collections:
   driving-purpose:
     output: true
     order:
-      - Caring for their needs.md
       - Providing support.md
