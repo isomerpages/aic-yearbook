@@ -2,6 +2,7 @@ collections:
   yearbook-2022:
     output: true
     order:
+      - Oneaicfamily/Enhancing staff wellbeing.md
       - Oneaicfamily/Culture & engagement.md
       - Oneaicfamily/People development.md
       - Oneaicfamily/.keep
