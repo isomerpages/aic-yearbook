@@ -2,6 +2,5 @@ collections:
   driving-purpose:
     output: true
     order:
-      - Living well, ageing well.md
       - Caring for their needs.md
       - Providing support.md
