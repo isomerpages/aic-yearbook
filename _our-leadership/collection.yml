@@ -1,5 +1,4 @@
 collections:
   our-leadership:
     output: true
-    order:
-      - Senior Management.md
+    order: []
