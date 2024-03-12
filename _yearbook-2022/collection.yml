@@ -2,7 +2,6 @@ collections:
   yearbook-2022:
     output: true
     order:
-      - Views from the Top.md
       - AIC Yearbook FY2022.md
       - Supporting Healthier Sg/.keep
       - Supporting Healthier Sg/Supporting Seniors.md
