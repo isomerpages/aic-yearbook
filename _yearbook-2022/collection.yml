@@ -2,6 +2,7 @@ collections:
   yearbook-2022:
     output: true
     order:
+      - Amplifying Care/Driving talent development.md
       - Amplifying Care/Supporting care delivery.md
       - Amplifying Care/Strengthening care capabilities.md
       - Amplifying Care/.keep
