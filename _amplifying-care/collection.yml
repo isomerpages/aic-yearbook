@@ -1,5 +1,4 @@
 collections:
   amplifying-care:
     output: true
-    order:
-      - Building a future ready sector.md
+    order: []
