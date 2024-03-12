@@ -16,7 +16,7 @@ description: ""
 <p>Our Chairman and CEO share their thoughts on the year passed and our way
 forward.</p>
 <p></p>
-<p><strong><a href="https://www.aic-yearbook.sg/views-from-the-top" class="py-4 link-button remove-after is-flex flex-start is-vh-centered" rel="noopener noreferrer nofollow" target="_blank"><u>READ MORE</u></a></strong>
+<p><strong><a href="https://www.aic-yearbook.sg/2022/views-from-the-top" class="py-4 link-button remove-after is-flex flex-start is-vh-centered" rel="noopener noreferrer nofollow" target="_blank"><u>READ MORE</u></a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -55,7 +55,7 @@ to live well and age gracefully.</div>
 <p>Our purpose in working for the community, and caring for our people and
 those we serve.</p>
 <p></p>
-<p><a href="https://www.aic-yearbook.sg/views-from-the-top" rel="noopener noreferrer nofollow" target="_blank">READ MORE</a>
+<p><a href="https://www.aic-yearbook.sg/2022/oneaicfamily/future-ready-aic/" rel="noopener noreferrer nofollow" target="_blank">READ MORE</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
