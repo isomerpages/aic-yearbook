@@ -1,5 +1,4 @@
 collections:
   supporting-healthier-sg:
     output: true
-    order:
-      - Preparing the Community Care Sector.md
+    order: []
