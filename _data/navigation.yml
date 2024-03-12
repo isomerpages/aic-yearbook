@@ -1,6 +1,6 @@
 logo: /images/aic-logo.png
 links:
-  - title: Supporting Healthier SG
+  - title: Pillar 01
     url: /supporting-healthier-sg/supporting-seniors/
     sublinks:
       - title: Supporting seniors
@@ -9,7 +9,7 @@ links:
         url: /supporting-healthier-sg/collaborating-primary-care-networks/
       - title: Preparing the sector
         url: /supporting-healthier-sg/preparing-community-care-sector/
-  - title: Driving purpose
+  - title: Pillar 02
     url: /driving-purpose/caring-for-our-seniors/
     sublinks:
       - title: Caring for our seniors
@@ -20,7 +20,7 @@ links:
         url: /driving-purpose/caring-for-their-needs/
       - title: Providing support
         url: /driving-purpose/providing-support/
-  - title: Amplifying care
+  - title: Pillar 03
     url: /amplifying-care/strengthening-care-capabilities/
     sublinks:
       - title: Strengthening care capability
