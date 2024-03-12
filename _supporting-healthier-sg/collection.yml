@@ -2,5 +2,4 @@ collections:
   supporting-healthier-sg:
     output: true
     order:
-      - Collaborating with Primary Care Networks.md
       - Preparing the Community Care Sector.md
