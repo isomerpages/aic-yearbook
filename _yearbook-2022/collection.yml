@@ -2,6 +2,7 @@ collections:
   yearbook-2022:
     output: true
     order:
+      - Our Leadership/.keep
       - Key Committees.md
       - About Us/.keep
       - Oneaicfamily/Future ready AIC.md
