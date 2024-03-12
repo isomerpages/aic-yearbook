@@ -2,4 +2,5 @@ collections:
   yearbook-2022:
     output: true
     order:
+      - Supporting Seniors.md
       - Key Committees.md
