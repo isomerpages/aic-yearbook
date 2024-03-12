@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - AIC Yearbook FY2022.md
+      - Our Leadership/Senior Management.md
       - Our Leadership/Board of Directors.md
       - Our Leadership/.keep
       - About Us/Our Organisation.md
