@@ -2,6 +2,5 @@ collections:
   amplifying-care:
     output: true
     order:
-      - Supporting care delivery.md
       - Driving talent development.md
       - Building a future ready sector.md
