@@ -2,6 +2,7 @@ collections:
   yearbook-2022:
     output: true
     order:
+      - Driving Purpose/Living well, ageing well.md
       - Driving Purpose/Caring for our seniors.md
       - Driving Purpose/.keep
       - Supporting Healthier Sg/Preparing the Community Care Sector.md
