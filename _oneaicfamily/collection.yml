@@ -1,5 +1,4 @@
 collections:
   oneaicfamily:
     output: true
-    order:
-      - Future ready AIC.md
+    order: []
