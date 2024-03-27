@@ -1,7 +1,8 @@
 ---
 title: Views from the Top
-permalink: /views-from-the-top/
+permalink: /2022/views-from-the-top/
 description: ""
+variant: tiptap
 ---
 ![](/images/views-from-the-top.png)
 

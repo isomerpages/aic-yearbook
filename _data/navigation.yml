@@ -1,55 +1,35 @@
 logo: /images/aic-logo.png
 links:
-  - title: Supporting Healthier SG
-    url: /supporting-healthier-sg/supporting-seniors/
-    sublinks:
-      - title: Supporting seniors
-        url: /supporting-healthier-sg/supporting-seniors/
-      - title: Collaborating with PCNs
-        url: /supporting-healthier-sg/collaborating-primary-care-networks/
-      - title: Preparing the sector
-        url: /supporting-healthier-sg/preparing-community-care-sector/
-  - title: Driving purpose
+  - title: Pillar 01
+    url: /
+    sublinks: []
+  - title: Pillar 02
     url: /driving-purpose/caring-for-our-seniors/
-    sublinks:
-      - title: Caring for our seniors
-        url: /driving-purpose/caring-for-our-seniors/
-      - title: Living well, ageing well
-        url: /driving-purpose/living-well-ageing-well/
-      - title: Caring for their needs
-        url: /driving-purpose/caring-for-their-needs/
-      - title: Providing support
-        url: /driving-purpose/providing-support/
-  - title: Amplifying care
+    sublinks: []
+  - title: Pillar 03
     url: /amplifying-care/strengthening-care-capabilities/
-    sublinks:
-      - title: Strengthening care capability
-        url: /amplifying-care/strengthening-care-capabilities/
-      - title: Supporting care delivery
-        url: /amplifying-care/supporting-care-delivery/
-      - title: Driving talent development
-        url: /amplifying-care/driving-talent-development/
-      - title: Building a future-ready sector
-        url: /amplifying-care/building-a-future-ready-sector/
+    sublinks: []
   - title: Building trust as OneAICFamily
-    url: /oneaicfamily/people-development/
+    url: /2022/oneaicfamily/people-development/
     sublinks:
       - title: People development
-        url: /oneaicfamily/people-development/
+        url: /2022/oneaicfamily/people-development/
       - title: Culture & engagement
-        url: /oneaicfamily/culture-and-engagement/
+        url: /2022/oneaicfamily/culture-and-engagement/
       - title: Enhancing staff wellbeing
-        url: /oneaicfamily/enhancing-staff-wellbeing/
+        url: /2022/oneaicfamily/enhancing-staff-wellbeing/
       - title: Future-ready AIC
-        url: /oneaicfamily/future-ready-aic/
+        url: /2022/oneaicfamily/future-ready-aic/
   - title: About Us
     url: "#"
     sublinks:
       - title: Our organisation
-        url: /our-organisation/
+        url: /2022/our-organisation/
       - title: Our leadership
-        url: /board-of-directors/
+        url: /2022/board-of-directors/
       - title: Our key committees
-        url: /our-leadership/key-committees/
+        url: /2022/our-leadership/key-committees/
+      - title: Our past yearbook 2022
+        url: /yearbook-2022
       - title: Our past yearbooks
         url: https://www.aic.sg/about-us/yearbooks

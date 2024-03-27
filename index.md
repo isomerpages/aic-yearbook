@@ -1,14 +1,14 @@
 ---
 layout: homepage
-title: AIC Yearbook FY2022
-description: AIC Yearbook FY2022
+title: AIC Yearbook FY2023
+description: AIC Yearbook FY2023
 image: /images/aic-logo.png
 permalink: /
 notification: ""
 sections:
   - hero:
-      title: Powering the Heart of Care
-      subtitle: AIC Yearbook FY2022
+      title: WIP Headline
+      subtitle: AIC Yearbook FY2023
       background: /images/banner 2.png
   - infopic:
       title: Views from the Top
